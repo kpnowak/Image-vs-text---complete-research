@@ -40,11 +40,10 @@ def compress_image(input_image_path, output_image_path, target_ratio=0.1):
     return end_time - start_time
 
 """
-Easily change the number of the document and number of the page to change one page of chosen document into lower resolution.
+Easily change the number of the document to change it into lower resolution.
 """
-doc = 3
-page = 3
+doc_number = 3
 
-input_image_path = f'documents_jpg_high_resolution\\document_{doc}page_{page}.jpg'
-output_image_path = f'documents_jpg_low_resolution\\document_{doc}page_{page}.jpg'
+input_image_path = f'documents_jpg_high_resolution\\document_{doc_number}.jpg'
+output_image_path = f'documents_jpg_low_resolution\\document_{doc_number}.jpg'
 print("Time needed to convert pdf into jpg: " + str(compress_image(input_image_path, output_image_path, target_ratio=0.1)) + " seconds")
