@@ -1,7 +1,11 @@
 from PIL import Image
+import time
 import os
 
 def compress_image(input_image_path, output_image_path, target_ratio=0.1):
+    # Start the timer to measure CPU processing time
+    start_time = time.process_time()
+    
     # Open the image file
     with Image.open(input_image_path) as img:
         # Get the original file size
@@ -29,7 +33,13 @@ def compress_image(input_image_path, output_image_path, target_ratio=0.1):
         
         print(f"Final compressed size: {compressed_size / 1024:.2f} KB with quality {quality}")
 
-# Example usage
+    # Stop the timer
+    end_time = time.process_time()
+    
+    # Calculate the elapsed CPU time
+    return end_time - start_time
+
+
 input_image_path = 'path/to/your/input/image.jpg'
 output_image_path = 'path/to/save/compressed/image.jpg'
-compress_image(input_image_path, output_image_path, target_ratio=0.1)
+print("Time needed to convert pdf into jpg: " + str(compress_image(input_image_path, output_image_path, target_ratio=0.1)) + " seconds")
