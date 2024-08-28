@@ -39,7 +39,12 @@ def compress_image(input_image_path, output_image_path, target_ratio=0.1):
     # Calculate the elapsed CPU time
     return end_time - start_time
 
+"""
+Easily change the number of the document and number of the page to change one page of chosen document into lower resolution.
+"""
+doc = 3
+page = 3
 
-input_image_path = 'path/to/your/input/image.jpg'
-output_image_path = 'path/to/save/compressed/image.jpg'
+input_image_path = f'documents_jpg_high_resolution\\document_{doc}page_{page}.jpg'
+output_image_path = f'documents_jpg_low_resolution\\document_{doc}page_{page}.jpg'
 print("Time needed to convert pdf into jpg: " + str(compress_image(input_image_path, output_image_path, target_ratio=0.1)) + " seconds")

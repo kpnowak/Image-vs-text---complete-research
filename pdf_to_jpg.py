@@ -27,7 +27,7 @@ To change the document that you want to convert from PDF to JPG, simply change '
 """
 n = 1
 pdf_path = f'documents_pdf\\document_{n}.pdf'
-output_folder = r'documents_jpg'
+output_folder = r'documents_jpg_high_resolution'
 
 # Ensure the output folder exists
 os.makedirs(output_folder, exist_ok=True)
