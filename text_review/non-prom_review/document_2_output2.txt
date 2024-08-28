@@ -1,0 +1,251 @@
+1. **Guideline source which influenced your response:**
+   Source - EFPIA Chapter 3, Article 16 - Lifelong Learning in Healthcare
+
+   **The source sentence your new sentence replaces:**
+   Reduction in LDL-C²
+
+   **The deviations your new sentence corrects:**
+   - The sentence "Reduction in LDL-C²" lacks clarity and context, and appears promotional in nature.
+   - According to EFPIA Chapter 3, Article 16: "LLH activities must have content that is fair, balanced and objective..."
+
+   **Your new sentence:**
+   "CholeCap has been shown to decrease levels of low-density lipoprotein cholesterol (LDL-C) in clinical studies², which is a relevant factor in the treatment of familial hypercholesterolaemia in teenagers."
+
+   **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+   The new sentence provides context about LDL-C and ties it to clinical studies, ensuring the information remains educational and non-promotional. It aligns with guidelines to present fair, balanced, and objective content.
+
+2. **Guideline source which influenced your response:**
+   Source - EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility 
+
+   **The source sentence your new sentence replaces:**
+   CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.¹
+
+   **The deviations your new sentence corrects:**
+   - The sentence "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.¹" is overly promotional.
+   - According to EFPIA Chapter 3, Article 17: "Informational or Educational Materials must be fair, balanced, and objective."
+
+   **Your new sentence:**
+   "Studies have shown that CholeCap may reduce elevated total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, aged 10 to 17, with heterozygous familial hypercholesterolaemia.¹"
+
+   **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+   This revision ensures the statement is informative and balanced, thus aligning with the intention to educate rather than promote.
+
+3. **Guideline source which influenced your response:**
+   Source - EFPIA Chapter 4, Article 21 - Interactions with POs 
+
+   **The source sentence your new sentence replaces:**
+   CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain. Welcome to a brighter future for your patients.
+
+   **The deviations your new sentence corrects:**
+   - The sentence "Welcome to a brighter future for your patients" is promotional and not based on balanced scientific information.
+   - According to EFPIA Chapter 4, Article 21: "The objectives and scope of any collaboration must be transparent."
+
+   **Your new sentence:**
+   "Clinical studies indicate that CholeCap may help reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain."
+
+   **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+   This sentence is neutral, factual, and devoid of promotional language, complying with guidelines on transparency and objectivity.
+
+4. **Guideline source which influenced your response:**
+   Source - Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional
+
+   **The source sentence your new sentence replaces:**
+   Dolor sit amet
+
+   **The deviations your new sentence corrects:**
+   - "Dolor sit amet" is a placeholder text and not professional.
+   - According to Communicate With Care Pocket Guide, Article 2, it is essential to maintain a professional tone and provide context.
+
+   **Your new sentence:**
+   "[Placeholder for additional relevant clinical data or study results]"
+
+   **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+   Providing a placeholder for meaningful content maintains professionalism and clarity, ensuring the final material is complete and informative.
+
+5. **Guideline source which influenced your response:**
+   Source - EFPIA Chapter 3, Article 19 - Medical Samples 
+
+   **The source sentence your new sentence replaces:**
+   Patients should always ask their doctors for medical advice about adverse events.
+
+   **The deviations your new sentence corrects:**
+   - The sentence "Patients should always ask their doctors for medical advice about adverse events" is generic.
+   - According to EFPIA Chapter 3, Article 19, "Medical Samples must be provided for healthcare professionals to familiarise themselves with the Medicinal Product," not as a definitive advisement for patients.
+
+   **Your new sentence:**
+   "Patients are advised to speak to their doctors about any side effects they may experience."
+
+   **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+   This revised sentence is clearer and aligns with the guidance provided to ensure that patients consult healthcare professionals regarding adverse events.
+
+6. **Guideline source which influenced your response:**
+   Source - Disclaimer Texts for Non-promotional Material
+
+   **The source sentence your new sentence replaces:**
+   If you take CHOLECAP* (veevasstatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness.
+
+   **The deviations your new sentence corrects:**
+   - The sentence could benefit from a disclaimer about medical advice based on the source.
+   - According to Disclaimer Texts for Non-promotional Material, "Please see patient information leaflet in the package for additional information."
+
+   **Your new sentence:**
+   "If you take CHOLECAP* (veevasstatin calcium) tablets, inform your doctor if you experience new muscle pain or weakness. Please see the patient information leaflet included in the package for more details."
+
+   **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+   Adding the reference to the patient information leaflet encourages patients to seek comprehensive medical guidance.
+
+7. **Guideline source which influenced your response:**
+   Source - Communicate With Care Pocket Guide, Article 1 - Be Mindful
+
+   **The source sentence your new sentence replaces:**
+   Welcome to a brighter future for your patients.
+
+   **The deviations your new sentence corrects:**
+   - The sentence is promotional and lacks appropriate scientific context.
+   - According to Communicate With Care Pocket Guide, Article 1, "Remember that written communications may become evidence in legal matters."
+
+   **Your new sentence:**
+   "Studies support the efficacy of CHOLECAP in managing familial hypercholesterolaemia in paediatric patients."
+
+   **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+   The new sentence communicates information objectively and factually, reducing risk of legal complications and ensuring a scientific focus.
+
+8. **Guideline source which influenced your response:**
+   Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication, Article 1 - Non-Promotional Material 
+
+   **The source sentence your new sentence replaces:**
+   Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests.
+
+   **The deviations your new sentence corrects:**
+   - The sentence does not reference the source of this information and could be perceived as promotional.
+   - According to Global Legal & Compliance Pocket Guide, "Provides scientific information about products in a balanced and objective way."
+
+   **Your new sentence:**
+   "Observed side effects in clinical studies include diarrhea, upset stomach, muscle and joint pain, and alterations in certain blood tests."
+
+   **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+   This revised text positions the side effects within the context of clinical studies, adhering to objective and balanced communication principles.
+
+9. **Guideline source which influenced your response:**
+   Source - EFPIA Chapter 4, Article 21 - Interactions with POs 
+
+   **The source sentence your new sentence replaces:**
+   Clinically proven efficacy and safety in paediatric patients²
+
+   **The deviations your new sentence corrects:**
+   - The original phrase is ambiguous and can be seen as promotional.
+   - According to EFPIA Chapter 4, Article 21, "Transparency in objective and scope of any collaboration must be maintained."
+
+   **Your new sentence:**
+   "Clinical trials have demonstrated efficacy and safety of CholeCap in paediatric patients with familial hypercholesterolaemia²."
+
+   **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+   This revised sentence clarifies the context in which efficacy and safety are proven, aligning better with the transparency requirement.
+
+10. **Guideline source which influenced your response:**
+    Source - Disclaimer Texts for Non-promotional Material
+
+    **The source sentence your new sentence replaces:**
+    Tell your doctor about all your medical conditions and all medications you take.
+
+    **The deviations your new sentence corrects:**
+    - The sentence does not indicate comprehensive advice needed for patients.
+    - According to Disclaimer Texts for Non-promotional Material: "This information is intended for diabetes patients who have been prescribed [insert NN medicinal product] and should not be substituted for medical advice from your doctor."
+
+    **Your new sentence:**
+    "Inform your doctor about all your medical conditions and medications you are currently taking. Please consult the patient information leaflet included in your medication package."
+
+    **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+    This revision provides additional guidance to refer to the patient leaflet, ensuring comprehensive awareness for patients.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+Here is a step-by-step review of the expert comments in accordance with the "Non-Promotional Material Guidelines":
+
+### Comment 1:
+- **Original source sentence:**
+  "Reduction in LDL-C²"
+- **The deviation from the guidelines originally provided by the expert reviewer:**
+  The sentence lacks clarity, context, and appears promotional, which violates the principle of being fair, balanced, and objective as required by EFPIA Chapter 3, Article 16.
+- **The expert reviewer's original suggested change:**
+  "CholeCap has been shown to decrease levels of low-density lipoprotein cholesterol (LDL-C) in clinical studies², which is a relevant factor in the treatment of familial hypercholesterolaemia in teenagers."
+- **An explanation for the reason behind your new suggested change:**
+  The expert's change has improved clarity and context. However, it still requires a bit more neutrality and should avoid implying direct therapeutic outcomes which could be considered promotional.
+- **Your new suggested sentence:**
+  "Clinical studies have indicated that CholeCap can decrease low-density lipoprotein cholesterol (LDL-C) levels², a factor relevant in the management of familial hypercholesterolaemia in teenagers."
+- **Deviations:**
+  According to EFPIA Chapter 3, Article 16, LLH activities must be fair, balanced, and objective.
+
+### Comment 3:
+- **Original source sentence:**
+  "CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain. Welcome to a brighter future for your patients."
+- **The deviation from the guidelines originally provided by the expert reviewer:**
+  The sentence is promotional, particularly the phrase "Welcome to a brighter future for your patients," which does not adhere to the principles of transparency and objectivity required by EFPIA Chapter 4, Article 21.
+- **The expert reviewer's original suggested change:**
+  "Clinical studies indicate that CholeCap may help reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain."
+- **An explanation for the reason behind your new suggested change:**
+  The expert's sentence improvement is better but could be enhanced further for strict neutrality by avoiding the word "help" which still carries a promotional tone.
+- **Your new suggested sentence:**
+  "Clinical studies indicate a potential reduction in the risk of heart attack, stroke, certain heart surgeries, and chest pain associated with CholeCap."
+- **Deviations:**
+  According to EFPIA Chapter 4, Article 21, interactions must be transparent and non-promotional.
+
+### Comment 4:
+- **Original source sentence:**
+  "Dolor sit amet"
+- **The deviation from the guidelines originally provided by the expert reviewer:**
+  The sentence is a placeholder text and lacks a professional tone, in direct contradiction to Communicate With Care Pocket Guide, Article 2.
+- **The expert reviewer's original suggested change:**
+  "[Placeholder for additional relevant clinical data or study results]"
+- **An explanation for the reason behind your new suggested change:**
+  The expert's placeholder does not focus enough on the professional tone.
+- **Your new suggested sentence:**
+  "[Insert specific relevant clinical data or study results here]"
+- **Deviations:**
+  According to Communicate With Care Pocket Guide, Article 2, tone must be professional, and content should be clear and complete.
+
+### Comment 7:
+- **Original source sentence:**
+  "Welcome to a brighter future for your patients."
+- **The deviation from the guidelines originally provided by the expert reviewer:**
+  The sentence is promotional and lacks appropriate scientific context, contrary to Communicate With Care Pocket Guide, Article 1.
+- **The expert reviewer's original suggested change:**
+  "Studies support the efficacy of CHOLECAP in managing familial hypercholesterolaemia in paediatric patients."
+- **An explanation for the reason behind your new suggested change:**
+  The expert's sentence needs to be more neutral and factual.
+- **Your new suggested sentence:**
+  "Research confirms that CHOLECAP is effective in managing familial hypercholesterolaemia in paediatric patients."
+- **Deviations:**
+  According to Communicate With Care Pocket Guide, Article 1, written communications should be objective and backed by evidence.
+
+### Comment 8:
+- **Original source sentence:**
+  "Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests."
+- **The deviation from the guidelines originally provided by the expert reviewer:**
+  Lack of references to clinical studies makes it less transparent and might be perceived as promotional. 
+- **The expert reviewer's original suggested change:**
+  "Observed side effects in clinical studies include diarrhea, upset stomach, muscle and joint pain, and alterations in certain blood tests."
+- **An explanation for the reason behind your new suggested change:**
+  Including the mention of 'clinical studies' is a good improvement but specifying 'observed' removes ambiguity further.
+- **Your new suggested sentence:**
+  "Clinical studies have reported side effects such as diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests."
+- **Deviations:**
+  According to Global Legal & Compliance Pocket Guide, scientific information should be presented in a balanced and objective way.
+
+### Comment 10:
+- **Original source sentence:**
+  "Tell your doctor about all your medical conditions and all medications you take."
+- **The deviation from the guidelines originally provided by the expert reviewer:**
+  The sentence is too generic and should refer patients to consult the patient information leaflet, according to the Disclaimer Texts for Non-promotional Material.
+- **The expert reviewer's original suggested change:**
+  "Inform your doctor about all your medical conditions and medications you are currently taking. Please consult the patient information leaflet included in your medication package."
+- **An explanation for the reason behind your new suggested change:**
+  The expert's suggestion is good but can be made concise while retaining all necessary information.
+- **Your new suggested sentence:**
+  "Inform your doctor about your complete medical history and current medications. For more details, refer to the patient information leaflet in your medication package."
+- **Deviations:**
+  According to Disclaimer Texts for Non-promotional Material, comprehensive advice for patients must be included.
+
+By making these changes, we ensure adherence to all guidelines and maintain the non-promotional nature of the material.

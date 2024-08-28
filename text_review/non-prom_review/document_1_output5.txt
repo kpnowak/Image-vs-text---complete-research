@@ -1,0 +1,128 @@
+Certainly! Here’s a meticulous review of the document, using the "Non-Promotional Material Guidelines" as a reference:
+
+### Original Document
+1. "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.1"
+2. "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you're doing right now!)—you'll be able to communicate with your doctor more openly about treatment."
+3. "Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion. Come to every appointment prepared to talk, ask questions and find solutions together."
+
+### Proposed Revisions
+**Sentence Replacement 1:**
+- **Guideline Source:** [Source - EFPIA Chapter 3: Article 17, i.b]
+- **Original Sentence:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.1"
+- **The Deviations:** This sentence does not clearly relate the process of changing treatment to patient care directly, as mentioned in the guidelines.
+- **New Sentence:** "If you have type 2 diabetes, it is common to reassess and modify your treatment plan to better align with your evolving health needs."
+- **Reason for Replacement:** This revision clearly connects the action of changing a treatment plan to patient care, as per guidelines.
+
+**Sentence Replacement 2:**
+- **Guideline Source:** [Source - EFPIA Chapter 3: Article 16, i]
+- **Original Sentence:** "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you're doing right now!)—you'll be able to communicate with your doctor more openly about treatment."
+- **The Deviations:** This sentence somewhat implies self-treatment through education alone and needs to better emphasize collaboration with trained healthcare professionals.
+- **New Sentence:** "It's important to feel empowered and ready to discuss your treatment with your doctor whenever a change could be beneficial. Although initiating these conversations can be challenging, keeping your treatment goals in mind and educating yourself about type 2 diabetes can help facilitate open communication with your medical expert."
+- **Reason for Replacement:** This revision emphasizes the role of healthcare professionals in managing diabetes while encouraging patient involvement.
+
+**Sentence Replacement 3:**
+- **Guideline Source:** [Source - Disclaimers: Article 3, General Disclaimers (vi)]
+- **Original Sentence:** "Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion. Come to every appointment prepared to talk, ask questions and find solutions together."
+- **The Deviations:** This needs a clear emphasis that any medical advice should come from a doctor, thus staying compliant with the guidelines.
+- **New Sentence:** "Your doctor is the medical expert; however, as someone living with type 2 diabetes, you know your own needs and preferences best. Always come to your appointments prepared to discuss your health concerns and find solutions together. Remember, medical advice should always be sourced from your doctor."
+- **Reason for Replacement:** This revision reinforces that while patient input is valuable, medical advice and changes should always be guided by a qualified healthcare professional as per non-promotional guidelines.
+
+### Further Sentences to Evaluate & Correct:
+4. "Goals: Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
+5. "Challenges: Discuss any difficulties you’ve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high. If relevant, you can also ask if there might be a better alternative that addresses these challenges."
+
+**Sentence Replacement 4:**
+- **Guideline Source:** [Source - Communicate With Care Pocket Guide: Article 2, Stick to Facts]
+- **Original Sentence:** "Goals: Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
+- **The Deviations:** The sentence is speculative and does not provide a clear directive to consult a physician.
+- **New Sentence:** "Goals: Share your specific goals such as improved blood sugar control or weight management with your doctor, and discuss if your current treatment plan is meeting these targets."
+- **Reason for Replacement:** This sentence provides factual information and encourages an evidence-based discussion with the healthcare provider.
+
+**Sentence Replacement 5:**
+- **Guideline Source:** [Source - EFPIA Chapter 3: Article 17, i.b]
+- **Original Sentence:** "Challenges: Discuss any difficulties you’ve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high. If relevant, you can also ask if there might be a better alternative that addresses these challenges."
+- **The Deviations:** The sentence does not clearly frame the challenges in a way that ensures the physician is the decision-maker.
+- **New Sentence:** "Challenges: Discuss any difficulties you’ve experienced with your current treatment with your doctor, such as side effects, your preferences regarding the form of medication (pill or injection), how well it fits into your lifestyle, or concerns about cost. Your doctor can help explore alternatives that might better address these challenges."
+- **Reason for Replacement:** This emphasizes that any changes or discussion about treatment will be directed by a medical professional.
+
+### Final Revisions:
+6. "Remember, this conversation is about working together with your doctor to find the best treatment option for you. By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health."
+7. "The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor."
+
+**Sentence Replacement 6:**
+- **Guideline Source:** [Source - Disclaimers: Article 3, General Disclaimers (vi)]
+- **Original Sentence:** "Remember, this conversation is about working together with your doctor to find the best treatment option for you. By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health."
+- **The Deviations:** It lacks a clear disclaimer about not substituting medical advice.
+- **New Sentence:** "Remember, this conversation is about working together with your doctor to find the best treatment option for you. By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that empowers you on your journey towards better health. Always seek advice directly from your medical professional."
+- **Reason for Replacement:** This correction ensures it’s clear that users should depend on their doctors for medical advice.
+
+**Sentence Replacement 7:**
+- **Guideline Source:** [Source - Disclaimers: Article 3, General Disclaimers (vi)]
+- **Original Sentence:** "The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor."
+- **The Deviations:** This sentence needs reformatting to better fit the general disclaimer format outlined in the guidelines.
+- **New Sentence:** "The information on this website is intended for educational purposes only and should not be substituted for medical advice from your doctor."
+- **Reason for Replacement:** This minor change corrects typographical issues, ensuring clarity, professionalism, and adherence to the guideline’s preferred disclaimer format.
+
+These revisions help ensure compliance with the "Non-Promotional Material Guidelines" and maintain the integrity and ethical standards required in medical communications.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+Certainly! Below is a detailed review based on the expert reviewer’s comments, ensuring adherence to the "Non-Promotional Material Guidelines":
+
+### Original Source Sentence 1:
+"When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.1"
+
+#### Deviation from Guidelines:
+- This sentence does not clearly relate the process of changing treatment to patient care directly, as mentioned in the guidelines.
+
+#### Expert Reviewer's Original Suggested Change:
+"If you have type 2 diabetes, it is common to reassess and modify your treatment plan to better align with your evolving health needs."
+
+#### Reason for New Suggested Change:
+- The expert’s suggestion needed rewording to emphasize patient care directly.
+
+#### New Suggested Sentence:
+"Living with type 2 diabetes often involves reassessing and updating your treatment plan to ensure it continues to meet your health needs."
+
+**Deviation Explanation:**
+- According to [Source - EFPIA Chapter 3: Article 17, i.b], the material must be directly beneficial to the care of patients. This new sentence clearly connects treatment adjustments to patient care directly.
+
+### Original Source Sentence 2:
+"It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you're doing right now!)—you'll be able to communicate with your doctor more openly about treatment."
+
+#### Deviation from Guidelines:
+- This sentence somewhat implies self-treatment through education alone and needs to better emphasize collaboration with trained healthcare professionals.
+
+#### Expert Reviewer's Original Suggested Change:
+"It's important to feel empowered and ready to discuss your treatment with your doctor whenever a change could be beneficial. Although initiating these conversations can be challenging, keeping your treatment goals in mind and educating yourself about type 2 diabetes can help facilitate open communication with your medical expert."
+
+#### Reason for New Suggested Change:
+- This revision should further underscore the necessity of consulting with healthcare professionals.
+
+#### New Suggested Sentence:
+"Feeling empowered and prepared to discuss potential treatment changes with your doctor is crucial. While starting these discussions can be challenging, staying informed about type 2 diabetes and keeping your treatment goals in mind can help you communicate more effectively with your healthcare provider."
+
+**Deviation Explanation:**
+- According to [Source - EFPIA Chapter 3: Article 16, i], interactions should enhance medical practice and patient outcomes through collaboration with healthcare professionals. The new sentence stresses this relationship more clearly.
+
+### Original Source Sentence 5:
+"Challenges: Discuss any difficulties you’ve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high. If relevant, you can also ask if there might be a better alternative that addresses these challenges."
+
+#### Deviation from Guidelines:
+- The sentence does not clearly frame the challenges in a way that ensures the physician is the decision-maker.
+
+#### Expert Reviewer's Original Suggested Change:
+"Challenges: Discuss any difficulties you’ve experienced with your current treatment with your doctor, such as side effects, your preferences regarding the form of medication (pill or injection), how well it fits into your lifestyle, or concerns about cost. Your doctor can help explore alternatives that might better address these challenges."
+
+#### Reason for New Suggested Change:
+- The emphasis needed reinforcing that a medical professional should direct treatment changes.
+
+#### New Suggested Sentence:
+"Challenges: Share any difficulties you’ve faced with your current treatment with your doctor, such as side effects, preferences for medication form (pill or injection), lifestyle compatibility, or cost concerns. Discussing these with your doctor can help identify better alternatives."
+
+**Deviation Explanation:**
+- According to [Source - EFPIA Chapter 3: Article 17, i.b], it's important to ensure that the information provided does not induce self-treatment but promotes patient-doctor collaboration. The revised sentence emphasizes the doctor’s role in making treatment adjustments.
+
+These updates ensure that the material remains compliant with the "Non-Promotional Material Guidelines" and maintains ethical standards in medical communications.

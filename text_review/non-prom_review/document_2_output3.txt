@@ -1,0 +1,165 @@
+### Review and Corrections
+
+#### Sentence 1:
+**Source Sentence**: The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia¹
+
+**Guideline Source**: EFPIA Chapter 3, Article 16.i
+**Deviations**: This sentence could imply promotion by highlighting the uniqueness of the product, which might not be fair and balanced.
+**New Sentence**: "CholeCap is indicated for treating familial hypercholesterolaemia in teenagers, as per regulatory approval.¹"
+**Reason**: This new sentence maintains accuracy while avoiding promotional language that can be interpreted as touting the product’s uniqueness. This change ensures fair and balanced representation.
+
+#### Sentence 2:
+**Source Sentence**: Clinically proven efficacy and safety in paediatric patients²
+
+**Guideline Source**: EFPIA Chapter 3, Article 16.i
+**Deviations**: This sentence lacks specificity and context, which could be construed as promotional rather than informational or educational.
+**New Sentence**: "CholeCap has demonstrated efficacy and safety in paediatric patients in clinical studies.²"
+**Reason**: The new sentence adds clarity by specifying the context (clinical studies), ensuring that it remains informational rather than promotional.
+
+#### Sentence 3:
+**Source Sentence**: CholeCap significantly reduces elevated total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.¹
+
+**Guideline Source**: EFPIA Chapter 3, Article 17.iv
+**Deviations**: Mention of "significantly reduces" could be interpreted as promotional. Also, this sentence needs to be explicit about being non-promotional.
+**New Sentence**: "Clinical studies have shown that CholeCap reduces elevated total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls aged 10 to 17 years with heterozygous familial hypercholesterolaemia.¹"
+**Reason**: The revised sentence avoids promotional language and is more aligned with the objective of presenting educational information.
+
+#### Sentence 4:
+**Source Sentence**: CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain. Welcome to a brighter future for your patients.
+
+**Guideline Source**: EFPIA Chapter 3, Article 18.i; Communicate With Care Pocket Guide, Article 2ii
+**Deviations**: The sentence may have promotional connotations and lacks the balanced, clear, and factual tone required for non-promotional material.
+**New Sentence**: "CholeCap has been studied for its potential to reduce the risk of heart attack, stroke, certain cardiac surgeries, and chest pain.²"
+**Reason**: This change ensures the information is factual and avoids promotional language, maintaining educational intent. 
+
+#### Sentence 5:
+**Source Sentence**: CHOLECAP* (veevasstatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP.
+
+**Guideline Source**: Disclaimer Texts for Non-promotional Material, Article 3
+**Deviations**: The language could be perceived as indirect promotion by raising safety concerns in a manner that could be seen as promoting the product’s selectiveness.
+**New Sentence**: "CholeCap (veevasstatin calcium) tablets are contraindicated for individuals with a history of allergic reaction to the medication."
+**Reason**: This revision stays informative while not implying that some may benefit more, thus keeping a neutral and non-promotional tone.
+
+#### Sentence 6:
+**Source Sentence**: It is not for those with liver problems. And it is not for women who are nursing, pregnant, or may become pregnant.
+
+**Guideline Source**: EFPIA Chapter 3, Article 17.iv
+**Deviations**: Needs to be factually correct without unnecessary repetition.
+**New Sentence**: "CholeCap should not be used by individuals with liver problems or by women who are nursing, pregnant, or may become pregnant.”
+**Reason**: Simplifies and clarifies the restrictions without promotional overtones.
+
+#### Sentence 7:
+**Source Sentence**: If you take CHOLECAP* (veevasstatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness. This could be a sign of rare but serious muscle side effects.
+
+**Guideline Source**: EFPIA Chapter 3, Article 17.i
+**Deviations**: Overemphasis on potential adverse events without a balanced view may induce bias.
+**New Sentence**: "Patients should inform their doctor if they experience new muscle pain or weakness while taking CholeCap, as this may indicate a rare but serious muscle side effect.”
+**Reason**: This revision is balanced, focuses on patient care, and avoids potential overemphasis.
+
+#### Sentence 8:
+**Source Sentence**: Tell your doctor about all your medical conditions and all medications you take. This may help avoid serious drug interactions.
+
+**Guideline Source**: Disclaimer Texts for Non-promotional Material, Article 3
+**Deviations**: The language can be more concise.
+**New Sentence**: "Inform your doctor about any medical conditions and medications to help avoid possible drug interactions."
+**Reason**: Concise language while retaining essential information.
+
+#### Sentence 9:
+**Source Sentence**: Your doctor should do blood tests to check your liver function before starting CHOLECAP and during your treatment if you have symptoms of liver problems.
+
+**Guideline Source**: EFPIA Chapter 3, Article 17.i
+**Deviations**: Needs to avoid imperative instructions.
+**New Sentence**: "Blood tests to assess liver function are recommended before starting CholeCap and during treatment if liver-related symptoms arise."
+**Reason**: The revision suggests actions as recommendations rather than directives, maintaining educational tone.
+
+#### Sentence 10: 
+**Source Sentence**: Tell your doctor if you have diabetes. Elevated blood sugar levels have been reported with statins, including CHOLECAP.
+
+**Guideline Source**: Disclaimer Texts for Non-promotional Material, Article 3; Communicate With Care Pocket Guide, Article 2iii
+**Deviations**: Can be more concise and factual.
+**New Sentence**: "Patients with diabetes should inform their doctor, as elevated blood sugar levels have been associated with statins, including CholeCap."
+**Reason**: This retains essential information while staying concise and factual.
+
+#### Sentence 11:
+**Source Sentence**: Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events.
+
+**Guideline Source**: Disclaimer Texts for Non-promotional Material, Article 3
+**Deviations**: Could be perceived as promotional by providing common side effects without balanced view.
+**New Sentence**: "Common side effects include diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests. For medical advice about adverse events, patients should consult their doctor."
+**Reason**: Balanced and clear notification while ensuring it is purely informational.
+
+By addressing these deviations, the material follows the guidelines for non-promotional content, focusing on clear, balanced, and factual information.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review and Corrections
+
+#### Sentence 1:
+**Original source sentence**: The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia¹
+
+**Deviation from the guidelines originally provided**: This sentence could imply promotion by highlighting the uniqueness of the product, which might not be fair and balanced. According to [Source - EFPIA Chapter 3, Article 16.i], content must be fair, balanced, and objective and should not constitute Promotion.
+
+**Expert reviewer's original suggested change**: "CholeCap is indicated for treating familial hypercholesterolaemia in teenagers, as per regulatory approval.¹"
+
+**Explanation for the reason behind the new suggested change**: The expert reviewer's change is good but could be further improved by eliminating any possible interpretation of promotion and emphasizing the educational aspect.
+
+**New suggested sentence**: "CholeCap is approved for treating familial hypercholesterolaemia in teenagers, according to regulatory guidelines.¹"
+
+---
+
+#### Sentence 3:
+**Original source sentence**: CholeCap significantly reduces elevated total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.¹
+
+**Deviation from the guidelines originally provided**: Mention of "significantly reduces" could be interpreted as promotional. Also, this sentence needs to be explicit about being non-promotional. According to [Source - EFPIA Chapter 3, Article 17.iv], Informational or Educational Materials must not be product branded unless essential and must not constitute an inducement.
+
+**Expert reviewer's original suggested change**: "Clinical studies have shown that CholeCap reduces elevated total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls aged 10 to 17 years with heterozygous familial hypercholesterolaemia.¹"
+
+**Explanation for the reason behind the new suggested change**: The expert review is good but can be enhanced by highlighting the source of the information.
+
+**New suggested sentence**: "According to clinical studies, CholeCap reduces elevated total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls aged 10 to 17 years with heterozygous familial hypercholesterolaemia.¹"
+
+---
+
+#### Sentence 4:
+**Original source sentence**: CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain. Welcome to a brighter future for your patients.
+
+**Deviation from the guidelines originally provided**: The sentence may have promotional connotations and lacks the balanced, clear, and factual tone required for non-promotional material. According to [Source - Communicate With Care Pocket Guide, Article 2ii], maintaining a professional and clear tone is essential and avoids promotional language.
+
+**Expert reviewer's original suggested change**: "CholeCap has been studied for its potential to reduce the risk of heart attack, stroke, certain cardiac surgeries, and chest pain.²"
+
+**Explanation for the reason behind the new suggested change**: To further avoid any promotional tone, this sentence can better reflect the balanced perspective.
+
+**New suggested sentence**: "Studies indicate that CholeCap may reduce the risk of heart attack, stroke, cardiac surgeries, and chest pain.²"
+
+---
+
+#### Sentence 5:
+**Original source sentence**: CHOLECAP* (veevasstatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP.
+
+**Deviation from the guidelines originally provided**: The language could be perceived as indirect promotion by raising safety concerns in a manner that could be seen as promoting the product’s selectiveness. According to [Source - Disclaimer Texts for Non-promotional Material, Article 3], disclaimers should be clear and factual.
+
+**Expert reviewer's original suggested change**: "CholeCap (veevasstatin calcium) tablets are contraindicated for individuals with a history of allergic reaction to the medication."
+
+**Explanation for the reason behind the new suggested change**: To ensure the language remains neutral and clear without implying exclusivity.
+
+**New suggested sentence**: "CholeCap (veevasstatin calcium) tablets should not be used by individuals who have had an allergic reaction to the medication."
+
+---
+
+#### Sentence 7:
+**Original source sentence**: If you take CHOLECAP* (veevasstatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness. This could be a sign of rare but serious muscle side effects.
+
+**Deviation from the guidelines originally provided**: Overemphasis on potential adverse events without a balanced view may induce bias. According to [Source - EFPIA Chapter 3, Article 17.i], communication of adverse events should be clear and factual without unnecessary emphasis.
+
+**Expert reviewer's original suggested change**: "Patients should inform their doctor if they experience new muscle pain or weakness while taking CholeCap, as this may indicate a rare but serious muscle side effect.”
+
+**Explanation for the reason behind the new suggested change**: The sentence should emphasize the importance of medical advice without inducing fear or bias.
+
+**New suggested sentence**: "Patients are advised to report any new muscle pain or weakness to their doctor, as it may indicate a rare muscle side effect.”
+
+---
+
+### Summary:
+These changes will ensure that the sentences follow the "Non-Promotional Material Guidelines" more accurately, providing clear, balanced, and factual information without promotional overtones.

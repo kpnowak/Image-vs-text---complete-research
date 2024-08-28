@@ -1,0 +1,115 @@
+[document_language]: English
+
+---
+
+### 1.
+**Source Sentence:** CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.¹
+
+**Deviations Corrected:** Comma usage
+
+**Reason for Replacement:** The serial comma (Oxford comma) should be used for clarity, especially in medical contexts where precision is critical.
+
+**New Sentence:** CholeCap significantly reduces elevated total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.¹
+
+### 2.
+**Source Sentence:** CHOLECAP* (veevasstatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP.
+
+**Deviations Corrected:** Redundant use of "had"
+
+**Reason for Replacement:** Improved fluidity and readability
+
+**New Sentence:** CHOLECAP* (veevasstatin calcium) tablets are not for everyone, including anyone who has previously experienced an allergic reaction to CHOLECAP.
+
+### 3.
+**Source Sentence:** If you take CHOLECAP* (veevasstatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness.
+
+**Deviations Corrected:** Verb consistency
+
+**Reason for Replacement:** Ensure conjugated verb matches the subject clearly.
+
+**New Sentence:** If you take CHOLECAP* (veevasstatin calcium) tablets, inform your doctor if you experience any new muscle pain or weakness.
+
+### 4.
+**Source Sentence:** Tell your doctor about all your medical conditions and all medications you take.
+
+**Deviations Corrected:** Repetition of "all"
+
+**Reason for Replacement:** Reduces redundancy
+
+**New Sentence:** Inform your doctor about all your medical conditions and the medications you take.
+
+### 5.
+**Source Sentence:** This may help avoid serious drug interactions.
+
+**Deviations Corrected:** Misleading structure
+
+**Reason for Replacement:** Improved clarity
+
+**New Sentence:** This can help to avoid serious drug interactions.
+
+### 6.
+**Source Sentence:** Tell your doctor if you have diabetes.
+
+**Deviations Corrected:** Consistency and completeness
+
+**Reason for Replacement:** Improve directness by embedding into a larger, clinically relevant context.
+
+**New Sentence:** Inform your doctor if you have diabetes, as elevated blood sugar levels have been reported with statins, including CHOLECAP.
+
+### 7.
+**Source Sentence:** Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests.
+
+**Deviations Corrected:** Consistency and readability
+
+**Reason for Replacement:** Adding definition for clarity and aligning spelling with British English norms.
+
+**New Sentence:** The common side effects include diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests.
+
+---
+
+Upon finishing my review, I detected and corrected several deviations in grammar, punctuation, and readability consistent with British English norms. Each correction was made to improve clarity, read fluidity, and maintain clinical precision in the document.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### 1.
+**Source Sentence:** This may help avoid serious drug interactions.
+
+**Deviation Corrected:** Misleading structure
+
+**Reason for Replacement:** Improved clarity
+
+**Expert Reviewer's Suggested Sentence:** This can help to avoid serious drug interactions.
+
+**New Suggested Change Explanation:** The sentence can be made more fluid without "to" after "help," which aligns better with conventions in English grammar for readability.
+
+**New Suggested Sentence:** This can help avoid serious drug interactions.
+
+---
+
+### 2.
+**Source Sentence:** Tell your doctor if you have diabetes.
+
+**Deviation Corrected:** Consistency and completeness
+
+**Reason for Replacement:** Improve directness by embedding into a larger, clinically relevant context.
+
+**Expert Reviewer's Suggested Sentence:** Inform your doctor if you have diabetes, as elevated blood sugar levels have been reported with statins, including CHOLECAP.
+
+**New Suggested Change Explanation:** The addition for completeness is good, but the sentence can be made more concise by removing unnecessary words while preserving the clinical relevance.
+
+**New Suggested Sentence:** Inform your doctor if you have diabetes, as statins like CHOLECAP can elevate blood sugar levels.
+
+### 3.
+**Source Sentence:** Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests.
+
+**Deviation Corrected:** Consistency and readability
+
+**Reason for Replacement:** Adding definition for clarity and aligning spelling with British English norms.
+
+**Expert Reviewer's Suggested Sentence:** The common side effects include diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests.
+
+**New Suggested Change Explanation:** The phrase "the common side effects include" enhances clarity and specificity, and the rest remains consistent with British English.
+
+**New Suggested Sentence:** Common side effects include diarrhoea, upset stomach, muscle and joint pain, and changes in certain blood tests.

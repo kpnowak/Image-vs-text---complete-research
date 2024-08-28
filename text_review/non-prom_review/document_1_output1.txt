@@ -1,0 +1,273 @@
+To review the document according to the "Non-Promotional Material Guidelines", I will meticulously evaluate each section of the provided document and make necessary adjustments to ensure compliance. Below are the corrections needed:
+
+### 1. Tone and Language:
+
+#### Source Sentence:
+"It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+#### Guideline Source:
+Communicate With Care Pocket Guide - Article 2 - Be Clear and Professional
+
+#### Deviations:
+- The phrase "feel empowered and ready" is somewhat vague and subjective.
+- "important to advocate for your needs and preferences" can put undue pressure on the patient instead of promoting a collaborative approach, which might be misinterpreted.
+
+#### New Sentence:
+"It’s essential to discuss with your doctor when you think a change in treatment might be appropriate."
+
+#### Reason:
+This revision maintains a neutral tone, emphasizing communication without suggesting a strong directive. This approach aligns with maintaining a professional tone and avoiding language that may cause unnecessary pressure on the patient.
+
+### 2. Patient's Role:
+
+#### Source Sentence:
+"You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+
+#### Guideline Source:
+Communicate With Care Pocket Guide - Article 2 - Be Clear and Professional
+
+#### Deviations:
+- The phrase "advocate for your needs and preferences" could be seen as putting the patient in a primary decision-making role rather than a collaborative one.
+
+#### New Sentence:
+"You are familiar with your condition and symptoms – share this knowledge openly with your doctor during discussions."
+
+#### Reason:
+Changing the wording to "share this knowledge openly" encourages communication and collaboration without implying an advocacy role that might feel burdensome to patients.
+
+### 3. Disclaimers:
+
+#### Source Sentence:
+ "The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor. "
+
+#### Guideline Source:
+Disclaimer Texts for Non-promotional Material - Article 3 - General Disclaimers
+
+#### Deviations:
+- General wording should be more consistent with accepted disclaimers.
+
+#### New Sentence:
+ "The information on this website is intended for educational purposes only and should not be substituted for medical advice from your doctor."
+
+#### Reason:
+Adding "educational purposes" emphasizes that the information provided is meant for knowledge enhancement and encourages seeking professional medical advice, fitting more closely with the recommended disclaimer structure.
+
+### 4. Clarifying Objectives:
+
+#### Source Sentence:
+"It’s important to advocate for your needs and preferences during your discussion."
+
+#### Guideline Source:
+ Communicate With Care Pocket Guide - Article 2 - Be Clear and Professional
+
+#### Deviations:
+- The term "advocate" could misguide patients by emphasizing a confrontational or overly assertive stance instead of a collaborative approach.
+
+#### New Sentence:
+"It’s essential to communicate your needs and preferences clearly during your discussions with your doctor."
+
+#### Reason:
+This revision emphasizes clear communication, aligning with the guideline's emphasis on providing context and avoiding potential confrontational language.
+
+### 5. Legal Disclaimer:
+
+#### Source Sentence:
+"Involve family, friends, support groups etc. in the journey towards a healthier lifestyle."
+
+#### Guideline Source:
+ Disclaimer Texts for Non-promotional Material - Article 3 - General Disclaimers
+
+#### Deviations:
+- The initial sentence does not specify when or how family and friends should be involved and lacks the necessary disclaimer's rigor.
+
+#### New Sentence:
+"Involving family, friends, or support groups can be beneficial; however, always consult with your healthcare provider before making any adjustments to your care plan."
+
+#### Reason:
+The revised sentence adds a legal disclaimer to consult healthcare providers, aligning with the emphasis on adherence to regulations.
+
+### 6. Use of Qualifiers:
+
+#### Source Sentence:
+"If relevant, you can also ask if there might be a better alternative that addresses these challenges."
+
+#### Guideline Source:
+ Global Legal & Compliance Pocket Guide - Article 1 - Non-Promotional Material
+
+#### Deviations:
+- Encourages patients to ask for alternatives without specifying it should be done within a medical consultation context.
+
+#### New Sentence:
+"If relevant, discuss with your doctor whether there might be a better alternative to address these challenges."
+
+#### Reason:
+This ensures the conversation about alternatives happens within the proper medical context, emphasizing patient safety and accurate medical advice.
+
+### 7. Treatment Information:
+
+#### Source Sentence:
+"If you experience any side effects while using [insert NN medicinal product], talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in the package leaflet. "
+
+#### Guideline Source:
+Disclaimer Texts for Non-promotional Material - Article 3 - General Disclaimers
+
+#### Deviations:
+- Needs to be more generalized to fit any medicinal product.
+
+#### New Sentence:
+"If you experience any side effects while using any type 2 diabetes medication, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in the package leaflet."
+
+#### Reason:
+This makes the document applicable across various treatments without promoting a specific product and adheres to the disclaimer guidelines.
+
+### 8. Clarification of References:
+
+#### Source Sentence:
+"Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan is working."
+
+#### Guideline Source:
+ Communicate With Care Pocket Guide - Article 2 - Be Clear and Professional
+
+#### Deviations:
+- Needs clearer language for better understanding.
+
+#### New Sentence:
+"Understanding what to expect can help you stay motivated and assess if any changes to your treatment plan are having the desired effect."
+
+#### Reason:
+Clearer language improves readability and ensures the sentence is easily understood by the target audience.
+
+### 9. Reference Formatting:
+
+#### Source Sentence:
+"References Buse JB, Wexler DJ, Tsapas A, et al., 2019 update to: Management of hyperglycaemia in type 2 diabetes, 2018."
+
+#### Guideline Source:
+Communicate With Care Pocket Guide - Article 1 - Be Mindful
+
+#### Deviations:
+- Reference list structure at the end should align with standard citation formats.
+
+#### New Sentence:
+"References: Buse JB, Wexler DJ, Tsapas A, et al. 2019 update to: Management of hyperglycaemia in type 2 diabetes, 2018."
+
+#### Reason:
+Aligning the reference format with standard citation practices ensures compliance with legal and professional guidelines.
+
+### 10. Consistency in Punctuation:
+
+#### Source Sentence:
+ "Here are some topics to consider if you want to speak up about your type 2 diabetes treatment:"
+
+#### Guideline Source:
+ Communicate With Care Pocket Guide - Article 2 - Be Clear and Professional
+
+#### Deviations:
+- The usage of a colon needs to be consistent and properly formatted.
+
+#### New Sentence:
+"Here are some topics to consider when discussing your type 2 diabetes treatment:"
+
+#### Reason:
+This minor adjustment improves readability and aligns with ensuring clear and professional communication.
+
+By following these changes, the document will adhere more closely to the Non-Promotional Material Guidelines while ensuring clarity and a professional tone throughout.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+Below are the comments I've improved upon from the expert reviewer:
+
+### 1. Tone and Language:
+
+- **Original Source Sentence:**
+  "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+- **Deviation from Guidelines:**
+  According to Communicate With Care Pocket Guide - Article 2 - Be Clear and Professional, the phrase "feel empowered and ready" is somewhat vague and subjective. The expression "important to advocate for your needs and preferences" can put undue pressure on the patient instead of promoting a collaborative approach, which might be misinterpreted.
+- **Expert Reviewer's Original Suggested Change:**
+  "It’s essential to discuss with your doctor when you think a change in treatment might be appropriate."
+- **Reason for New Suggested Change:**
+  The suggested sentence needs to emphasize the importance of collaboration between the patient and the doctor while maintaining clarity and a professional tone. The new sentence should avoid sounding overly directive or empowering, which might place undue pressure on the patient.
+- **New Suggested Sentence:**
+  "It's crucial to communicate with your doctor when you believe a change in your treatment might be needed."
+
+### 2. Patient's Role
+
+- **Original Source Sentence:**
+  "You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+- **Deviation from Guidelines:**
+  According to Communicate With Care Pocket Guide - Article 2 - Be Clear and Professional, the phrase "advocate for your needs and preferences" could be seen as placing the patient in a primary decision-making role rather than a collaborative one.
+- **Expert Reviewer's Original Suggested Change:**
+  "You are familiar with your condition and symptoms – share this knowledge openly with your doctor during discussions."
+- **Reason for New Suggested Change:**
+  The new sentence should emphasize collaboration and effective communication between the patient and the doctor without making the patient feel burdened by advocacy.
+- **New Suggested Sentence:**
+  "You have valuable insights about your condition and symptoms – make sure to share these openly with your doctor."
+
+### 5. Legal Disclaimer:
+
+- **Original Source Sentence:**
+  "Involve family, friends, support groups etc. in the journey towards a healthier lifestyle."
+- **Deviation from Guidelines:**
+  According to Disclaimer Texts for Non-promotional Material - Article 3 - General Disclaimers, the initial sentence does not specify when or how family and friends should be involved and lacks necessary disclaimer rigor.
+- **Expert Reviewer's Original Suggested Change:**
+  "Involving family, friends, or support groups can be beneficial; however, always consult with your healthcare provider before making any adjustments to your care plan."
+- **Reason for New Suggested Change:**
+  The revised sentence needs to include a disclaimer for consulting healthcare providers to align with regulations and emphasize the importance of proper medical advice.
+- **New Suggested Sentence:**
+  "Involving family, friends, or support groups can be beneficial, but always discuss any changes to your care plan with your healthcare provider first."
+
+### 6. Use of Qualifiers:
+
+- **Original Source Sentence:**
+  "If relevant, you can also ask if there might be a better alternative that addresses these challenges."
+- **Deviation from Guidelines:**
+  According to Global Legal & Compliance Pocket Guide - Article 1 - Non-Promotional Material, this sentence encourages patients to ask for alternatives without specifying that it should be done within a medical consultation context.
+- **Expert Reviewer's Original Suggested Change:**
+  "If relevant, discuss with your doctor whether there might be a better alternative to address these challenges."
+- **Reason for New Suggested Change:**
+  The new sentence needs to emphasize that discussions about alternatives should take place within the context of a medical consultation to ensure patient safety and adherence to guidelines.
+- **New Suggested Sentence:**
+  "If applicable, talk to your doctor about whether there are better alternatives to address these challenges."
+
+### 8. Clarification of References:
+
+- **Original Source Sentence:**
+  "Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan is working."
+- **Deviation from Guidelines:**
+  According to Communicate With Care Pocket Guide - Article 2 - Be Clear and Professional, the sentence requires clearer language for better understanding.
+- **Expert Reviewer's Original Suggested Change:**
+  "Understanding what to expect can help you stay motivated and assess if any changes to your treatment plan are having the desired effect."
+- **Reason for New Suggested Change:**
+  The new sentence needs to improve readability and comprehension by using clearer language.
+- **New Suggested Sentence:**
+  "Knowing what to expect can help you stay motivated and see if changes to your treatment plan are effective."
+
+### 9. Reference Formatting:
+
+- **Original Source Sentence:**
+  "References Buse JB, Wexler DJ, Tsapas A, et al., 2019 update to: Management of hyperglycaemia in type 2 diabetes, 2018."
+- **Deviation from Guidelines:**
+  According to Communicate With Care Pocket Guide - Article 1 - Be Mindful, the reference list structure should align with standard citation formats.
+- **Expert Reviewer's Original Suggested Change:**
+  "References: Buse JB, Wexler DJ, Tsapas A, et al. 2019 update to: Management of hyperglycaemia in type 2 diabetes, 2018."
+- **Reason for New Suggested Change:**
+  The reference format needs to be standardized and compliant with legal and professional citation practices.
+- **New Suggested Sentence:**
+  "References: Buse JB, Wexler DJ, Tsapas A, et al. (2019). Management of hyperglycaemia in type 2 diabetes, 2018 update."
+
+### 10. Consistency in Punctuation:
+
+- **Original Source Sentence:**
+  "Here are some topics to consider if you want to speak up about your type 2 diabetes treatment:"
+- **Deviation from Guidelines:**
+  According to Communicate With Care Pocket Guide - Article 2 - Be Clear and Professional, the usage of a colon needs to be consistent and properly formatted.
+- **Expert Reviewer's Original Suggested Change:**
+  "Here are some topics to consider when discussing your type 2 diabetes treatment:"
+- **Reason for New Suggested Change:**
+  The sentence needs minor adjustment to improve readability and ensure clear and professional communication by adhering to consistent punctuation usage.
+- **New Suggested Sentence:**
+  "Consider these topics when discussing your type 2 diabetes treatment:"
+
+By following these changes, the document will adhere more closely to the Non-Promotional Material Guidelines while ensuring clarity and professional tone throughout.

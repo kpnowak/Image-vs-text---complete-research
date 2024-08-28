@@ -1,0 +1,118 @@
+Thank you for submitting the document for review. I have studied the "Non-Promotional Material Guidelines" and will provide detailed feedback on each sentence from your document that requires amendments. Each point will be corrected based on compliance with the provided guidelines.
+
+### Corrections and Recommendations:
+
+#### 1. "The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia¹"
+- **Guideline source**: Global Legal & Compliance Pocket Guide
+- **Source sentence**: "The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia¹"
+- **Deviations**: According to the Global Legal & Compliance Pocket Guide, the information must be factual and not promotional. The claim "The first and only statin" could be seen as a promotional statement.
+- **New sentence**: "CholeCap is a statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia¹."
+- **Reason for change**: This sentence removes the promotional wording "first and only," making it more factual and in accordance with non-promotional guidelines.
+
+#### 2. "Clinically proven efficacy and safety in paediatric patients²"
+- **Guideline source**: EFPIA Chapter 3, Article 16
+- **Source sentence**: "Clinically proven efficacy and safety in paediatric patients²"
+- **Deviations**: This statement could be seen as promotional. According to EFPIA Chapter 3, educational material must be balanced and objective.
+- **New sentence**: "The efficacy and safety of CholeCap in paediatric patients have been studied and reported in clinical research²."
+- **Reason for change**: This change avoids the term "clinically proven," which may sound promotional, maintaining a neutral tone consistent with non-promotional guidelines.
+
+#### 3. "Reduction in LDL-C²"
+- **Guideline source**: EFPIA Chapter 4, Article 21
+- **Source sentence**: "Reduction in LDL-C²"
+- **Deviations**: This is vague and could be seen as an inherent claim without specific context. According to EFPIA Chapter 4, all interactions must ensure clarity.
+- **New sentence**: "Studies show that CholeCap is associated with a reduction in LDL-C levels in patients²."
+- **Reason for change**: Adding "studies show" provides context and aligns the statement with clear, non-promotional guidelines.
+
+#### 4. "Dolor sit amet"
+- **Guideline source**: Communicate With Care Pocket Guide, Article 2
+- **Source sentence**: "Dolor sit amet"
+- **Deviations**: This placeholder text does not provide any information and could confuse readers. According to Article 2, content must be clear and professional.
+- **New sentence**: Remove the sentence entirely.
+- **Reason for change**: This placeholder text does not contribute any meaningful information and should be removed for clarity and professionalism.
+
+#### 5. "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.¹"
+- **Guideline source**: EFPIA Chapter 4, Article 21, and Global Legal & Compliance Pocket Guide
+- **Source sentence**: "CholeCap significantly reduces elevated total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.¹"
+- **Deviations**: The term "significantly" could be considered promotional. According to EFPIA Chapter 4, the collaboration and support should be clear and based on mutual respect.
+- **New sentence**: "CholeCap has been shown to reduce total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, aged 10 to 17, with heterozygous familial hypercholesterolaemia.¹"
+- **Reason for change**: This sentence uses neutral wording and references clinical findings without implying promotional significance.
+
+#### 6. "CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain. Welcome to a brighter future for your patients."
+- **Guideline source**: Communicate With Care Pocket Guide, Articles 1 and 2
+- **Source sentence**: "CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain. Welcome to a brighter future for your patients."
+- **Deviations**: This has a promotional tone and lacks balance. According to Articles 1 and 2, content should be factual and avoid promotional language.
+- **New sentence**: "Studies indicate that CholeCap may help reduce the risk of heart-related events such as heart attack, stroke, certain cardiac surgeries, and chest pain."
+- **Reason for change**: The new sentence removes promotional language and provides a factual basis, improving compliance with non-promotional guidelines.
+
+#### 7. "Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events."
+- **Guideline source**: Disclaimer Texts for Non-promotional Material
+- **Source sentence**: "Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events."
+- **Deviations**: Additional disclaimers are recommended to ensure the information is complete. According to Disclaimer Texts for Non-promotional Material, disclaimers add necessary context.
+- **New sentence**: "Common side effects include diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events. If you experience any side effects while using CholeCap, talk to your doctor, pharmacist, or nurse. Please see the patient information leaflet in the package for additional information."
+- **Reason for change**: This sentence incorporates necessary disclaimers to ensure comprehensive information is provided, aligning with non-promotional material guidelines.
+
+### Summary:
+The reviewed document had multiple instances of promotional language and lack of balance, which were corrected to better align with non-promotional material guidelines. All sentences were revised for clarity, factual accuracy, and compliance with the outlined guidelines.
+
+Let me know if you need further assistance or additional reviews!
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Corrections and Recommendations:
+
+#### 1. "The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia¹"
+
+- **The original source sentence**: "The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia¹"
+- **The deviation from the guidelines originally provided by the expert reviewer**: According to the Global Legal & Compliance Pocket Guide, the information must be factual and not promotional. The claim "The first and only statin" could be seen as a promotional statement.
+- **The expert reviewer's original suggested change**: "CholeCap is a statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia¹."
+- **An explanation for the reason behind your new suggested change**: While the expert's recommendation removes the promotional language, it does not provide sufficient context about the specific patient group and the therapeutic area, which is crucial for clarity and ensuring non-promotional tone.
+- **Your new suggested sentence**: "CholeCap is among the statins approved for addressing hypercholesterolaemia in teenagers diagnosed with familial hypercholesterolaemia¹."
+- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to the [Source - Global Legal & Compliance Pocket Guide], the information suggests that claims should be factual and avoid promotional wording.
+
+#### 2. "Clinically proven efficacy and safety in paediatric patients²"
+- **The original source sentence**: "Clinically proven efficacy and safety in paediatric patients²"
+- **The deviation from the guidelines originally provided by the expert reviewer**: According to EFPIA Chapter 3, educational material must be balanced and objective. The statement could be seen as promotional.
+- **The expert reviewer's original suggested change**: "The efficacy and safety of CholeCap in paediatric patients have been studied and reported in clinical research²."
+- **An explanation for the reason behind your new suggested change**: While the expert reviewer's proposed change is more neutral, it can still be made clearer by specifying the nature of the clinical research and maintaining objectivity.
+- **Your new suggested sentence**: "Clinical studies have examined and reported on the efficacy and safety of CholeCap in paediatric patients²."
+- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to [EFPIA Chapter 3, Article 16], the educational material must be fair, balanced, and objective.
+
+#### 3. "Reduction in LDL-C²"
+- **The original source sentence**: "Reduction in LDL-C²"
+- **The deviation from the guidelines originally provided by the expert reviewer**: This is vague and could be seen as an inherent claim without specific context. According to EFPIA Chapter 4, all interactions must ensure clarity.
+- **The expert reviewer's original suggested change**: "Studies show that CholeCap is associated with a reduction in LDL-C levels in patients²."
+- **An explanation for the reason behind your new suggested change**: While the expert's suggestion adds some context, it should also avoid suggesting causality that could be interpreted as promotional.
+- **Your new suggested sentence**: "Clinical research indicates a potential association between CholeCap and reductions in LDL-C levels²."
+- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to [EFPIA Chapter 4, Article 21], all interactions must be clear and non-promotional.
+
+#### 4. "Dolor sit amet"
+- This comment by the expert reviewer is acknowledged and agreed upon. No further action required here.
+
+#### 5. "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.¹"
+- **The original source sentence**: "CholeCap significantly reduces elevated total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.¹"
+- **The deviation from the guidelines originally provided by the expert reviewer**: The term "significantly" could be considered promotional. According to EFPIA Chapter 4, the collaboration and support should be clear and based on mutual respect.
+- **The expert reviewer's original suggested change**: "CholeCap has been shown to reduce total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, aged 10 to 17, with heterozygous familial hypercholesterolaemia.¹"
+- **An explanation for the reason behind your new suggested change**: While the recommendation is suitable, further clarity is beneficial by omitting potentially promotional language.
+- **Your new suggested sentence**: "Clinical evidence suggests that CholeCap reduces total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls aged 10 to 17 with heterozygous familial hypercholesterolaemia.¹"
+- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to [EFPIA Chapter 4, Article 21], it is important to maintain factual clarity and avoid promotional implications.
+
+#### 6. "CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain. Welcome to a brighter future for your patients."
+
+- **The original source sentence**: "CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain. Welcome to a brighter future for your patients."
+- **The deviation from the guidelines originally provided by the expert reviewer**: This has a promotional tone and lacks balance. According to Articles 1 and 2, content should be factual and avoid promotional language.
+- **The expert reviewer's original suggested change**: "Studies indicate that CholeCap may help reduce the risk of heart-related events such as heart attack, stroke, certain cardiac surgeries, and chest pain."
+- **An explanation for the reason behind your new suggested change**: The expert reviewer's sentence is largely correct but can be further improved by ensuring a complete factual basis and avoiding any speculative future outcomes.
+- **Your new suggested sentence**: "Research indicates that CholeCap may contribute to the reduction of risk for heart-related events, such as heart attack, stroke, certain cardiac surgeries, and chest pain."
+- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to [Source - Communicate With Care Pocket Guide, Articles 1 and 2], content should be clear, factual, and avoid promotional tone.
+
+#### 7. "Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events."
+- **The original source sentence**: "Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events."
+- **The deviation from the guidelines originally provided by the expert reviewer**: Additional disclaimers are recommended to ensure the information is complete. According to Disclaimer Texts for Non-promotional Material, disclaimers add necessary context.
+- **The expert reviewer's original suggested change**: "Common side effects include diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events. If you experience any side effects while using CholeCap, talk to your doctor, pharmacist, or nurse. Please see the patient information leaflet in the package for additional information."
+- **An explanation for the reason behind your new suggested change**: While the expert's suggestion captures necessary disclaimers, it can be reorganized for fluidity and coherence.
+- **Your new suggested sentence**: "Common side effects include diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always consult their doctors for medical advice on adverse events. Refer to the patient information leaflet in the package for additional details. If you experience any side effects while using CholeCap, speak with your doctor, pharmacist, or nurse."
+- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to [Source - Disclaimer Texts for Non-promotional Material], the inclusion of comprehensive disclaimers is necessary for ensuring complete and clear information.
+
+Let me know if you need further assistance or additional reviews!

@@ -1,0 +1,99 @@
+### Review of "DIABETES WHAT'S NEXT?"
+
+#### Sentence 1:
+
+- **Guideline Source:** Disclaimer Texts for Non-promotional Material
+- **Source Sentence:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **Deviations:** According to Disclaimer Texts for Non-promotional Material, all material provided must include certain disclaimers for clarity and legal compliance.
+- **New Sentence:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs. The information on this website is intended for education purposes only and should not be substituted for medical advice from your doctor."
+- **Reason:** This change incorporates necessary disclaimer information, ensuring that readers clearly understand the intent of the content.
+
+#### Sentence 2:
+
+- **Guideline Source:** EFPIA Chapter 3, Article 17.iii.
+- **Source Sentence:** "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+- **Deviations:** According to EFPIA Chapter 3, Article 17.iii., materials must not constitute an inducement to recommend/specific medicinal products.
+- **New Sentence:** "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial, as this communication can help in personalizing your care plan effectively."
+- **Reason:** This change ensures that the material encourages general patient empowerment and communication without suggesting any specific treatment.
+
+#### Sentence 3:
+
+- **Guideline Source:** EFPIA Chapter 3, Article 20.i.
+- **Source Sentence:** "You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+- **Deviations:** According to EFPIA Chapter 3, Article 20.i., the information must be fair, balanced, and objective.
+- **New Sentence:** "You know your mind and body, and it’s important to advocate for your needs and preferences, ensuring your discussion with your doctor is well-informed and balanced."
+- **Reason:** This clarification promotes balanced discussions and informed decision-making without leading to biased outcomes.
+
+#### Sentence 4:
+
+- **Guideline Source:** Communicate With Care Pocket Guide, Article 2.iii.
+- **Source Sentence:** "Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
+- **Deviations:** According to Communicate With Care Pocket Guide, Article 2.iii., the information should stick to facts and avoid exaggerations.
+- **New Sentence:** "Share your personal goals, such as achieving better blood sugar control or weight management, and discuss with your doctor if your current treatment meets these goals."
+- **Reason:** This change ensures the material sticks to factual statements and avoids speculation on the effectiveness of treatments.
+
+#### Sentence 5:
+
+- **Guideline Source:** EFPIA Chapter 3, Article 17.i.a.
+- **Source Sentence:** "Discuss any difficulties you’ve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high."
+- **Deviations:** According to EFPIA Chapter 3, Article 17.i.a., the materials must be "inexpensive" and directly relevant to patient care.
+- **New Sentence:** "Discuss any difficulties you’ve experienced with your current treatment, including side effects, preferences such as pills or injections, its integration into your lifestyle, or concerns about cost."
+- **Reason:** This version ensures that the content remains relevant to patient care and does not lead to the promotion of any costly solutions.
+
+#### Sentence 6:
+
+- **Guideline Source:** EFPIA Chapter 3, Article 18.i.
+- **Source Sentence:** "This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommended to you."
+- **Deviations:** According to EFPIA Chapter 3, Article 18.i., non-interventional studies and related discussions must not be disguised as promotions.
+- **New Sentence:** "This includes discussing how your medication works, the implications of missing a dose, managing side effects, and addressing any concerns regarding lifestyle changes as advised by your healthcare provider."
+- **Reason:** This ensures that the information is educational and supportive without promoting specific treatments.
+
+#### Sentence 7:
+
+- **Guideline Source:** EFPIA Chapter 3, Article 16.i.
+- **Source Sentence:** "By speaking up, asking questions, and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health."
+- **Deviations:** According to EFPIA Chapter 3, Article 16.i., education should allow for the expression of diverse, evidence-based science.
+- **New Sentence:** "By speaking up, asking questions, and being part of the decision-making process, you can collaborate with your healthcare provider to create a personalized plan that supports your journey towards better health."
+- **Reason:** Rephrasing this sentence ensures that it promotes a collaborative approach to healthcare and supports balanced scientific discussions.
+
+#### Sentence 8:
+
+- **Guideline Source:** Communicate With Care Pocket Guide, Article 1.ii.
+- **Source Sentence:** "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+- **Deviations:** According to Communicate With Care Pocket Guide, Article 1.ii., sensitive content should be evaluated for its appropriateness.
+- **New Sentence:** "Remember, this conversation is about working together with your doctor to identify a treatment plan that best meets your needs."
+- **Reason:** This phrasing maintains clarity and ensures the content is appropriate, professional, and respectful of the patient's role in their health management.
+
+This review ensures adherence to the Non-Promotional Material Guidelines by addressing the identified deviations and providing corrected sentences that comply with ethical and legal standards.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+Sure, let's work through each of the expert reviewer's comments systematically.
+
+#### Sentence 1:
+
+- **Original Source Sentence:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **Deviation from Guidelines:** According to [Source - Disclaimer Texts for Non-promotional Material, Article 2.ii], material provided must include certain disclaimers for clarity and legal compliance.
+- **Expert Reviewer’s Original Suggested Change:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs. The information on this website is intended for education purposes only and should not be substituted for medical advice from your doctor."
+- **Explanation for New Suggested Change:** The reviewer's suggested change added a necessary disclaimer but should also include the images disclaimer based on the guidelines.
+- **My New Suggested Sentence:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs. This information is for educational purposes only and should not replace medical advice from your doctor. The image shown is a model and not a real patient."
+
+#### Sentence 3:
+
+- **Original Source Sentence:** "You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+- **Deviation from Guidelines:** According to [Source - EFPIA Chapter 3, Article 20.i.], the information must be fair, balanced, and objective.
+- **Expert Reviewer’s Original Suggested Change:** "You know your mind and body, and it’s important to advocate for your needs and preferences, ensuring your discussion with your doctor is well-informed and balanced."
+- **Explanation for New Suggested Change:** The expert reviewer’s suggestion is mostly accurate but can be improved in clarity while maintaining balance and objectivity.
+- **My New Suggested Sentence:** "You know your mind and body best, so it’s essential to voice your needs and preferences to have a well-informed and balanced discussion with your doctor."
+
+#### Sentence 7:
+
+- **Original Source Sentence:** "By speaking up, asking questions, and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health."
+- **Deviation from Guidelines:** According to [Source - EFPIA Chapter 3, Article 16.i.], education should allow for the expression of diverse, evidence-based science.
+- **Expert Reviewer’s Original Suggested Change:** "By speaking up, asking questions, and being part of the decision-making process, you can collaborate with your healthcare provider to create a personalized plan that supports your journey towards better health."
+- **Explanation for New Suggested Change:** The expert reviewer’s suggestion aligns well but adding emphasis on evidence-based decisions enhances adherence to guidelines.
+- **My New Suggested Sentence:** "By speaking up, asking questions, and participating in the decision-making process, you and your healthcare provider can create a personalized plan grounded in evidence-based practices that support your journey towards better health."
+
+By improving these sentences in accordance with the Non-Promotional Material Guidelines, we ensure accuracy, compliance with legal and ethical standards, and better alignment with the guidelines provided. Ensure each change respects the intent of the original content while making necessary adjustments for clarity, compliance, and educational value.

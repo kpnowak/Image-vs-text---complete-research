@@ -1,0 +1,226 @@
+### Review of "CholeCap" Document
+
+#### Non-Promotional Material Guidelines: Ensuring Compliance
+
+---
+
+**Document Text Review:**
+
+**1. Original Sentence:**
+"The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia¹"
+
+**Deviations Corrected:**
+- According to [EFPIA Chapter 3, Article 16, i], the content must be fair, balanced, and objective.
+- The sentence implies exclusivity, which could be misleading.
+
+**New Sentence:**
+"CholeCap is approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia¹"
+
+**Reason for Change:**
+To avoid implying that CholeCap is the "first and only" statin, thus maintaining balance and objectivity.
+
+---
+
+**2. Original Sentence:**
+"Reduction in LDL-C²"
+
+**Deviations Corrected:**
+- According to [EFPIA Chapter 3, Article 17, iv], materials must be fair and balanced.
+
+**New Sentence:**
+"CholeCap has been shown to reduce LDL-C levels in clinical studies²"
+
+**Reason for Change:**
+To ensure that the claim is clear and based on evidence, maintaining fairness and balance.
+
+---
+
+**3. Original Sentence:**
+"CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.¹"
+
+**Deviations Corrected:**
+- According to [EFPIA Chapter 3, Article 16, i], materials must allow the expression of diverse evidence-based science.
+
+**New Sentence:**
+"CholeCap has been studied for its effects on total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.¹"
+
+**Reason for Change:**
+To present the information in an evidence-based and less assertive manner, promoting balanced communication.
+
+---
+
+**4. Original Sentence:**
+"CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain. Welcome to a brighter future for your patients."
+
+**Deviations Corrected:**
+- According to [EFPIA Chapter 3, Article 17, i], claims should be directly relevant and not promotional.
+- According to [Communicate With Care Pocket Guide, Article 2, i], maintaining a professional tone is essential.
+
+**New Sentence:**
+"Clinical studies have suggested that CholeCap may reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain."
+
+**Reason for Change:**
+To avoid promotional language and ensure the claim is evidence-based and professional.
+
+---
+
+**5. Original Sentence:**
+"CHOLECAP* (veevasstatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP. It is not for those with liver problems. And it is not for women who are nursing, pregnant, or may become pregnant."
+
+**Deviations Corrected:**
+- According to [EFPIA Chapter 3, Article 17, iv], the content must avoid being promotional and ensure patient safety information is clear.
+
+**New Sentence:**
+"CHOLECAP* (veevasstatin calcium) tablets should not be used by individuals who have had an allergic reaction to CHOLECAP, those with liver issues, or women who are nursing, pregnant, or may become pregnant."
+
+**Reason for Change:**
+To present the contraindications in a clearer manner without promotional emphasis.
+
+---
+
+**6. Original Sentence:**
+"If you take CHOLECAP* (veevasstatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness. This could be a sign of rare but serious muscle side effects. Tell your doctor about all your medical conditions and all medications you take. This may help avoid serious drug interactions. Your doctor should do blood tests to check your liver function before starting CHOLECAP and during your treatment if you have symptoms of liver problems. Tell your doctor if you have diabetes. Elevated blood sugar levels have been reported with statins, including CHOLECAP."
+
+**Deviations Corrected:**
+- According to [Non-promotional Material Guidelines - Global Legal & Compliance Pocket Guide, Article 1, i], medical information must be communicated in an appropriate context.
+
+**New Sentence:**
+"If you take CHOLECAP* (veevasstatin calcium) tablets, inform your doctor if you experience any new muscle pain or weakness, as this could indicate rare but serious side effects. Discuss all your medical conditions and medications with your doctor to avoid possible drug interactions. Liver function tests should be conducted before starting CHOLECAP and during treatment if symptoms of liver issues arise. Additionally, elevated blood sugar levels have been reported with statins, including CHOLECAP, particularly in diabetic patients."
+
+**Reason for Change:**
+To ensure detailed patient information is communicated clearly and appropriately.
+
+---
+
+**7. Original Sentence:**
+"Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events."
+
+**Deviations Corrected:**
+- According to [EFPIA Chapter 3, Article 20, i], communication must be consistent with relevant laws and regulations.
+
+**New Sentence:**
+"Common side effects include diarrhea, upset stomach, muscle and joint pain, and changes in certain blood tests. Patients should consult their doctors for medical advice regarding any adverse events."
+
+**Reason for Change:**
+To present side effect information in a clear, regulation-consistent manner.
+
+---
+
+**8. Original Sentence:**
+"References: 1. Calhoun D, Trimarc T, Meek T, Locasto D. IASPP Guidelines, Full Report, 2. November 2011: 36(11):32-48. Available from: CINAHL Plus with Full Text, Ipswich, MA. Accessed February 2, 2012."
+
+**Deviations Corrected:**
+- According to [Communicate With Care Pocket Guide, Article 2, ii], references should be complete and accurate for context.
+
+**New Sentence:**
+"References: 1. Calhoun D, Trimarc T, Meek T, Locasto D. IASPP Guidelines, Full Report, November 2011; 36(11):32-48. Available from: CINAHL Plus with Full Text, Ipswich, MA. Accessed February 2, 2012."
+
+**Reason for Change:**
+To ensure the reference is complete and provides clear context.
+
+---
+
+**9. General disclaimer requirements:**
+
+**Deviations Corrected:**
+- According to [Disclaimer Texts for Non-Promotional Material, Article 3, i-v], general disclaimers must be added to all pages.
+
+**New Sentence:**
+"The image shown is a model and not a real patient. The prescription is based on a patient example and not a real patient. Model is not a real patient, and situations shown do not reflect the models’ experience. This information is intended for patients prescribed CholeCap and should not replace medical advice from your doctor."
+
+**Reason for Change:**
+To meet the guideline requirements for disclaimers in non-promotional material.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review of "CholeCap" Document
+
+---
+
+#### Comment 1
+- **Original Sentence:**
+"The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia¹"
+
+- **Deviation from Guidelines:**
+The original sentence implies exclusivity, which could be misleading.
+
+- **Expert Reviewer's Original Suggested Change:**
+"CholeCap is approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia¹"
+
+- **Explanation for New Suggested Change:**
+The sentence requires clearer context about scientific evidence and overall balance to ensure it is clearly non-promotional.
+
+- **New Suggested Sentence:**
+"CholeCap is among the approved statins for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia¹, helping manage their condition based on clinical guidelines."
+
+- **Deviations:**
+According to [EFPIA Chapter 3, Article 16 - Lifelong Learning in Healthcare], content should be fair, balanced, and objective.
+
+---
+
+#### Comment 4
+- **Original Sentence:**
+"CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain. Welcome to a brighter future for your patients."
+
+- **Deviation from Guidelines:**
+The original sentence uses promotional language and may lack a purely scientific basis.
+
+- **Expert Reviewer's Original Suggested Change:**
+"Clinical studies have suggested that CholeCap may reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain."
+
+- **Explanation for New Suggested Change:**
+The statement should better reflect scientific evidence objectives and avoid promotional undertones, hence providing succinct patient benefits appropriately.
+
+- **New Suggested Sentence:**
+"Evidence from clinical studies indicates that CholeCap may help reduce risks of heart attack, stroke, specific heart surgeries, and chest pain in appropriate patients."
+
+- **Deviations:**
+According to [EFPIA Chapter 3, Article 16 - Lifelong Learning in Healthcare], content must be based on diverse evidence to maintain objectivity.
+
+---
+
+#### Comment 5
+- **Original Sentence:**
+"CHOLECAP* (veevasstatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP. It is not for those with liver problems. And it is not for women who are nursing, pregnant, or may become pregnant."
+
+- **Deviation from Guidelines:**
+The original phrasing contains repetition and might not be clear for all audience segments.
+
+- **Expert Reviewer's Original Suggested Change:**
+"CHOLECAP* (veevasstatin calcium) tablets should not be used by individuals who have had an allergic reaction to CHOLECAP, those with liver issues, or women who are nursing, pregnant, or may become pregnant."
+
+- **Explanation for New Suggested Change:**
+The adjusted sentence must maintain clarity and avoid redundancy, focusing on clear patient groups and medical conditions non-promotively.
+
+- **New Suggested Sentence:**
+"CHOLECAP* (veevasstatin calcium) is contraindicated for individuals with previous allergic reactions to CHOLECAP, those with liver conditions, and women who are nursing, pregnant, or may become pregnant."
+
+- **Deviations:**
+According to [EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility], patient safety information should be communicated clearly and unambiguously.
+
+---
+
+#### Comment 6
+- **Original Sentence:**
+"If you take CHOLECAP* (veevasstatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness. This could be a sign of rare but serious muscle side effects. Tell your doctor about all your medical conditions and all medications you take. This may help avoid serious drug interactions. Your doctor should do blood tests to check your liver function before starting CHOLECAP and during your treatment if you have symptoms of liver problems. Tell your doctor if you have diabetes. Elevated blood sugar levels have been reported with statins, including CHOLECAP."
+
+- **Deviation from Guidelines:**
+The original sentence lists numerous side effects without a specific emphasis, creating potential confusion.
+
+- **Expert Reviewer's Original Suggested Change:**
+"If you take CHOLECAP* (veevasstatin calcium) tablets, inform your doctor if you experience any new muscle pain or weakness, as this could indicate rare but serious side effects. Discuss all your medical conditions and medications with your doctor to avoid possible drug interactions. Liver function tests should be conducted before starting CHOLECAP and during treatment if symptoms of liver issues arise. Additionally, elevated blood sugar levels have been reported with statins, including CHOLECAP, particularly in diabetic patients."
+
+- **Explanation for New Suggested Change:**
+To ensure comprehensive understanding for patients about the possible side effects, we need to consolidate and present the information succinctly and respectfully.
+
+- **New Suggested Sentence:**
+"When taking CHOLECAP* (veevasstatin calcium) tablets, promptly inform your doctor of any new muscle pain or weakness, which could signal serious side effects. Discuss your medical conditions and all medications you use to prevent drug interactions. Blood tests are recommended before and during treatment to monitor liver function, especially if any symptoms arise. Additionally, as elevated blood sugar levels have been reported with statins, including CHOLECAP, inform your doctor if you have diabetes."
+
+- **Deviations:**
+According to [Global Legal & Compliance Pocket Guide], patient information must be clear, balanced, and contextually appropriate.
+
+---
+
+This review ensures all expert suggestions adhere to the Non-Promotional Material Guidelines comprehensively, promoting objective, clear, and non-promotional content.

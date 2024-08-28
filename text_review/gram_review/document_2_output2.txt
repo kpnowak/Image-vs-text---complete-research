@@ -1,0 +1,313 @@
+Step 1: Identify the language of the document.
+The language is English.
+
+Step 2: Since [document_language] is English, skip to the relevant review process.
+
+Let's work through each sentence to review and correct grammatical issues. 
+
+---
+
+**Source Sentence:** 
+"Reduction in LDL-C²"
+
+**Deviations Corrected:**
+- None (The sentence is structurally and grammatically correct).
+
+**Reason for No Change:**
+- There are no grammatical errors or deviations noted in this sentence. It is medically standard and concise.
+
+**New Sentence:**
+(No change)
+
+---
+
+**Source Sentence:**
+"CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.¹"
+
+**Deviations Corrected:**
+- None (The sentence is structurally and grammatically correct).
+
+**Reason for No Change:**
+- The sentence is clear, medically accurate, and free of grammatical errors.
+
+**New Sentence:**
+(No change)
+
+---
+
+**Source Sentence:**
+"CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain."
+
+**Deviations Corrected:**
+- None (The sentence is structurally and grammatically correct).
+
+**Reason for No Change:**
+- The sentence is clear, medically precise, and grammatically accurate.
+
+**New Sentence:**
+(No change)
+
+---
+
+**Source Sentence:**
+"Welcome to a brighter future for your patients."
+
+**Deviations Corrected:**
+- None (The sentence is complete and grammatically correct).
+
+**Reason for No Change:**
+- The sentence is concise and grammatically correct.
+
+**New Sentence:**
+(No change)
+
+---
+
+**Source Sentence:**
+"CHOLECAP* (veevasstatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP."
+
+**Deviations Corrected:**
+- Punctuation (misplaced comma).
+
+**Reason for Replacement:**
+- The comma after "everyone" was unnecessary, and a more appropriate structure was needed for clarity.
+
+**New Sentence:**
+"CHOLECAP* (veevasstatin calcium) tablets are not for everyone. This includes anyone who has previously had an allergic reaction to CHOLECAP."
+
+---
+
+**Source Sentence:**
+"It is not for those with liver problems."
+
+**Deviations Corrected:**
+- None (The sentence is structurally and grammatically correct).
+
+**Reason for No Change:**
+- The sentence is clear and free of grammatical errors.
+
+**New Sentence:**
+(No change)
+
+---
+
+**Source Sentence:**
+"And it is not for women who are nursing, pregnant, or may become pregnant."
+
+**Deviations Corrected:**
+- Sentence structure (coordinate conjunction at the beginning).
+
+**Reason for Replacement:**
+- Starting sentences with "and" can be stylistically informal. Joining this sentence with the previous one makes it more formal and cohesive.
+
+**New Sentence:**
+"It is also not for women who are nursing, pregnant, or may become pregnant."
+
+---
+
+**Source Sentence:**
+"If you take CHOLECAP* (veevasstatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness."
+
+**Deviations Corrected:**
+- None (The sentence is clear and grammatically correct).
+
+**Reason for No Change:**
+- The sentence is clear, concise, and free of grammatical errors.
+
+**New Sentence:**
+(No change)
+
+---
+
+**Source Sentence:**
+"This could be a sign of rare but serious muscle side effects."
+
+**Deviations Corrected:**
+- Punctuation (misplaced comma).
+
+**Reason for Replacement:**
+- Added a comma after "rare" for clearer readability.
+
+**New Sentence:**
+"This could be a sign of rare, but serious muscle side effects."
+
+---
+
+**Source Sentence:**
+"Tell your doctor about all your medical conditions and all medications you take."
+
+**Deviations Corrected:**
+- None (The sentence is structurally and grammatically correct).
+
+**Reason for No Change:**
+- The sentence is clear and grammatically correct.
+
+**New Sentence:**
+(No change)
+
+---
+
+**Source Sentence:**
+"This may help avoid serious drug interactions."
+
+**Deviations Corrected:**
+- None (The sentence is structurally and grammatically correct).
+
+**Reason for No Change:**
+- The sentence is clear and free of grammatical errors.
+
+**New Sentence:**
+(No change)
+
+---
+
+**Source Sentence:**
+"Your doctor should do blood tests to check your liver function before starting CHOLECAP and during your treatment if you have symptoms of liver problems."
+
+**Deviations Corrected:**
+- None
+
+**Reason for No Change:**
+- The sentence is clear and makes logical sense. No deviation from grammar rules.
+
+**New Sentence:**
+(No change)
+
+---
+
+**Source Sentence:**
+"Tell your doctor if you have diabetes."
+
+**Deviations Corrected:**
+- None
+
+**Reason for No Change:**
+- The sentence is clear and grammatically correct.
+
+**New Sentence:**
+(No change)
+
+---
+
+**Source Sentence:**
+"Elevated blood sugar levels have been reported with statins, including CHOLECAP."
+
+**Deviations Corrected:**
+- None
+
+**Reason for No Change:**
+- The sentence is clear and uses proper grammar.
+
+**New Sentence:**
+(No change)
+
+---
+
+**Source Sentence:**
+"Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests."
+
+**Deviations Corrected:**
+- None
+
+**Reason for No Change:**
+- The sentence clearly lists common side effects without any grammatical issues.
+
+**New Sentence:**
+(No change)
+
+---
+
+**Source Sentence:**
+"Patients should always ask their doctors for medical advice about adverse events."
+
+**Deviations Corrected:**
+- None
+
+**Reason for No Change:**
+- The sentence is grammatically correct and clear.
+
+**New Sentence:**
+(No change)
+
+---
+
+**Source Sentence:**
+"Created by:
+puksys"
+
+**Deviations Corrected:**
+- None
+
+**Reason for No Change:**
+- "puksys" looks like a proper name and does not require grammatical correction.
+
+**New Sentence:**
+(No change)
+
+---
+
+In conclusion, the provided document primarily adheres well to grammatical rules and requires minimal corrections. Most sentences are clear, precise, and correct. The few changes needed involve minor punctuation adjustments to enhance clarity and formality.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Step-by-Step Review and Feedback
+
+---
+
+#### Original Sentence:
+"CHOLECAP* (veevasstatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP."
+
+**Deviation from the guidelines originally provided by the expert reviewer:**
+The expert reviewer suggested dividing the sentence, which is unnecessary and does not significantly enhance clarity. The original structure is grammatically correct and unambiguous.
+
+**Expert reviewer's original suggested change:**
+"CHOLECAP* (veevasstatin calcium) tablets are not for everyone. This includes anyone who has previously had an allergic reaction to CHOLECAP."
+
+**Explanation for the reason behind your new suggested change:**
+While splitting the sentence can enhance readability, it is not strictly necessary in this instance. The original structure maintains a formal tone and is clear.
+
+**New suggested sentence:**
+"CHOLECAP* (veevasstatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP."
+
+---
+
+#### Original Sentence:
+"And it is not for women who are nursing, pregnant, or may become pregnant."
+
+**Deviation from the guidelines originally provided by the expert reviewer:**
+The expert reviewer suggested merging this sentence with the preceding one, citing formality concerns, but this was not necessary.
+
+**Expert reviewer's original suggested change:**
+"It is also not for women who are nursing, pregnant, or may become pregnant."
+
+**Explanation for the reason behind your new suggested change:**
+While the suggestion isn't incorrect, the coordination can be left as is for stylistic emphasis, emphasizing the fact independently.
+
+**New suggested sentence:**
+"And it is not for women who are nursing, pregnant, or may become pregnant."
+
+---
+
+#### Original Sentence:
+"This could be a sign of rare but serious muscle side effects."
+
+**Deviation from the guidelines originally provided by the expert reviewer:**
+The expert reviewer added a comma after "rare," which is unnecessary and creates a punctuation error.
+
+**Expert reviewer's original suggested change:**
+"This could be a sign of rare, but serious muscle side effects."
+
+**Explanation for the reason behind your new suggested change:**
+The addition of the comma introduces a punctuation error.
+
+**New suggested sentence:**
+"This could be a sign of rare but serious muscle side effects."
+
+---
+
+### Summary Feedback:
+The expert reviewer's comments and changes were largely accurate and did not necessitate significant alterations. My primary adjustments were focused on ensuring that all recommended changes adhered strictly to the guidelines and maintained clarity and formality where necessary. Additionally, unnecessary sentence modifications, such as unnecessary splits or punctuations, were left unchanged to preserve the original sentence structure's clarity and correctness.
+
+By ensuring each sentence maintains its original meaning and formality, we've adhered to the "Grammar & Spelling Guidelines" proficiently.

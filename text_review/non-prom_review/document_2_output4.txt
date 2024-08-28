@@ -1,0 +1,212 @@
+### Review of CholeCap Non-Promotional Material
+
+#### Opening Sentence
+**Source Sentence:**  
+"The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia¹"
+
+**Guideline Source:** EFPIA Chapter 3, Article 18 (iii), Communicate With Care Pocket Guide, Article 2 (ii).
+
+**Deviations Corrected:**
+- The statement may be construed as biased and not providing balanced scientific information, which might implicitly serve promotional purposes ("must have content that is fair, balanced and objective" - EFPIA 16.i).
+- Lack of contextual clarity ("Ensure clarity to prevent misunderstandings" - Communicate With Care Pocket Guide).
+
+**New Sentence:**  
+"CholeCap is approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia based on clinical studies."
+
+**Reasoning:**  
+This revised sentence is designed to maintain a neutral tone and avoid any claims of exclusivity that may appear promotional. It provides clarity without exaggeration or speculation.
+
+#### Efficacy and Safety Statement
+**Source Sentence:**  
+"Clinically proven efficacy and safety in paediatric patients²"
+
+**Guideline Source:** EFPIA Chapter 3, Article 16 (i), Communicate With Care Pocket Guide, Article 2 (iii).
+
+**Deviations Corrected:**
+- The statement is not sufficiently detailed and could be interpreted as promotional ("must not constitute Promotion" - EFPIA 16.i).
+- Claims not backed by detailed information can lead to misinterpretations ("Avoid exaggerations and speculations" - Communicate With Care Pocket Guide).
+
+**New Sentence:**  
+"Efficacy and safety of CholeCap in paediatric patients were demonstrated in clinical studies as referenced."
+
+**Reasoning:**  
+This updated sentence eliminates any unqualified claims, providing a reasoned and evidence-based approach.
+
+#### LDL-C Reduction Statement
+**Source Sentence:**  
+"Reduction in LDL-C²"
+
+**Guideline Source:** EFPIA Chapter 3, Article 16 (i), Communicate With Care Pocket Guide, Article 2 (iii).
+
+**Deviations Corrected:**
+- Lack of detail can lead to biased interpretation ("must have content that is fair, balanced and objective" - EFPIA 16.i).
+- Provides an incomplete picture which does not assist in fully understanding the material.
+
+**New Sentence:**  
+"Clinical studies have demonstrated that CholeCap reduces LDL-C levels in paediatric patients with familial hypercholesterolaemia."
+
+**Reasoning:**  
+This replacement ensures scientific accuracy and balanced information, emphasizing the role of clinical studies.
+
+#### Broader Impacts Statement
+**Source Sentence:**  
+"CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.¹"
+
+**Guideline Source:** EFPIA Chapter 3, Article 18 (iii), Disclaimer Texts for Non-promotional Material, Article 3.
+
+**Deviations Corrected:**
+- Statement is promotional and not fully clear in scientific details ("must not constitute an inducement to recommend and/or prescribe" - EFPIA 17.iii).
+- Lack of necessary disclaimers and more contextual clarity.
+
+**New Sentence:**  
+"Studies have shown that CholeCap can reduce elevated total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls aged 10 to 17 years with heterozygous familial hypercholesterolaemia. Please consult the patient leaflet for detailed information."
+
+**Reasoning:**  
+Balances the scientific claims with a more neutral tone and provides a disclaimer to direct users to additional sources of information.
+
+#### Broader Impacts Sentence
+**Source Sentence:**  
+"CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain. Welcome to a brighter future for your patients."
+
+**Guideline Source:** EFPIA Chapter 3, Article 18 (i), Communicate With Care Pocket Guide, Article 2 (iii).
+
+**Deviations Corrected:**
+- Overtly promotional language ("must not be disguised Promotion" - EFPIA Article 18).
+- Out of context and speculative statements intended to sway opinion positively are avoided ("Avoid exaggerations and speculations. Maintain a professional tone." - Communicate With Care).
+
+**New Sentence:**  
+"CholeCap has been shown in clinical studies to potentially reduce the risks associated with cardiovascular events like heart attack, stroke, and certain cardiac surgeries, based on evidence from monitored patient outcomes."
+
+**Reasoning:**  
+Removes overtly promotional and speculative language, maintaining a professional tone and focus on objective evidence.
+
+#### Important Safety Information
+**Source Sentence:**  
+"CHOLECAP* (veevasstatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP. It is not for those with liver problems. And it is not for women who are nursing, pregnant, or may become pregnant."
+
+**Guideline Source:** EFPIA Chapter 3, Article 17 (iv), Communicate With Care Pocket Guide, Article 3 (i).
+
+**Deviations Corrected:**
+- Statement needs to maintain clarity and provide explicit detail without an implicit promotional angle ("must not constitute a circumvention of the prohibition on gifts" - EFPIA Article 17.iii).
+- Communicates essential safety info, which is aligned but could be clearer ("Maintain Professional Tone" - Communicate With Care; "Directly relevant to patient care" - EFPIA).
+
+**New Sentence:**  
+"CholeCap (Veevasstatin calcium) tablets are contraindicated for individuals with known hypersensitivity to the medication, those with liver conditions, and women who are pregnant, nursing, or may become pregnant."
+
+**Reasoning:**  
+This ensures comprehensive, clear, and professionally toned safety information.
+
+### Additional Points
+- **Disclaimer Addition:** Add "If you experience any side effects while using CholeCap, talk to your doctor, pharmacist, or nurse." from Disclaimer Texts for Non-promotional Material 2 and Communicate with Care Pocket Guide Article 3.
+  
+**Reasoning:**  
+Including disclaimers ensures regulatory alignment and patient guidance, addressing potential legal and practical requirements.
+
+### Summary
+By making the aforementioned revisions, we ensure that the document complies with EFPIA guidelines on non-promotional educational content, adheres to ethical standards, and provides balanced and accurate information without promotional bias. Each change addresses specific deviations in compliance, offering clear and professional communication that respects legal and ethical boundaries.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review of CholeCap Non-Promotional Material
+
+#### Opening Sentence
+**Original Source Sentence:**
+"The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+
+**Deviation from Guidelines:**
+- The statement may be construed as biased and not providing balanced scientific information, which might implicitly serve promotional purposes ("must have content that is fair, balanced and objective" - EFPIA Chapter 3, Article 16.i).
+- Lack of contextual clarity ("Ensure clarity to prevent misunderstandings" - Communicate With Care Pocket Guide, Article 2.ii).
+
+**Expert Reviewer’s Suggested Change:**
+"CholeCap is approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia based on clinical studies."
+
+**Explanation for New Suggested Change:**
+While the expert reviewer’s change addresses the bias and enhances clarity, it still lacks a completely neutral tone and could benefit from additional context to ensure the information is presented fairly and objectively.
+
+**New Suggested Sentence:**
+"CholeCap has received approval for treating hypercholesterolaemia in teenagers with familial hypercholesterolaemia, as supported by clinical study data."
+
+**In the Deviations Write Which Source and Key Point from "Non-Promotional Material Guidelines" Influenced the Response:**
+According to EFPIA Chapter 3, Article 16.i, and Communicate With Care Pocket Guide, Article 2.ii, the information suggests that the statement must be fair, balanced, and objective, and clear to prevent misunderstandings.
+
+#### Efficacy and Safety Statement
+**Original Source Sentence:**
+"Clinically proven efficacy and safety in paediatric patients."
+
+**Deviation from Guidelines:**
+- The statement is not sufficiently detailed and could be interpreted as promotional ("must not constitute Promotion" - EFPIA Chapter 3, Article 16.i).
+- Claims not backed by detailed information can lead to misinterpretations ("Avoid exaggerations and speculations" - Communicate With Care Pocket Guide, Article 2.iii).
+
+**Expert Reviewer’s Suggested Change:**
+"Efficacy and safety of CholeCap in paediatric patients were demonstrated in clinical studies as referenced."
+
+**Explanation for New Suggested Change:**
+The expert reviewer’s change addresses the need for evidence-based information but could clearly mention the reference to clinical studies to reinforce the claim's credibility.
+
+**New Suggested Sentence:**
+"Clinical studies have demonstrated the efficacy and safety of CholeCap in paediatric patients with familial hypercholesterolaemia, providing sound scientific evidence."
+
+**In the Deviations Write Which Source and Key Point from "Non-Promotional Material Guidelines" Influenced the Response:**
+According to EFPIA Chapter 3, Article 16.i and Communicate With Care Pocket Guide, Article 2.iii, the statement must be detailed, evidence-based, and avoid promotional bias.
+
+#### LDL-C Reduction Statement
+**Original Source Sentence:**
+"Reduction in LDL-C."
+
+**Deviation from Guidelines:**
+- Lack of detail can lead to biased interpretation ("must have content that is fair, balanced and objective" - EFPIA Chapter 3, Article 16.i).
+- Provides an incomplete picture, which does not assist in fully understanding the material.
+
+**Expert Reviewer’s Suggested Change:**
+"Clinical studies have demonstrated that CholeCap reduces LDL-C levels in paediatric patients with familial hypercholesterolaemia."
+
+**Explanation for New Suggested Change:**
+The expert reviewer’s suggestion is appropriate but can be enhanced to further ensure scientific accuracy and a balanced tone.
+
+**New Suggested Sentence:**
+"Clinical studies indicate that CholeCap significantly reduces LDL-C levels in paediatric patients diagnosed with familial hypercholesterolaemia, illustrating its therapeutic benefits."
+
+**In the Deviations Write Which Source and Key Point from "Non-Promotional Material Guidelines" Influenced the Response:**
+According to EFPIA Chapter 3, Article 16.i and Communicate With Care Pocket Guide, Article 2.iii, the information must be clear, objective, and comprehensive to prevent misinterpretation.
+
+#### Broader Impacts Statement
+**Original Source Sentence:**
+"CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+
+**Deviation from Guidelines:**
+- Statement is promotional and not fully clear in scientific details ("must not constitute an inducement to recommend and/or prescribe" - EFPIA Chapter 3, Article 17.iii).
+- Lack of necessary disclaimers and more contextual clarity.
+
+**Expert Reviewer’s Suggested Change:**
+"Studies have shown that CholeCap can reduce elevated total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls aged 10 to 17 years with heterozygous familial hypercholesterolaemia. Please consult the patient leaflet for detailed information."
+
+**Explanation for New Suggested Change:**
+While the expert reviewer's suggestion is comprehensive, it can further improve by adding a warning statement to enhance clarity and compliance with guidelines.
+
+**New Suggested Sentence:**
+"Clinical studies have demonstrated that CholeCap can reduce elevated total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls aged 10 to 17 years with heterozygous familial hypercholesterolaemia. For more information, please refer to the patient leaflet and consult with your healthcare provider."
+
+**In the Deviations Write Which Source and Key Point from "Non-Promotional Material Guidelines" Influenced the Response:**
+According to EFPIA Chapter 3, Article 17.iii, and Disclaimer Texts for Non-promotional Material, Article 3, the information must be clear and unbiased, incorporating necessary disclaimers to ensure transparency and patient guidance.
+
+#### Broader Impacts Sentence
+**Original Source Sentence:**
+"CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain. Welcome to a brighter future for your patients."
+
+**Deviation from Guidelines:**
+- Overtly promotional language ("must not be disguised Promotion" - EFPIA Chapter 3, Article 18.i).
+- Out of context and speculative statements intended to sway opinion positively are avoided ("Avoid exaggerations and speculations. Maintain a professional tone." - Communicate With Care Pocket Guide, Article 2.iii).
+
+**Expert Reviewer’s Suggested Change:**
+"CholeCap has been shown in clinical studies to potentially reduce the risks associated with cardiovascular events like heart attack, stroke, and certain cardiac surgeries, based on evidence from monitored patient outcomes."
+
+**Explanation for New Suggested Change:**
+The expert reviewer's change is largely appropriate but can benefit from a further reduction in speculative language, tight adherence to evidence-based approach, and inclusion of a disclaimer for additional information.
+
+**New Suggested Sentence:**
+"Clinical studies indicate that CholeCap may help reduce the risks of cardiovascular events such as heart attack, stroke, and certain cardiac surgeries in patients with familial hypercholesterolaemia. For detailed guidance, please consult the patient information leaflet."
+
+**In the Deviations Write Which Source and Key Point from "Non-Promotional Material Guidelines" Influenced the Response:**
+According to EFPIA Chapter 3, Article 18.i, and Communicate With Care Pocket Guide, Article 2.iii, the statements must be objective, free from promotion, and factual, avoiding speculation and maintaining a professional tone.

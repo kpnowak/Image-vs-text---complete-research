@@ -1,0 +1,286 @@
+### Review of Document:
+
+**Document to review:**
+---
+**DIABETES WHAT'S NEXT?**
+ 
+Home > Treatments for diabetes
+ 
+How to talk about treatment options
+
+When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.1
+
+It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment.
+
+Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion. Come to every appointment prepared to talk, ask questions and find solutions together. Here are some topics to consider if you want to speak up about your type 2 diabetes treatment:
+
+Goals
+Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+Challenges
+Discuss any difficulties you’ve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high. If relevant, you can also ask if there might be a better alternative that addresses these challenges.
+
+Lifestyle
+Talk about your lifestyle, how it impacts how well your treatment is working, and if changes to your treatment plan are needed. For example, you could be travelling a lot for work and want to make sure your medication is easy to take, or you may need more support with your weight management goals despite already eating healthily and exercising to the best of your ability.
+
+Concerns and side effects
+Ask questions or share concerns you may have about your treatment plan. This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommendation to you. Your doctor should be able to talk you through all of those concerns and more. 
+
+Treatment expectations
+Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan. Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan is working. 
+
+Follow-up
+If you are making any changes to your treatment plan, discuss with your doctor how you should follow-up on how it is working. Typically, type 2 diabetes patients should see their doctor every 3-6 months to check in and re-evaluate their treatments.
+
+Remember, this conversation is about working together with your doctor to find the best treatment option for you. By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health.
+
+---
+
+**Guideline source which influenced your response:**
+Source: Communicate With Care Pocket Guide
+
+**The source sentence your new sentence replaces:**
+It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment.
+
+**The deviations your new sentence corrects:**
+The phrase "like you’re doing right now!" uses casual language that may not maintain a professional tone. According to the Communicate With Care Pocket Guide, Article 2, it is important to maintain a professional tone and use polite language.
+
+**Your new sentence:**
+It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. While these conversations can be difficult to start, keeping your treatment goals in mind and educating yourself about type 2 diabetes can help you communicate with your doctor more openly about treatment.
+
+**The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+The new sentence removes the casual phrase and maintains a professional tone, thereby adhering to the guideline of maintaining clear and professional communication.
+
+---
+
+**Guideline source which influenced your response:**
+Source: EFPIA Chapter 4, Article 21
+
+**The source sentence your new sentence replaces:**
+The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor.
+
+**The deviations your new sentence corrects:**
+The sentence lacks a disclaimer that emphasizes its educational purpose and not a promotional intent.
+
+**Your new sentence:**
+The information on this website is intended for educational purposes only and should not replace professional medical advice. This material is not intended to promote any specific medicinal product.
+
+**The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+The new sentence includes a clear disclaimer stating the non-promotional intent, aligning with EFPIA guidelines that all interactions and materials must be transparent and not promotional.
+
+---
+
+**Guideline source which influenced your response:**
+Source: EFPIA Chapter 3, Article 17
+
+**The source sentence your new sentence replaces:**
+Discuss any difficulties you’ve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.
+
+**The deviations your new sentence corrects:**
+The sentence lists potential preferences without ensuring the material remains fair, balanced, and non-promotional.
+
+**Your new sentence:**
+Discuss any difficulties you’ve experienced with your current treatment, including side effects, preference for a pill or an injection (if available), lifestyle compatibility, or treatment costs. These conversations should help your doctor understand your needs and consider all available treatment options.
+
+**The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+The new sentence maintains a balanced and fair tone, providing context for the discussion without implying a preference or promoting specific treatments, thus adhering to EFPIA guidelines.
+
+---
+
+**Guideline source which influenced your response:**
+Source: Scientific Information Exchange
+
+**The source sentence your new sentence replaces:**
+Ask questions or share concerns you may have about your treatment plan. This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommendation to you.
+
+**The deviations your new sentence corrects:**
+The original sentence potentially offers advice that can be misinterpreted as medical guidance.
+
+**Your new sentence:**
+Ask questions or share concerns you may have about your treatment plan. This discussion can help you and your doctor better understand how your medication works, manage any side effects, and address any other concerns related to your lifestyle and treatment.
+
+**The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+The new sentence clarifies the role of the doctor in providing medical advice, aligning with the guideline about ethical and professional communication standards.
+
+---
+
+**Guideline source which influenced your response:**
+Source: Disclaimer Texts for Non-promotional Material, Article 3
+
+**The source sentence your new sentence replaces:**
+Typically, type 2 diabetes patients should see their doctor every 3-6 months to check in and re-evaluate their treatments.
+
+**The deviations your new sentence corrects:**
+The sentence does not provide a disclaimer emphasizing it as general information.
+
+**Your new sentence:**
+Typically, type 2 diabetes patients should see their doctor every 3-6 months to check in and re-evaluate their treatments. This information is for general educational purposes and should not replace professional medical advice.
+
+**The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+The new sentence includes a disclaimer, ensuring compliance with guidelines on providing disclaimers to avoid the material being construed as medical advice.
+
+---
+
+**Guideline source which influenced your response:**
+Source: EFPIA Chapter 3, Article 16
+
+**The source sentence your new sentence replaces:**
+Remember, this conversation is about working together with your doctor to find the best treatment option for you. By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health.
+
+**The deviations your new sentence corrects:**
+The sentence can be interpreted as promoting a collaborative approach without ensuring it is non-promotional.
+
+**Your new sentence:**
+Remember, this conversation aims to collaborate with your doctor to find the most suitable treatment option for you. Being proactive, asking questions, and participating in the decision-making process can help tailor a treatment plan that supports your journey towards better health.
+
+**The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+The new sentence emphasizes collaboration and personalization without promoting any specific product or treatment, maintaining compliance with EFPIA's guidelines on non-promotion.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+**Review of Document:**
+
+**Document to review:**
+---
+**DIABETES WHAT'S NEXT?**
+
+Home > Treatments for diabetes
+
+How to talk about treatment options
+
+When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.
+
+It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment.
+
+Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion. Come to every appointment prepared to talk, ask questions and find solutions together. Here are some topics to consider if you want to speak up about your type 2 diabetes treatment:
+
+Goals
+Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+Challenges
+Discuss any difficulties you’ve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high. If relevant, you can also ask if there might be a better alternative that addresses these challenges.
+
+Lifestyle
+Talk about your lifestyle, how it impacts how well your treatment is working, and if changes to your treatment plan are needed. For example, you could be travelling a lot for work and want to make sure your medication is easy to take, or you may need more support with your weight management goals despite already eating healthily and exercising to the best of your ability.
+
+Concerns and side effects
+Ask questions or share concerns you may have about your treatment plan. This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommendation to you. Your doctor should be able to talk you through all of those concerns and more.
+
+Treatment expectations
+Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan. Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan is working.
+
+Follow-up
+If you are making any changes to your treatment plan, discuss with your doctor how you should follow-up on how it is working. Typically, type 2 diabetes patients should see their doctor every 3-6 months to check in and re-evaluate their treatments.
+
+Remember, this conversation is about working together with your doctor to find the best treatment option for you. By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health.
+
+---
+
+
+**Comment 1:**
+
+- **The original source sentence:** 
+It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment.
+
+- **The deviation from the guidelines originally provided by the expert reviewer:** 
+The phrase "like you’re doing right now!" uses casual language that may not maintain a professional tone. According to the Communicate With Care Pocket Guide, Article 2, it is important to maintain a professional tone and use polite language.
+
+- **The expert reviewer's original suggested change:** 
+It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. While these conversations can be difficult to start, keeping your treatment goals in mind and educating yourself about type 2 diabetes can help you communicate with your doctor more openly about treatment.
+
+- **An explanation for the reason behind your new suggested change:** 
+Although the expert reviewer's suggestion is reasonable, it can be improved to avoid redundancy and tight phrasing for better flow.
+
+- **Your new suggested sentence:** 
+It's important to feel empowered and ready to discuss any beneficial changes with your doctor. Initiating these conversations can be challenging, but by staying focused on your treatment goals and continually educating yourself about type 2 diabetes, you can communicate more openly with your doctor about treatment.
+
+- **Deviations:** 
+According to Communicate With Care Pocket Guide, the information suggests that maintaining a professional tone is crucial, hence the removal of casual language and improving readability.
+
+
+**Comment 2:**
+
+- **The original source sentence:** 
+Discuss any difficulties you’ve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.
+
+- **The deviation from the guidelines originally provided by the expert reviewer:** 
+The sentence lists potential preferences without ensuring the material remains fair, balanced, and non-promotional.
+
+- **The expert reviewer's original suggested change:** 
+Discuss any difficulties you’ve experienced with your current treatment, including side effects, preference for a pill or an injection (if available), lifestyle compatibility, or treatment costs. These conversations should help your doctor understand your needs and consider all available treatment options.
+
+- **An explanation for the reason behind your new suggested change:** 
+While the expert reviewer maintains a balanced tone, further emphasis on exploring various treatment options can enhance the non-promotional stance.
+
+- **Your new suggested sentence:** 
+Discuss any difficulties you've encountered with your current treatment, such as side effects, preferences between pill or injection (if available), lifestyle compatibility, or cost. Collaborating with your doctor on these issues ensures all potential treatment options are considered.
+
+- **Deviations:** 
+According to EFPIA Chapter 3, Article 17, the guideline emphasizes that Informational or Educational Materials must be fair, balanced, and non-promotional.
+
+**Comment 3:**
+
+- **The original source sentence:**
+Ask questions or share concerns you may have about your treatment plan. This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommendation to you.
+
+- **The deviation from the guidelines originally provided by the expert reviewer:**
+The original sentence potentially offers advice that can be misinterpreted as medical guidance.
+
+- **The expert reviewer's original suggested change:**
+Ask questions or share concerns you may have about your treatment plan. This discussion can help you and your doctor better understand how your medication works, manage any side effects, and address any other concerns related to your lifestyle and treatment.
+
+- **An explanation for the reason behind your new suggested change:**
+To ensure clarity and reinforce that the primary source of advice should be the doctor.
+
+- **Your new suggested sentence:**
+Ask questions or share concerns about your treatment plan to help your doctor understand your situation better. This can include discussing how your medication works, managing potential side effects, or addressing lifestyle recommendations.
+
+- **Deviations:**
+According to the Scientific Information Exchange, clear communication and ensuring the doctor is the source of medical guidance is paramount. 
+
+**Comment 4:**
+
+- **The original source sentence:**
+Typically, type 2 diabetes patients should see their doctor every 3-6 months to check in and re-evaluate their treatments.
+
+- **The deviation from the guidelines originally provided by the expert reviewer:**
+The sentence does not provide a disclaimer emphasizing it as general information.
+
+- **The expert reviewer's original suggested change:**
+Typically, type 2 diabetes patients should see their doctor every 3-6 months to check in and re-evaluate their treatments. This information is for general educational purposes and should not replace professional medical advice.
+
+- **An explanation for the reason behind your new suggested change:**
+While the expert's suggestion adds a disclaimer, it can be made more concise for clarity.
+
+- **Your new suggested sentence:**
+Typically, type 2 diabetes patients should check in with their doctor every 3-6 months to re-evaluate treatments. This advice is for general educational purposes and is not a substitute for professional medical advice.
+
+- **Deviations:** 
+According to Disclaimer Texts for Non-promotional Material, Article 3, it is essential to include disclaimers that emphasize information is general and educational.
+
+
+**Comment 5:**
+
+- **The original source sentence:**
+Remember, this conversation is about working together with your doctor to find the best treatment option for you. By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health.
+
+- **The deviation from the guidelines originally provided by the expert reviewer:**
+The sentence can be interpreted as promoting a collaborative approach without ensuring it is non-promotional.
+
+- **The expert reviewer's original suggested change:**
+Remember, this conversation aims to collaborate with your doctor to find the most suitable treatment option for you. Being proactive, asking questions, and participating in the decision-making process can help tailor a treatment plan that supports your journey towards better health.
+
+- **An explanation for the reason behind your new suggested change:**
+The expert reviewer's change maintains a good balance but can be further simplified for clarity.
+
+- **Your new suggested sentence:**
+Remember, these discussions aim to find the most suitable treatment options with your doctor. By actively participating and asking questions, you can help develop a personalized plan to support your journey toward better health.
+
+- **Deviations:** 
+According to EFPIA Chapter 3, Article 16, ensuring non-promotional, fair, and balanced information is critical.
+
+---
+
+This should conclude the improved responses to the expert reviewer's comments, ensuring that all suggested changes better adhere to the "Non-Promotional Material Guidelines". Every effort was made to ensure compliance with the guidelines and improve clarity and professionalism.
