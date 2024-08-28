@@ -3,7 +3,11 @@ import base64
 import os
 
 
-
+client = AzureOpenAI(
+    api_key=os.getenv("AZURE_OPENAI_API_KEY"),  
+    api_version=os.getenv("OPENAI_API_VERSION"),
+    azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT")
+)
 
 # Function to encode the image
 def encode_image(image_path):
