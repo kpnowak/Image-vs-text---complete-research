@@ -1,0 +1,104 @@
+### Review Comment 1
+
+- **Guideline Source:** Disclaimer Texts for Non-promotional Material
+- **Source Sentence:** This material is for preparatory use in NN only.
+- **Deviations:** According to the Disclaimer Texts for Non-promotional Material, the document should include a clear disclaimer such as: "This material is for preparatory use in NN only."
+- **New Sentence:** This material is for preparatory use in NN only.
+- **Reason for Replacement:** Adding this disclaimer ensures that the document is identified as non-promotional and internal use only, which is necessary to comply with ethical standards and to avoid any unintended promotional interpretations.
+
+### Review Comment 2
+
+- **Guideline Source:** Article 16 - Lifelong Learning in Healthcare
+- **Source Sentence:** Clinical studies have demonstrated that BASE Product reduces the severity of headaches by more than 30%.
+- **Deviations:** According to EFPIA Chapter 3, Article 16, the non-promotional material must present information in a fair, balanced, and objective way.
+- **New Sentence:** Independent clinical studies have shown that BASE Product may reduce the severity of headaches by approximately 30%, reflecting a balanced view of the product's efficacy.
+- **Reason for Replacement:** The revised sentence balances the information by referencing independent studies and changing "more than 30%" to "approximately 30%," which avoids misinterpretation and maintains fairness and objectivity.
+
+### Review Comment 3
+
+- **Guideline Source:** Article 17 - Informational or Educational Materials and Items of Medical Utility
+- **Source Sentence:** Recognized as one of the safest headache medicines available today, BASE Product provides you and your patients with peace of mind.
+- **Deviations:** According to EFPIA Chapter 3, Article 17, informational materials must be fair and factual without making unsubstantiated claims.
+- **New Sentence:** BASE Product’s safety profile has been well-reviewed in clinical studies, providing reassurance regarding its use for headache management.
+- **Reason for Replacement:** The revision ensures the statement is factual and evidence-based without making unverified claims about being the "safest."
+
+### Review Comment 4
+
+- **Guideline Source:** Article 18 - Non-Interventional Studies
+- **Source Sentence:** BASE Product is more than just a medication; it’s a step forward in headache management.
+- **Deviations:** According to EFPIA Chapter 4, Article 21, non-promotional documents should not influence healthcare professionals in favor of a particular product.
+- **New Sentence:** BASE Product aims to provide a new option in the management of headaches.
+- **Reason for Replacement:** The replaced sentence provides a more neutral and objective tone, which aligns better with the non-promotional intent.
+
+### Review Comment 5
+
+- **Guideline Source:** Communicate With Care Pocket Guide
+- **Source Sentence:** By choosing BASE Product, you are opting for a treatment that ensures quicker, longer-lasting relief for your patients.
+- **Deviations:** The Communicate With Care Pocket Guide suggest communication should avoid exaggerations and speculations.
+- **New Sentence:** BASE Product offers properties that may provide efficient and lasting relief for headache management.
+- **Reason for Replacement:** This modification avoids implied guarantees and presents a more factual possibility, enhancing clarity and professionalism.
+
+### Review Comment 6
+
+- **Guideline Source:** Article 17 - Informational or Educational Materials and Items of Medical Utility
+- **Source Sentence:** In head-to-head comparisons with the leading competitor, BASE Product has proven to be 43% more efficient.
+- **Deviations:** According to EFPIA Article 17, comparisons must be factual and objective without being promotional.
+- **New Sentence:** Clinical comparisons have suggested that BASE Product may be more efficient in certain aspects of headache management.
+- **Reason for Replacement:** The new sentence provides a balanced and objective perspective without definitive promotional claims.
+
+### Review Comment 7
+
+- **Guideline Source:** Communicate With Care Pocket Guide
+- **Source Sentence:** Thank you for considering BASE Product as your preferred headache medication.
+- **Deviations:** The Communicate With Care Pocket Guide recommends avoiding language that may be interpreted as promotional or suggestive of preferential use.
+- **New Sentence:** Thank you for considering the potential benefits of BASE Product for your headache management options.
+- **Reason for Replacement:** This adjustment mitigates the promotional undertone, making the document compliant with non-promotional guidelines while maintaining professionalism.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review Comment 2
+
+- **Original Source Sentence:** Clinical studies have demonstrated that BASE Product reduces the severity of headaches by more than 30%.
+- **Deviation from the Guidelines Originally Provided by the Expert Reviewer:** The original sentence could use additional clarity regarding the independence of the studies and a softer metric comparison to maintain balance and objectiveness.
+- **Expert Reviewer's Original Suggested Change:** Independent clinical studies have shown that BASE Product may reduce the severity of headaches by approximately 30%, reflecting a balanced view of the product's efficacy.
+- **Explanation for the Reason Behind Your New Suggested Change:** The expert reviewer's change is generally good, but adding "multiple" before "independent clinical studies" can further emphasize the broad support for the product's efficacy and enhance objectivity.
+- **Your New Suggested Sentence:** Multiple independent clinical studies have shown that BASE Product may reduce the severity of headaches by approximately 30%, reflecting a balanced view of its efficacy.
+- **Deviations:** According to [Source - EFPIA Chapter 3, Article 16] the non-promotional material must present information in a fair, balanced, and objective way.
+
+### Review Comment 3
+
+- **Original Source Sentence:** Recognized as one of the safest headache medicines available today, BASE Product provides you and your patients with peace of mind.
+- **Deviation from the Guidelines Originally Provided by the Expert Reviewer:** The original sentence makes a generalized safety claim and implies a level of assurance that might not be universally supported.
+- **Expert Reviewer's Original Suggested Change:** BASE Product’s safety profile has been well-reviewed in clinical studies, providing reassurance regarding its use for headache management.
+- **Explanation for the Reason Behind Your New Suggested Change:** Instead of "reassurance," which could imply a guarantee, using "confidence" might be more balanced and objective, reducing the promotional tone.
+- **Your New Suggested Sentence:** BASE Product’s safety profile has been well-reviewed in clinical studies, allowing healthcare providers to have confidence in its use for headache management.
+- **Deviations:** According to [Source - EFPIA Chapter 3, Article 17] informational materials must be fair and factual without making unsubstantiated claims.
+
+### Review Comment 4
+
+- **Original Source Sentence:** BASE Product is more than just a medication; it’s a step forward in headache management.
+- **Deviation from the Guidelines Originally Provided by the Expert Reviewer:** The original sentence personifies the product and suggests progressiveness in a promotional manner.
+- **Expert Reviewer's Original Suggested Change:** BASE Product aims to provide a new option in the management of headaches.
+- **Explanation for the Reason Behind Your New Suggested Change:** The phrase "aims to provide" introduces intent, which may also seem promotional. Instead, more factual phrasing should be adopted.
+- **Your New Suggested Sentence:** BASE Product serves as an additional option for the management of headaches.
+- **Deviations:** According to [Source - EFPIA Chapter 4, Article 21] non-promotional documents should not influence healthcare professionals in favor of a particular product.
+
+### Review Comment 6
+
+- **Original Source Sentence:** In head-to-head comparisons with the leading competitor, BASE Product has proven to be 43% more efficient.
+- **Deviation from the Guidelines Originally Provided by the Expert Reviewer:** The original sentence uses a precise percentage and "proven," which may give an overly definitive and potentially promotional impression.
+- **Expert Reviewer's Original Suggested Change:** Clinical comparisons have suggested that BASE Product may be more efficient in certain aspects of headache management.
+- **Explanation for the Reason Behind Your New Suggested Change:** Specifying "certain aspects of headache management" is helpful but adding "when compared to a leading competitor" can provide context while maintaining balance.
+- **Your New Suggested Sentence:** Clinical comparisons have suggested that BASE Product may demonstrate greater efficiency in certain aspects of headache management when compared to a leading competitor.
+- **Deviations:** According to [Source - EFPIA Chapter 3, Article 17] comparisons must be factual and objective without being promotional.
+
+### Review Comment 7
+
+- **Original Source Sentence:** Thank you for considering BASE Product as your preferred headache medication.
+- **Deviation from the Guidelines Originally Provided by the Expert Reviewer:** The original sentence implies that BASE Product should be the preferred choice, suggesting a promotional tone.
+- **Expert Reviewer's Original Suggested Change:** Thank you for considering the potential benefits of BASE Product for your headache management options.
+- **Explanation for the Reason Behind Your New Suggested Change:** The expert reviewer's suggestion is suitable but adding "among your" can further neutralize the tone, ensuring no preference is hinted.
+- **Your New Suggested Sentence:** Thank you for considering the potential benefits of BASE Product among your headache management options.
+- **Deviations:** According to [Source - Communicate With Care Pocket Guide] the information suggests that communication should avoid implied guarantees or definite preferences.

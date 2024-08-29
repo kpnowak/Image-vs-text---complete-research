@@ -1,0 +1,92 @@
+### Review of the Document Image in Compliance with "Non-Promotional Material Guidelines"
+
+#### 1. Claims Regarding Efficacy and Safety
+- **Guideline source**: EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility
+- **Source sentence**: "Clinically proven efficacy and safety in paediatric patients"
+- **Deviations corrected**:
+    - According to EFPIA Chapter 3, Article 17 (iii), the materials must not constitute an inducement to recommend and/or prescribe.
+    - The sentence suggests promotional intent with claims of "clinically proven" without presenting a balanced view or context.
+- **New sentence**: "Clinical data available on efficacy and safety in paediatric patients."
+- **Reason**: This revision presents the information in a more balanced, objective manner and avoids promoting the product explicitly.
+
+#### 2. Prominence of Company and Product Branding
+- **Guideline source**: EFPIA Chapter 3, Article 17(iv)
+- **Source sentence**: "CholeCap" and product logo appearing prominently throughout the document.
+- **Deviations corrected**:
+    - According to EFPIA Chapter 3, Article 17(iv), materials can include the Member Company name but must not be product-branded unless essential for the correct use.
+- **New sentence (or adjustment)**: Reduce the prominence of the product name and logo, replacing "CholeCap" instances with general terms where possible.
+- **Reason**: To remove excessive branding, ensuring the document remains non-promotional and focused on educational content rather than brand promotion.
+
+#### 3. Context and Factual Presentation 
+- **Guideline source**: Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional
+- **Source sentence**: "The first and only statin approved for the treatment of hypercholesterolemia in teenagers with familial hypercholesterolemia."
+- **Deviations corrected**:
+    - According to Communicate With Care Pocket Guide, Article 2, the information suggests an exaggerated claim with "The first and only..."
+- **New sentence**: "A statin approved for the treatment of hypercholesterolemia in teenagers with familial hypercholesterolemia."
+- **Reason**: This revision removes the superlative claim, maintaining a clear and objective tone.
+
+#### 4. Addressing Potential Off-Label Information
+- **Guideline source**: Global Legal & Compliance Pocket Guide Semaglutide Portfolio, Article 1 - Non-Promotional Material
+- **Source sentence**: "Reduction in LDL-C"
+- **Deviations corrected**:
+    - There is an implicit promotion of the therapeutic effect without straightforward context or limitations.
+- **New sentence**: "Observed reduction in LDL-C in clinical studies."
+- **Reason**: Adds clarity that this information is based on clinical observations, remaining factual and avoiding any implication of promotion.
+
+#### 5. Disclaimers Absence
+- **Guideline source**: Disclaimer Texts for Non-promotional Material
+- **Source sentence**: None (Identified absence of disclaimers).
+- **Deviations corrected**:
+    - According to Disclaimer Texts for Non-promotional Material, the absence of disclaimers is a deviation.
+- **New sentence**: Add disclaimers such as "The image shown is a model and not a real patient." and "This information is intended for healthcare professionals and should not replace consultation with a qualified healthcare provider."
+- **Reason**: Ensuring appropriate disclaimers are present to avoid misleading the audience and ensuring the material is non-promotional.
+
+By implementing these revisions, the document will better comply with the specified guidelines, limiting promotional intent while maintaining educational value and clarity.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review of the Document Image in Compliance with "Non-Promotional Material Guidelines"
+
+#### 1. Claims Regarding Efficacy and Safety
+- **Original source sentence**: "Clinically proven efficacy and safety in paediatric patients"
+- **Expert reviewer's suggested change**: "Clinical data available on efficacy and safety in paediatric patients."
+- **Reason for new suggested change**:
+    - The expert reviewer's change still suggests implicitly that the product is effective and safe without presenting a balanced or comparative view.
+- **New suggested sentence**: "Clinical data on efficacy and safety in paediatric patients are available."
+- **Deviations**:
+    - According to [Source - EFPIA Chapter 3, Article 17 (iii)], the materials must not constitute an inducement to recommend and/or prescribe. The revised sentence ensures there is no promotional language.
+- **Explanation**: This sentence remains factual and less promotional by stating the existence of data without drawing conclusions about efficacy and safety.
+
+#### 3. Context and Factual Presentation 
+- **Original source sentence**: "The first and only statin approved for the treatment of hypercholesterolemia in teenagers with familial hypercholesterolemia."
+- **Expert reviewer's suggested change**: "A statin approved for the treatment of hypercholesterolemia in teenagers with familial hypercholesterolemia."
+- **Reason for new suggested change**:
+    - The expert reviewer's change removes the superlative claim but can still imply exclusivity.
+- **New suggested sentence**: "Approved for the treatment of hypercholesterolemia in teenagers with familial hypercholesterolemia."
+- **Deviations**:
+    - According to [Source - Communicate With Care Pocket Guide, Article 2], the information must avoid exaggeration and speculative language. The new sentence eliminates any implications of exclusivity or superiority.
+- **Explanation**: This change is even more neutral by eliminating any adjectives that could be perceived as promotional.
+
+#### 4. Addressing Potential Off-Label Information
+- **Original source sentence**: "Reduction in LDL-C"
+- **Expert reviewer's suggested change**: "Observed reduction in LDL-C in clinical studies."
+- **Reason for new suggested change**:
+    - The expert reviewer's change adds some context but can still be implicitly promotional.
+- **New suggested sentence**: "Clinical studies have reported a reduction in LDL-C."
+- **Deviations**:
+    - According to [Source - Global Legal & Compliance Pocket Guide Semaglutide Portfolio, Article 1], it must be communicated in the right context without promotional intent. The revised sentence clarifies the source of the information, underscoring its factual basis.
+- **Explanation**: This sentence is balanced and ensures that it is clear the information is derived from clinical studies, maintaining a neutral tone.
+
+#### 5. Disclaimers Absence
+- **Original source sentence**: None (Identified absence of disclaimers).
+- **Expert reviewer's suggested change**: Add disclaimers such as "The image shown is a model and not a real patient." and "This information is intended for healthcare professionals and should not replace consultation with a qualified healthcare provider."
+- **Reason for new suggested change**:
+    - The expert's suggested disclaimers are well-placed; no change needed here beyond ensuring comprehensive inclusion.
+- **New suggested sentence**: "The image shown is a model and not a real patient. This information is intended for healthcare professionals and does not replace consultation with a qualified healthcare provider."
+- **Deviations**:
+    - According to [Source - Disclaimer Texts for Non-promotional Material], including the necessary disclaimers avoids misleading the audience and ensures compliance with non-promotional material standards.
+- **Explanation**: Combining the necessary disclaimers in a comprehensive manner to cover all bases.
+
+By implementing these revisions, the document will better comply with the specified guidelines, limiting promotional intent while maintaining educational value and clarity.

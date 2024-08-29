@@ -1,0 +1,122 @@
+**Document Language: English**
+
+Observations and Corrections:
+
+1. **Source Sentence:**
+   - "The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+
+   **Deviations Corrected:**
+   - None.
+
+   **Reason for replacing the source sentence:**
+   - This sentence is grammatically correct and does not require any changes.
+
+   **Reviewed Sentence:**
+   - The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia.
+
+2. **Source Sentence:**
+   - "Clinically proven efficacy and safety in paediatric patients."
+
+   **Deviations Corrected:**
+   - None.
+
+   **Reason for replacing the source sentence:**
+   - This sentence is grammatically correct and does not require any changes.
+
+   **Reviewed Sentence:**
+   - Clinically proven efficacy and safety in paediatric patients.
+
+3. **Source Sentence:**
+   - "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+
+   **Deviations Corrected:**
+   - None.
+
+   **Reason for replacing the source sentence:**
+   - This sentence is grammatically correct and does not require any changes.
+
+   **Reviewed Sentence:**
+   - CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.
+
+4. **Source Sentence:**
+   - "CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain. Welcome to a brighter future for your patients."
+
+   **Deviations Corrected:**
+   - None.
+
+   **Reason for replacing the source sentence:**
+   - This sentence is grammatically correct and does not require any changes.
+
+   **Reviewed Sentence:**
+   - CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain. Welcome to a brighter future for your patients.
+
+5. **Source Sentence:**
+   - "CHOLECAP (revestatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP. It is not for those with liver problems. And it is not for women who are nursing, pregnant, or may become pregnant."
+
+   **Deviations Corrected:**
+   - "And" should be replaced with "It".
+
+   **Reason for replacing the source sentence:**
+   - To maintain consistent sentence structure and improve clarity.
+
+   **Reviewed Sentence:**
+   - CHOLECAP (revestatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP. It is not for those with liver problems. It is not for women who are nursing, pregnant, or may become pregnant.
+
+6. **Source Sentence:**
+   - "If you take CHOLECAP (revestatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness. This could be a sign of rare but serious muscle side effects. Tell your doctor about all your medical conditions and all medications you take. This may help avoid serious drug interactions. Your doctor should do blood tests to check your liver function before starting CHOLECAP and during your treatment if you have symptoms of liver problems. Tell your doctor if you have diabetes. Elevated blood sugar levels have been reported with statins, including CHOLECAP."
+
+   **Deviations Corrected:**
+   - None.
+
+   **Reason for replacing the source sentence:**
+   - This sentence is grammatically correct and does not require any changes.
+
+   **Reviewed Sentence:**
+   - If you take CHOLECAP (revestatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness. This could be a sign of rare but serious muscle side effects. Tell your doctor about all your medical conditions and all medications you take. This may help avoid serious drug interactions. Your doctor should do blood tests to check your liver function before starting CHOLECAP and during your treatment if you have symptoms of liver problems. Tell your doctor if you have diabetes. Elevated blood sugar levels have been reported with statins, including CHOLECAP.
+
+7. **Source Sentence:**
+   - "Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events."
+
+   **Deviations Corrected:**
+   - "diarrhea" (American English) should be "diarrhoea" (British English).
+
+   **Reason for replacing the source sentence:**
+   - To conform to British English spelling rules.
+
+   **Reviewed Sentence:**
+   - Common side effects are diarrhoea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review of the Expert's Comments:
+
+#### Comment 1:
+- **Original Sentence:**
+  - CHOLECAP (revestatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP. It is not for those with liver problems. And it is not for women who are nursing, pregnant, or may become pregnant.
+- **Deviation from the Guidelines:**
+  - The use of "And" at the beginning of a sentence should be revised to maintain sentence structure consistency.
+- **Expert Reviewer's Suggested Change:**
+  - CHOLECAP (revestatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP. It is not for those with liver problems. It is not for women who are nursing, pregnant, or may become pregnant.
+- **Explanation for the Reason behind New Suggested Change:**
+  - Replacing "And" with "It" to maintain clear and consistent sentence structure while improving readability.
+- **Your New Suggested Sentence:**
+  - CHOLECAP (revestatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP. It is not for those with liver problems. It is also not for women who are nursing, pregnant, or may become pregnant.
+
+#### Comment 2:
+- **Original Sentence:**
+  - Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events.
+- **Deviation from the Guidelines:**
+  - The word "diarrhea" uses American English spelling. The text needs to be consistent in British English spelling rules.
+- **Expert Reviewer's Suggested Change:**
+  - Common side effects are diarrhoea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events.
+- **Explanation for the Reason behind New Suggested Change:**
+  - "Diarrhea" has been corrected to "diarrhoea" to conform to the British English spelling standard, enhancing consistency throughout the document as per the guidelines.
+- **Your New Suggested Sentence:**
+  - Common side effects include diarrhoea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always consult their doctors for medical advice about adverse events.
+
+### Summary
+- The changes made ensure consistency with British English spelling and improve overall clarity and readability in alignment with the "Grammar & Spelling Guidelines." Other sentences reviewed by the expert do not require further changes and adhere to grammatical correctness.
+
+These improvements bolster the overall quality and adherence to English language rules and spelling standards.

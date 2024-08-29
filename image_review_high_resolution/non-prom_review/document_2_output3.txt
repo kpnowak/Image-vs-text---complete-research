@@ -1,0 +1,53 @@
+Based on the "Non-Promotional Material Guidelines" and the provided image, below are the deviations and corrected sentences for the promotional material:
+
+1. **Guideline Source**: Article 17, Source - EFPIA Chapter 3
+   - **Source Sentence**: "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+   - **Deviations**: Article 17.i states that informational or educational materials must be "inexpensive", directly relevant to the practice of medicine or pharmacy, and directly beneficial to the care of patients. Promotional content should not be included.
+     - *According to Article 17, Source - EFPIA Chapter 3, the information suggests that materials must be directly relevant and beneficial to patient care, without any promotional intent.*
+   - **Your New Sentence**: "CholeCap is intended to support the management of total cholesterol, LDL-C, and apo B levels as part of a comprehensive treatment plan for patients with familial hypercholesterolaemia."
+   - **Reason for Replacing**: Modifies the statement to reflect a more balanced, non-promotional, and educational tone as required.
+
+2. **Guideline Source**: Article 17, Source - EFPIA Chapter 3
+   - **Source Sentence**: "Reduction in LDL-C: 49% Reduction in LDL-C at week 24 compared to baseline."
+   - **Deviations**: According to Article 17, the promotional element emphasizes the efficacy without balanced context or caution about limitations, creating a biased view.
+     - *According to Article 17, Source - EFPIA Chapter 3, information should focus on providing educational content rather than promotional efficacy outcomes.*
+   - **Your New Sentence**: "Studies have shown a reduction in LDL-C over a 24-week period as part of a monitored treatment program."
+   - **Reason for Replacing**: Ensures the information is more balanced, focusing on the informational aspect of patient care without the promotional effectiveness claims.
+
+3. **Guideline Source**: Article 20, Source - EFPIA Chapter 3
+   - **Source Sentence**: "CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain."
+   - **Deviations**: The statement is promotional in nature, and compliance requires materials to be primarily educational without influencing commercial interest.
+     - *According to Article 20, the statement focuses on promotional efficacy rather than a balanced and thorough portrayal of information.*
+   - **Your New Sentence**: "CholeCap is studied for its effects on reducing risk factors associated with cardiovascular events."
+   - **Reason for Replacing**: Reduces promotional claims and adds educational context on cardiovascular risk reduction.
+
+4. **Guideline Source**: Article 1, Source - Disclaimer Texts for Non-promotional Material
+   - **Source Sentence**: Lacked specific disclaimers regarding model usage or patient examples. 
+   - **Deviations**: All non-promotional materials must include standard disclaimers to highlight that visuals and examples are models, not real patients, to avoid misleading communication.
+     - *According to Article 1, Source - Disclaimer Texts for Non-promotional Material, all materials must include disclaimers ensuring clear and factual information.*
+   - **Your New Sentence**: "The characters and examples shown are for representation purposes only and do not reflect real patients."
+   - **Reason for Replacing**: Ensures compliance with guidelines by clarifying that models and depictions are not based on real-life cases.
+
+These replacements ensure that the promotional material adheres to the "Non-Promotional Material Guidelines," prioritizing educational value, factual accuracy, and impartial content without promotional bias.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+Here is my review and feedback for each of the comments provided by the expert reviewer:
+
+1. **Original Source Sentence**: "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+   - **Deviation from Guideline**: According to Article 17.i of Source - EFPIA Chapter 3, informational or educational materials must be "inexpensive", directly relevant to the practice of medicine or pharmacy, and directly beneficial to the care of patients. Promotional content should not be included.
+   - **Expert Reviewer's Original Suggested Change**: "CholeCap is intended to support the management of total cholesterol, LDL-C, and apo B levels as part of a comprehensive treatment plan for patients with familial hypercholesterolaemia."
+   - **Explanation for New Suggested Change**: The expert reviewer’s suggestion was heading in the right direction but still can be more detached from promotional language.
+   - **My New Suggested Sentence**: "CholeCap can be a part of a comprehensive management plan to address total cholesterol, LDL-C, and apo B levels in patients with familial hypercholesterolaemia."
+   - **Reason for Changing**: This revision aims to tilt even further towards educational relevance without sounding promotional while aligning with the guidelines for non-promotional material as established in Article 17, Source EFPIA Chapter 3.
+
+3. **Original Source Sentence**: "Reduction in LDL-C: 49% Reduction in LDL-C at week 24 compared to baseline."
+   - **Deviation from Guideline**: According to Article 17 of Source - EFPIA Chapter 3, the promotional element emphasizes efficacy without balanced context or caution about limitations, creating a biased view.
+   - **Expert Reviewer's Original Suggested Change**: "Studies have shown a reduction in LDL-C over a 24-week period as part of a monitored treatment program."
+   - **Explanation for New Suggested Change**: Although the original suggested change departs from promotional efficacy, it can still better meet the balanced requirement.
+   - **My New Suggested Sentence**: "Clinical studies observed reductions in LDL-C levels over a 24-week period when used within a monitored treatment regimen."
+   - **Reason for Changing**: This ensures a more balanced approach, focusing on observational data from clinical studies without a promotional tone, aligned with Article 17, Source EFPIA Chapter 3.
+
+These replacements ensure that the promotional material aligns with the "Non-Promotional Material Guidelines," focusing on informative, factual accuracy, and impartial content without promotional bias.

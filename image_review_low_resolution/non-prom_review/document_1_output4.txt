@@ -1,0 +1,80 @@
+### Review of Non-Promotional Material
+
+**Guideline Source**: Disclaimer Texts for Non-promotional Material
+**Source Sentence**: "The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor."
+**Deviations**: The current sentence adequately informs the reader but lacks some required disclaimers. According to Disclaimer Texts for Non-promotional Material, it's crucial to guide readers to their patient information leaflet and encourage reporting side effects.
+**New Sentence**: "The information on this website is intended for educational purposes only and should not be substituted for medical advice from your doctor. Please see the patient information leaflet in the package for additional details. If you experience any side effects while using any medication, talk to your doctor, pharmacist, or nurse."
+**Reason**: This addition ensures comprehensive guidance, covering the need for users to refer to legal details in the patient leaflet and reinforcing reporting of side effects.
+
+---
+
+**Guideline Source**: Communicate With Care Pocket Guide
+**Source Sentence**: "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+**Deviations**: While this sentence provides useful information, it does not offer a disclaimer about legal implications or the sensitivity of the information shared. It also doesn't emphasize professional tone or factual accuracy.
+**New Sentence**: "When living with type 2 diabetes, it’s vital to continually reevaluate and possibly change your treatment to meet your evolving personal health needs. Remember, your doctor should always be consulted for tailored advice suitable to your specific health scenario."
+**Reason**: This adjustment enhances the sense of medical professionalism and ensures clarity, avoiding generalizations that may mislead readers off medical monitoring.
+
+---
+
+**Guideline Source**: EFPIA Chapter 3, Article 17
+**Source Sentence**: "Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
+**Deviations**: The excerpt is generally compliant yet lacks explicit consent, ensuring no circumvention of gift prohibition or inducement rules. 
+**New Sentence**: "Openly share your treatment goals, such as better blood sugar management or weight control, with your doctor and ensure any changes in treatment are thoroughly evaluated for effectiveness and necessity."
+**Reason**: The modification aligns the text with strict guidelines on non-inducement and the explicit recommendation for medically supervised consultations.
+
+---
+
+**Guideline Source**: EFPIA Chapter 3, Article 18
+**Source Sentence**: "If you are making any changes to your treatment plan, discuss when you should follow-up on how it is working."
+**Deviations**: This initially uncomplicated advice misses ensuring conformity with scientific protocols' non-inducive nature.
+**New Sentence**: "If you plan any adjustments to your treatment, collaborate unswervingly with your doctor to schedule appropriate follow-up appointments for comprehensive review and assessment of any changes."
+**Reason**: This rephrasing corroborates the recommended practice of validated medical discussions, consistently non-promotional insights in alignment with Article 18.
+
+---
+
+**Guideline Source**: Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication
+**Source Sentence**: "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+**Deviations**: While this sentence promotes patient empowerment positively, it needs safeguarding against implying unilateral patient-led changes or off-label use.
+**New Sentence**: "While your doctor is the medical authority, you, as the patient living with type 2 diabetes, play a pivotal role in ensuring continuous communication and comprehensive health management."
+**Reason**: This revision ensures a balanced approach, emphasizing a cooperative decision-making framework adhering to regulatory non-promotional standards.
+
+### Final Recommendations
+
+After thorough review of the provided document against Non-Promotional Material Guidelines, the above sentences should be revised accordingly. This would ensure compliance with all outlined ethical and informational standards while maintaining a clear, professional tone throughout.
+
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+**Review of Non-Promotional Material**
+
+**Guideline Source:** Disclaimer Texts for Non-promotional Material  
+**Source Sentence:** "The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor."  
+**Deviations:** The current sentence adequately informs the reader but lacks some required disclaimers. According to Disclaimer Texts for Non-promotional Material, it's crucial to guide readers to their patient information leaflet and encourage reporting side effects.  
+**Expert Reviewer's Suggested Change:** "The information on this website is intended for educational purposes only and should not be substituted for medical advice from your doctor. Please see the patient information leaflet in the package for additional details. If you experience any side effects while using any medication, talk to your doctor, pharmacist, or nurse."  
+**Reason Behind New Suggested Change:** The expert reviewer’s suggestion aligns well with the guidelines but can be improved by explicitly mentioning reporting side effects and the local safety department for comprehensive guidance.  
+**New Suggested Sentence:** "The information on this website is intended for educational purposes only and should not be substituted for medical advice from your doctor. Please see the patient information leaflet in the package for additional details. If you experience any side effects while using any medication, talk to your doctor, pharmacist, or nurse, and report side effects directly via the local customer contact function or local safety department."  
+**Deviations:** According to Disclaimer Texts for Non-promotional Material, disclaimers must guide the user to patient information leaflets and the reporting of side effects through appropriate channels.
+
+---
+
+**Guideline Source:** Communicate With Care Pocket Guide  
+**Source Sentence:** "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."  
+**Deviations:** While this sentence provides useful information, it does not offer a disclaimer about legal implications or the sensitivity of the information shared. It also doesn't emphasize professional tone or factual accuracy.  
+**Expert Reviewer's Suggested Change:** "When living with type 2 diabetes, it’s vital to continually reevaluate and possibly change your treatment to meet your evolving personal health needs. Remember, your doctor should always be consulted for tailored advice suitable to your specific health scenario."  
+**Reason Behind New Suggested Change:** The expert's sentence is clear and professional, but it can be further improved by emphasizing that legal and sensitive information must also be considered and handled appropriately.  
+**New Suggested Sentence:** "When living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs. Always consult with your doctor for tailored advice suitable to your health scenario, and ensure any changes are discussed and documented appropriately."  
+**Deviations:** According to Source - Communicate With Care Pocket Guide, the information suggests being mindful of legal implications and document sensitivity.
+
+---
+
+**Guideline Source:** EFPIA Chapter 3, Article 18  
+**Source Sentence:** "If you are making any changes to your treatment plan, discuss when you should follow-up on how it is working."  
+**Deviations:** This initially uncomplicated advice misses ensuring conformity with scientific protocols' non-inducive nature.  
+**Expert Reviewer's Suggested Change:** "If you plan any adjustments to your treatment, collaborate unswervingly with your doctor to schedule appropriate follow-up appointments for comprehensive review and assessment of any changes."  
+**Reason Behind New Suggested Change:** The expert reviewer’s suggestion aligns well with ensuring comprehensive medical oversight but could be more focused on the non-inducive nature and scientific protocols.  
+**New Suggested Sentence:** "If you plan any adjustments to your treatment, ensure you collaborate closely with your doctor to schedule appropriate follow-up appointments for a thorough review and assessment of how the changes are working, ensuring adherence to all scientific protocols."  
+**Deviations:** According to EFPIA Chapter 3, Article 18, the advice should align with scientific protocols and ensure no inducement for medical decisions.
+
+By following these reviewed suggestions, we can ensure a balanced, professional, and compliant communication that aligns with the Non-Promotional Material Guidelines.

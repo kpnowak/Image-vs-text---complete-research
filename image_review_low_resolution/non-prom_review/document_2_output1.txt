@@ -1,0 +1,84 @@
+Based on the provided "Non-Promotional Material Guidelines", I have identified several deviations within the document and corrected them. Here are the detailed corrections:
+
+1. **Guideline source which influenced your response**: "EFPIA Chapter 3: Article 17 - Informational or Educational Materials and Items of Medical Utility"
+   - **The source sentence your new sentence replaces**: "The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+   - **The deviations your new sentence corrects**: According to "EFPIA Chapter 3 Article 17-i. The provision of Informational or Educational Materials is permitted provided it is: (b) directly relevant to the practice of medicine or pharmacy; and (c) directly beneficial to the care of patients."
+   - **Your new sentence**: "The first statin indicated for managing hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+   - **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: The original sentence implies a promotional stance, indicating superiority ("the first and only"), thus deviating from the non-promotional intent. The revised sentence maintains the information but in a more balanced and less promotional way, aligning with the non-promotional guidelines.
+
+2. **Guideline source which influenced your response**: "EFPIA Chapter 3: Article 17 - Informational or Educational Materials and Items of Medical Utility"
+   - **The source sentence your new sentence replaces**: "Clinically proven efficacy and safety in paediatric patients."
+   - **The deviations your new sentence corrects**: According to "EFPIA Chapter 3 Article 17-i. The provision of Informational or Educational Materials is permitted provided it is: (c) directly beneficial to the care of patients."
+   - **Your new sentence**: "CholeCap has shown efficacy and safety in clinical trials with paediatric patients."
+   - **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: The original phrase "clinically proven" can be perceived as promotional. The new sentence is more factual and aligns with the guideline to provide balanced and objective information.
+
+3. **Guideline source which influenced your response**: "EFPIA Chapter 3: Article 19 - Medical Samples"
+   - **The source sentence your new sentence replaces**: "CHOLCAP (evestatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP. It is not for those with liver problems. And it is not for women who are nursing, pregnant, or may become pregnant."
+   - **The deviations your new sentence corrects**: According to "EFPIA Chapter 3 Article 19-i. Medical Samples must not be given as an inducement to recommend and/or prescribe, purchase, supply, sell or administer specific Medicinal Products, and must not be given for the sole purpose of treating patients."
+   - **Your new sentence**: "CholeCap (evestatin calcium) tablets should not be used by individuals with a history of allergic reactions to evestatin, those with liver issues, or women who are pregnant, nursing, or may become pregnant, as per recommended guidelines."
+   - **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: The original phraseology gives a promotional inclination. The modified sentence maintains necessary cautions in a factual and clear way, avoiding any inducement.
+
+4. **Guideline source which influenced your response**: "EFPIA Chapter 3: Article 17 - Informational or Educational Materials and Items of Medical Utility"
+   - **The source sentence your new sentence replaces**: "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+   - **The deviations your new sentence corrects**: According to "EFPIA Chapter 3 Article 17-iv. Informational or Educational Materials and Items of Medical Utility can include the Member Company name, but must not be product branded, unless the Medicinal Product’s name is essential for the correct use of the material or item by the patient."
+   - **Your new sentence**: "In clinical trials, CholeCap has been shown to reduce total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years old, with heterozygous familial hypercholesterolaemia."
+   - **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: The original sentence might be interpreted as promotional because of the term "significantly," which implies superiority. The revised sentence conveys the same information in a more balanced and factual manner.
+
+5. **Guideline source which influenced your response**: "Disclaimer Texts for Non-promotional Material: General Disclaimers"
+   - **The source sentence your new sentence replaces**: "Created by puKsys."
+   - **The deviations your new sentence corrects**: According to "Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers."
+   - **Your new sentence**: "The image shown is a model and not a real patient."
+   - **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: Disclaimers are essential in non-promotional materials to avoid potential misrepresentations. Adding the disclaimer about the image being a model aligns with the guidelines and provides clarity to the audience about the nature of the images used.
+
+Each revision provided ensures adherence to the "Non-Promotional Material Guidelines," ensuring the material remains non-promotional while providing essential information.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Comment 1
+
+- **The original source sentence**: "The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+- **The deviation from the guidelines originally provided by the expert reviewer**: The original sentence implies superiority by using the phrase "the first and only," which is promotional.
+- **The expert reviewer's original suggested change**: "The first statin indicated for managing hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+- **An explanation for the reason behind your new suggested change**: The expert's revised sentence still implies a degree of promotional content due to the phrasing "the first statin." Additionally, it does not sufficiently address the deviation.
+- **Your new suggested sentence**: "A statin indicated for managing hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to "EFPIA Chapter 3: Article 17-i. The provision of Informational or Educational Materials is permitted provided it is: (b) directly relevant to the practice of medicine or pharmacy; and (c) directly beneficial to the care of patients."
+
+### Comment 2
+
+- **The original source sentence**: "Clinically proven efficacy and safety in paediatric patients."
+- **The deviation from the guidelines originally provided by the expert reviewer**: The term "clinically proven" is promotional and can be seen as an exaggeration.
+- **The expert reviewer's original suggested change**: "CholeCap has shown efficacy and safety in clinical trials with paediatric patients."
+- **An explanation for the reason behind your new suggested change**: The term "shown" still might imply a level of promotion. A more neutral phrasing is advisable.
+- **Your new suggested sentence**: "Efficacy and safety of CholeCap have been observed in clinical trials with paediatric patients."
+- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to "EFPIA Chapter 3: Article 17-i. The provision of Informational or Educational Materials is permitted provided it is: (c) directly beneficial to the care of patients."
+
+### Comment 3
+
+- **The original source sentence**: "CHOLCAP (evestatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP. It is not for those with liver problems. And it is not for women who are nursing, pregnant, or may become pregnant."
+- **The deviation from the guidelines originally provided by the expert reviewer**: The original wording is too detailed for the context and gives a promotional inclination instead of a general caution.
+- **The expert reviewer's original suggested change**: "CholeCap (evestatin calcium) tablets should not be used by individuals with a history of allergic reactions to evestatin, those with liver issues, or women who are pregnant, nursing, or may become pregnant, as per recommended guidelines."
+- **An explanation for the reason behind your new suggested change**: To ensure a balanced tone and general caution without promoting, further simplification is necessary.
+- **Your new suggested sentence**: "CholeCap (evestatin calcium) tablets should not be used by individuals with allergies to evestatin, liver conditions, or by pregnant or nursing women."
+- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to "EFPIA Chapter 3: Article 19-i. Medical Samples must not be given as an inducement to recommend and/or prescribe, purchase, supply, sell, or administer specific Medicinal Products, and must not be given for the sole purpose of treating patients."
+
+### Comment 4
+
+- **The original source sentence**: "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+- **The deviation from the guidelines originally provided by the expert reviewer**: The term "significantly" implies a promotional tone indicating superiority, which is against guidelines.
+- **The expert reviewer's original suggested change**: "In clinical trials, CholeCap has been shown to reduce total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years old, with heterozygous familial hypercholesterolaemia."
+- **An explanation for the reason behind your new suggested change**: Further neutral tone and balancing the content is necessary to maintain adherence to the guidelines.
+- **Your new suggested sentence**: "In clinical trials, CholeCap has demonstrated reductions in total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years old, with heterozygous familial hypercholesterolaemia."
+- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to "EFPIA Chapter 3: Article 17-iv. Informational or Educational Materials and Items of Medical Utility can include the Member Company name, but must not be product branded, unless the Medicinal Product’s name is essential for the correct use of the material or item by the patient."
+
+### Comment 5
+
+- **The original source sentence**: "Created by puKsys."
+- **The deviation from the guidelines originally provided by the expert reviewer**: The original sentence does not include necessary disclaimers to avoid potential legal issues.
+- **The expert reviewer's original suggested change**: "The image shown is a model and not a real patient."
+- **An explanation for the reason behind your new suggested change**: To ensure alignment with the guidelines, an additional disclaimer about the prescription example may also be needed.
+- **Your new suggested sentence**: "The image shown is a model and not a real patient. The prescription is based on a patient example and not a real patient."
+- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to "Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers," all necessary disclaimers must be included to clarify the use of images and examples in non-promotional materials.
+
+Each revision aligns with the "Non-Promotional Material Guidelines" ensuring the content remains factual, balanced, and free from promotional intent.

@@ -1,0 +1,89 @@
+### Review Summary
+
+The following points from the provided guidelines were considered while reviewing the document:
+
+1. **Informational or Educational Materials**:
+    - The content must be inexpensive, directly relevant to the practice of medicine or pharmacy, and directly beneficial to the care of patients (EFPIA Chapter 3, Article 17).
+
+2. **Non-Promotional Material Guidelines**:
+    - Include proper disclaimers where necessary (Disclaimer Texts).
+    - Ensure the communication is clear, professional, and free from promotional intent (Global Legal & Compliance Pocket Guide).
+    
+3. **Communication Ethics**:
+    - Upholding the professional tone and providing clear, factual information (Communicate With Care Pocket Guide).
+
+### Corrections and Justifications
+
+#### 1. Disclaimer Inclusion
+
+- **Guideline Source**: Disclaimer Texts for Non-promotional Material
+- **Source Sentence**: "The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor."
+- **Deviations Corrected**: The current disclaimer is present but needs expansion to include specific disclaimers mandated for non-promotional materials.
+- **New Sentence**: "The image shown is a model and not a real patient. The information on this website is intended for educational purposes only and should not be substituted for medical advice from your doctor. The character and its description are for representation purposes only and do not reflect real patient experience."
+- **Reason for Replacement**: This ensures the document meets the specific disclaimer requirement, thereby maintaining clarity and avoiding any potential misinterpretation about the depicted images and advice given.
+
+#### 2. Enhancing Professional Tone and Clarity
+
+- **Guideline Source**: Communicate With Care Pocket Guide
+- **Source Sentence**: "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+- **Deviations Corrected**: Improve clarity and professionalism.
+- **New Sentence**: "While your doctor is the medical expert, it is important to remember that you are the one managing your type 2 diabetes daily."
+- **Reason for Replacement**: This revision better respects the roles of both the patient and the healthcare provider, aligning with maintaining a professional tone.
+
+#### 3. Addressing Potential Promotional Language
+
+- **Guideline Source**: Global Legal & Compliance Pocket Guide
+- **Source Sentence**: "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **Deviations Corrected**: Ensure the material remains strictly informational and not promotional.
+- **New Sentence**: "Managing type 2 diabetes often involves reassessing and modifying your treatment plan to better meet your changing health requirements."
+- **Reason for Replacement**: This ensures the statement is factual, balanced, and non-promotional, adhering to the non-promotional material guidelines.
+
+#### 4. Encouraging Patient Empowerment Without Inducement
+
+- **Guideline Source**: EFPIA Chapter 3 (Article 17 and 20) and Global Legal & Compliance Pocket Guide
+- **Source Sentence**: "It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+- **Deviations Corrected**: Avoids language that might indirectly suggest an inducement to change treatments.
+- **New Sentence**: "It is vital to feel prepared to discuss your treatment plan with your doctor and consider any beneficial changes that might be needed."
+- **Reason for Replacement**: This focuses on preparation rather than empowerment, reducing the risk of perceived inducement while still encouraging proactive management.
+
+#### Conclusion
+
+The reviewed document now better complies with the non-promotional material guidelines, ensuring it remains balanced, clear, and strictly informational. It emphasizes the patient's and doctor's role in managing type 2 diabetes without promotional undertones and includes necessary disclaimers for clarity and legal adherence.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+#### Suggested Change 1:
+
+- **The original source sentence:** "The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor."
+- **The deviation from the guidelines originally provided by the expert reviewer:** According to [Source - Disclaimer Texts for Non-promotional Material], the disclaimer needs to cover multiple aspects like stating the image is a model and not a real patient and emphasizing representation purposes.
+- **The expert reviewer's original suggested change:** "The image shown is a model and not a real patient. The information on this website is intended for educational purposes only and should not be substituted for medical advice from your doctor. The character and its description are for representation purposes only and do not reflect real patient experience."
+- **An explanation for the reason behind your new suggested change:** The suggested change by the expert reviewer is generally accurate but can be slightly rephrased for better readability.
+- **Your new suggested sentence:** "Please note, the images shown depict models and not real patients. The information on this website is for educational purposes only and should not replace medical advice from your healthcare provider. The characters and descriptions presented are for illustrative purposes only and do not reflect actual patient experiences.”
+
+#### Suggested Change 2:
+
+- **The original source sentence:** "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+- **The deviation from the guidelines originally provided by the expert reviewer:** According to [Source - Communicate With Care Pocket Guide], the language needs to maintain a clear, professional tone and avoid diminishing the expertise of the healthcare provider.
+- **The expert reviewer's original suggested change:** "While your doctor is the medical expert, it is important to remember that you are the one managing your type 2 diabetes daily."
+- **An explanation for the reason behind your new suggested change:** The suggested sentence is good but can be refined further to emphasize mutual respect between patient and doctor, avoiding any sense of disempowerment.
+- **Your new suggested sentence:** “While your doctor is the medical expert, remember that your daily management of type 2 diabetes is crucially important. Working together, you can effectively manage and monitor your condition.”
+
+#### Suggested Change 3:
+
+- **The original source sentence:** "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **The deviation from the guidelines originally provided by the expert reviewer:** According to [Source - Global Legal & Compliance Pocket Guide], the statement needs to steer clear of any indirect inducement to change treatment.
+- **The expert reviewer's original suggested change:** "Managing type 2 diabetes often involves reassessing and modifying your treatment plan to better meet your changing health requirements."
+- **An explanation for the reason behind your new suggested change:** The suggested change aligns with the guidelines but can slightly be enhanced for precision and balance.
+- **Your new suggested sentence:** "Adjusting your treatment plan for type 2 diabetes as your health needs evolve can be a common and necessary approach."
+
+#### Suggested Change 4:
+
+- **The original source sentence:** "It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+- **The deviation from the guidelines originally provided by the expert reviewer:** According to [Source - EFPIA Chapter 3 and Global Legal & Compliance Pocket Guide], the language should avoid perceived inducement while encouraging proactive communication.
+- **The expert reviewer's original suggested change:** "It is vital to feel prepared to discuss your treatment plan with your doctor and consider any beneficial changes that might be needed."
+- **An explanation for the reason behind your new suggested change:** This revision still maintains the integrity but can focus more on a collaborative relationship without implying inducement.
+- **Your new suggested sentence:** “It’s crucial to feel prepared to discuss your treatment options with your doctor, considering together any beneficial adjustments that may be necessary.”
+
+By implementing these changes, the document should now better comply with the "Non-Promotional Material Guidelines,” maintaining clarity, factuality, and non-promotional intent while ensuring all necessary disclaimers are included.

@@ -1,0 +1,90 @@
+### Guideline Source: "Non-Promotional Material Guidelines"
+### Source Sentence: "The information on this website is intended for education purposes only and should not be substituted for medical advice from your doctor."
+### Deviations Corrected:
+- **Guideline Source**: Source - Disclaimer Texts for Non-promotional Material 
+- **Key Point**: “The information is intended for diabetes patients who have been prescribed [insert NN medicinal product] and should not be substituted for medical advice from your doctor.”
+
+### New Sentence: "The information provided here is intended for educational purposes only and should not be substituted for medical advice from your doctor. Always consult your healthcare provider for treatment options and advice on your medical condition."
+
+### Reason for Replacement and Resolution:
+The original sentence suggested the content was solely for educational purposes but did not specify consulting healthcare providers, which could lead to misinterpretation regarding the seriousness of medical advisement. The revised sentence clarifies the necessity of consulting healthcare providers for personalized medical advice, adhering to the guideline for providing necessary disclaimers and ensuring patient safety.
+
+### Guideline Source: "Non-Promotional Material Guidelines"
+### Source Sentence: "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+### Deviations Corrected:
+- **Guideline Source**: Source - Communicate With Care Pocket Guide
+- **Key Point**: "Maintain Professional Tone: Use polite language, avoid sarcasm and humor."
+
+### New Sentence: "While your healthcare provider is the medical expert, you are the one experiencing type 2 diabetes daily."
+
+### Reason for Replacement and Resolution:
+The original sentence could be perceived as informal with the use of "your doctor." The revised sentence uses more professional language and respects the patient's lived experience, maintaining a professional tone and adhering to guideline specifications.
+
+### Guideline Source: "Non-Promotional Material Guidelines"
+### Source Sentence: "Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
+### Deviations Corrected:
+- **Guideline Source**: Source - Communicate With Care Pocket Guide
+- **Key Point**: "Maintain Professional Tone: Use polite language, avoid sarcasm and humor."
+
+### New Sentence: "Discuss your personal health goals with your healthcare provider, whether that involves better blood sugar control, weight management, or other objectives, and determine together if your current treatment plan can be optimized."
+
+### Reason for Replacement and Resolution:
+The original sentence included casual language, e.g., "discuss with your doctor." The revised sentence is more formal and structured, maintaining a professional tone while conveying the same information, ensuring compliance with the guideline for clear and professional communication.
+
+### Guideline Source: "Non-Promotional Material Guidelines"
+### Source Sentence: "Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high."
+### Deviations Corrected:
+- **Guideline Source**: Source - Communicate With Care Pocket Guide
+- **Key Point**: "Provide Context: Ensure clarity to prevent misunderstandings, especially for those unfamiliar with the topic."
+
+### New Sentence: "Consult your healthcare provider about any difficulties you have encountered with your current treatment, including side effects, preferences between a pill or an injection (if both options are available), compatibility with your lifestyle, or concerns about cost."
+
+### Reason for Replacement and Resolution:
+The original sentence was less formal and lacked specificity in addressing the healthcare provider. The revised sentence provides clear context and ensures that the reader understands that these concerns should be discussed with a healthcare provider, preventing potential misunderstandings.
+
+### Guideline Source: "Non-Promotional Material Guidelines"
+### Source Sentence: "It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+### Deviations Corrected:
+- **Guideline Source**: Source - Communicate With Care Pocket Guide
+- **Key Point**: "Provide Context: Ensure clarity to prevent misunderstandings, especially for those unfamiliar with the topic."
+
+### New Sentence: "It is crucial that you feel empowered and prepared to discuss any potential changes in your treatment plan with your healthcare provider whenever you consider such changes might be beneficial."
+
+### Reason for Replacement and Resolution:
+The original sentence might seem overly casual and could potentially obscure the role of healthcare providers. The revised sentence presents the information formally and clearly outlines the context of discussing treatment plans, fulfilling the mandate for clear and professional communication.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review of Expert Comments and Adjustments:
+
+#### Comment 1:
+- **Original Source Sentence**: "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+- **Deviation from Guidelines**: According to [Source - Communicate With Care Pocket Guide], "Maintain Professional Tone: Use polite language, avoid sarcasm, and humor."
+- **Expert's Suggested Change**: "While your healthcare provider is the medical expert, you are the one experiencing type 2 diabetes daily."
+- **Reason for New Change**: The expert's suggested change maintains professional tone but can be improved for clarity and precision.
+- **New Suggested Sentence**: "While your healthcare provider is the medical expert, you are the one managing type 2 diabetes daily."
+
+#### Comment 2:
+- **Original Source Sentence**: "Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
+- **Deviation from Guidelines**: According to [Source - Communicate With Care Pocket Guide], "Maintain Professional Tone: Use polite language, avoid sarcasm, and humor."
+- **Expert's Suggested Change**: "Discuss your personal health goals with your healthcare provider, whether that involves better blood sugar control, weight management, or other objectives, and determine together if your current treatment plan can be optimized."
+- **Reason for New Change**: The expert's suggested change is clear and professional, but can better emphasize patient-provider collaboration.
+- **New Suggested Sentence**: "Discuss your personal health goals, such as better blood sugar control or weight management, with your healthcare provider to see if your current treatment plan can be adjusted for better outcomes."
+
+#### Comment 3:
+- **Original Source Sentence**: "Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high."
+- **Deviation from Guidelines**: According to [Source - Communicate With Care Pocket Guide], "Provide Context: Ensure clarity to prevent misunderstandings, especially for those unfamiliar with the topic."
+- **Expert's Suggested Change**: "Consult your healthcare provider about any difficulties you have encountered with your current treatment, including side effects, preferences between a pill or an injection (if both options are available), compatibility with your lifestyle, or concerns about cost."
+- **Reason for New Change**: The expert's suggested change is formal and clear, offering precise context to avoid misunderstandings.
+- **New Suggested Sentence**: "Talk to your healthcare provider about any challenges you've faced with your current treatment, including side effects, preferences for a pill or injection (if both options are available), how well the treatment fits into your lifestyle, or concerns about the cost."
+
+#### Comment 4:
+- **Original Source Sentence**: "It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+- **Deviation from Guidelines**: According to [Source - Communicate With Care Pocket Guide], "Provide Context: Ensure clarity to prevent misunderstandings, especially for those unfamiliar with the topic."
+- **Expert's Suggested Change**: "It is crucial that you feel empowered and prepared to discuss any potential changes in your treatment plan with your healthcare provider whenever you consider such changes might be beneficial."
+- **Reason for New Change**: The expert's suggested change is formal and provides a clear context, but can be made more direct and motivational for the patient.
+- **New Suggested Sentence**: "It is crucial that you feel empowered and ready to discuss any potential changes with your healthcare provider whenever you believe a change might be beneficial."
+
+These new suggested sentences aim to improve clarity, maintain a professional tone, and ensure alignment with the "Non-Promotional Material Guidelines."

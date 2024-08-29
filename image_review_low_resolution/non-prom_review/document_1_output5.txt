@@ -1,0 +1,210 @@
+Here is the review and recommendations for the provided document titled "How to talk about treatment options" in relation to the "Non-Promotional Material Guidelines". 
+
+### Review and Recommendations:
+
+#### Section on "How to talk about treatment options":
+
+1. **Current Text:**
+   > When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.
+
+   **Guideline Source:**
+   - [Source - Communicate With Care Pocket Guide]
+   
+   **Source Sentence This Replaces:**
+   > When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.
+
+   **Deviations Corrected:**
+   - Lack of emphasis on professional advice.
+   - [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication] emphasizes sharing scientific information without promotional intent.
+
+   **New Sentence:**
+   > When you're living with type 2 diabetes, you should regularly consult with your healthcare provider to evaluate and adjust your treatment plan according to your changing personal health needs.
+
+   **Reason for Change:**
+   To reinforce the need for professional consultation, ensuring the reader understands that treatment adjustments should be based on expert medical advice.
+
+2. **Current Text:**
+   > It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.
+
+   **Guideline Source:**
+   - [Source - Communicate With Care Pocket Guide]
+
+   **Source Sentence This Replaces:**
+   > It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.
+
+   **Deviations Corrected:**
+   - Need for maintaining a professional tone.
+   
+   **New Sentence:**
+   > It is essential to communicate with your healthcare provider about any changes you believe might be beneficial to your treatment.
+
+   **Reason for Change:**
+   This maintains a professional tone and highlights the importance of consulting a healthcare provider.
+
+3. **Current Text:**
+   > Your doctor is the medical expert, but you are the one living with type 2 diabetes.
+
+   **Guideline Source:**
+   - [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication]
+
+   **Source Sentence This Replaces:**
+   > Your doctor is the medical expert, but you are the one living with type 2 diabetes.
+
+   **Deviations Corrected:**
+   - The need to enhance clarity and ensure factual accuracy.
+   
+   **New Sentence:**
+   > While your doctor provides medical expertise, you are responsible for managing your type 2 diabetes daily.
+
+   **Reason for Change:**
+   To improve clarity and accurately convey the importance of the role of both the patient and doctor.
+
+#### Key Content Areas:
+
+4. **Goals Section:**
+   
+   **Current Text:**
+   > Share your personal goals, whether, for example, it's better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+   **Guideline Source:**
+   - [Source - Communicate With Care Pocket Guide]
+
+   **Source Sentence This Replaces:**
+   > Share your personal goals, whether, for example, it's better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+   **Deviations Corrected:**
+   - Ensuring content is clear and objective.
+   
+   **New Sentence:**
+   > Discuss your personal goals, such as better blood sugar control or weight management, with your doctor to determine if your current treatment plan could be more effective.
+
+   **Reason for Change:**
+   To ensure the sentence is clear, maintains an objective tone, and clearly conveys the importance of evaluating the treatment plan with a doctor.
+
+#### Concluding Text:
+
+5. **Current Text:**
+   > Remember, this conversation is about working together with your doctor to find the best treatment option for you.
+
+   **Guideline Source:**
+   - [Source - Communicate With Care Pocket Guide]
+   
+   **Source Sentence This Replaces:**
+   > Remember, this conversation is about working together with your doctor to find the best treatment option for you.
+
+   **Deviations Corrected:**
+   - Ensuring a professional and respectful tone.
+   
+   **New Sentence:**
+   > Remember, this discussion is about collaborating with your healthcare provider to identify the most suitable treatment options for you.
+
+   **Reason for Change:**
+   To maintain a respectful and professional tone, emphasizing the collaborative nature of the patient-doctor relationship.
+
+### Disclaimers and Compliance Statements:
+
+6. **Current Text:**
+   > The information on this website is intended for education purposes only and should not be substituted for medical advice from your doctor.
+
+   **Guideline Source:**
+   - [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication]
+
+   **Source Sentence This Replaces:**
+   > The information on this website is intended for education purposes only and should not be substituted for medical advice from your doctor.
+
+   **Deviations Corrected:**
+   - Ensuring non-promotional intent and compliance with legal standards.
+   
+   **New Sentence:**
+   > The information on this website is provided for educational purposes only and is not intended as a substitute for professional medical advice, diagnosis, or treatment.
+
+   **Reason for Change:**
+   To reinforce the educational intent and ensure compliance with guidelines regarding non-promotional communication.
+
+By making these adjustments, we ensure the document aligns with the EFPIA and company guidelines related to non-promotional material, maintains a professional tone, and complies with legal and ethical standards.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review and Recommendations:
+
+#### Section on "How to talk about treatment options":
+
+1. **Current Text:**
+   > When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.
+
+   **Original Source Sentence:**
+   > When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.
+
+   **Deviations from the guidelines:**
+   - According to [Source - Communicate With Care Pocket Guide] and [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication], there is a need to emphasize professional advice to prevent promotions and ensuring information is accurate and professionally communicated.
+
+   **Expert Reviewer's Suggested Change:**
+   > When you're living with type 2 diabetes, you should regularly consult with your healthcare provider to evaluate and adjust your treatment plan according to your changing personal health needs.
+
+   **Reason for New Suggested Change:**
+   Although the expert reviewer's change is appropriate, it could better emphasize the professional consultation aspect and clarity in communication with a slight adjustment.
+
+   **New Suggested Sentence:**
+   > When you're living with type 2 diabetes, regularly consulting with your healthcare provider is crucial to properly evaluate and adjust your treatment plan according to your evolving health needs.
+
+2. **Current Text:**
+   > It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.
+
+   **Original Source Sentence:**
+   > It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.
+
+   **Deviations from the guidelines:**
+   - According to [Source - Communicate With Care Pocket Guide], a professional tone and clear communication emphasizing the importance of consulting with a healthcare provider are necessary.
+
+   **Expert Reviewer's Suggested Change:**
+   > It is essential to communicate with your healthcare provider about any changes you believe might be beneficial to your treatment.
+
+   **Reason for New Suggested Change:**
+   The expert reviewer's change is clear but lacks the aspect of empowerment. A slight modification can better encompass both empowerment and the necessity of professional input.
+
+   **New Suggested Sentence:**
+   > It is essential to feel empowered to discuss with your healthcare provider any changes you believe might be beneficial to your treatment.
+
+3. **Current Text:**
+   > Your doctor is the medical expert, but you are the one living with type 2 diabetes.
+
+   **Original Source Sentence:**
+   > Your doctor is the medical expert, but you are the one living with type 2 diabetes.
+
+   **Deviations from the guidelines:**
+   - According to [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication], factual accuracy and clarity should be enhanced.
+
+   **Expert Reviewer's Suggested Change:**
+   > While your doctor provides medical expertise, you are responsible for managing your type 2 diabetes daily.
+
+   **Reason for New Suggested Change:**
+   This sentence can further clarify roles without implying sole responsibility on the patient, acknowledging the collaborative nature of patient care.
+
+   **New Suggested Sentence:**
+   > Your doctor provides medical expertise, and together, you manage the day-to-day aspects of living with type 2 diabetes.
+
+#### Key Content Areas:
+
+4. **Goals Section:**
+   
+   **Current Text:**
+   > Share your personal goals, whether, for example, it's better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+   **Original Source Sentence:**
+   > Share your personal goals, whether, for example, it's better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+   **Deviations from the guidelines:**
+   - According to [Source - Communicate With Care Pocket Guide], ensuring clarity and maintaining an objective tone is important.
+
+   **Expert Reviewer's Suggested Change:**
+   > Discuss your personal goals, such as better blood sugar control or weight management, with your doctor to determine if your current treatment plan could be more effective.
+
+   **Reason for New Suggested Change:**
+   To further enhance clarity and ensure a balanced approach, acknowledging personal goals while emphasizing the partnership with healthcare providers.
+
+   **New Suggested Sentence:**
+   > Discuss your personal goals, like better blood sugar control or weight management, with your doctor to evaluate if your current treatment plan might be improved.
+
+By making these adjustments, we ensure the document aligns with the EFPIA and company guidelines related to non-promotional material, maintains a professional tone, and complies with legal and ethical standards.

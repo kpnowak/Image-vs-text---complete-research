@@ -1,0 +1,107 @@
+- Guideline source which influenced your response: [Source - Disclaimer Texts for Non-promotional Material]
+- The source sentence your new sentence replaces: “The information on this website is intended for education purposes only and should not be substituted for medical advice from your doctor.”
+- The deviations your new sentence corrects: The current disclaimer is appropriate but could be made more specific and compliant with the provided guidelines.
+  - Source: [Source - Disclaimer Texts for Non-promotional Material]
+  - Key point: Article 3 - General Disclaimers
+- Your new sentence: “This information is intended for educational purposes only and should not replace medical advice from your doctor. Please see the patient information leaflet in the package for additional information. If you experience any side effects while using [insert NN medicinal product], talk to your doctor, pharmacist, or nurse.”
+- The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations: The updated sentence includes specific disclaimers suggested in the guidelines, making it more comprehensive and compliant.
+
+- Guideline source which influenced your response: [Source - Communicate With Care Pocket Guide]
+- The source sentence your new sentence replaces: “Talk about your lifestyle, how it impacts how well your treatment is working, and if changes to your treatment plan are needed. For example, you could be traveling a lot for work and want to make sure your medication is easy to take, or you may need more support with your weight management goals despite already eating healthily and exercising to the best of your ability.”
+- The deviations your new sentence corrects: The original sentence is clear but can be more concise while maintaining professionalism and context.
+  - Source: [Source - Communicate With Care Pocket Guide]
+  - Key points: Article 2 - Be Clear and Professional
+- Your new sentence: “Discuss your lifestyle and its effect on your treatment’s effectiveness. If you travel often or need additional support with managing your weight despite a healthy diet and regular exercise, mention these factors to your doctor for appropriate adjustments to your treatment plan.”
+- The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations: The revised sentence is more concise and maintains a professional tone, aligning with the guidelines to be clear and professional.
+
+- Guideline source which influenced your response: [Source - EFPIA Chapter 3]
+- The source sentence your new sentence replaces: "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+- The deviations your new sentence corrects: The original statement is appropriate but could be enhanced to emphasize the importance of mutual respect and informed decision-making.
+  - Source: [Source - EFPIA Chapter 3]
+  - Key points: Article 21. i (Interactions with POs), Article 16. i (Lifelong Learning in Healthcare)
+- Your new sentence: “Remember, your conversation with your doctor should focus on mutual respect and collaboration to find the most effective treatment for you, based on informed and evidence-based discussions.”
+- The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations: The revised sentence emphasizes mutual respect and informed decision-making, aligning with the guidelines for interactions and patient education.
+
+- Guideline source which influenced your response: [Source - EFPIA Chapter 3]
+- The source sentence your new sentence replaces: “For example, you could be travelling a lot for work and want to make sure your medication is easy to take.”
+- The deviations your new sentence corrects: The original sentence is appropriate but could be more structured for clarity and compliance.
+  - Source: [Source - EFPIA Chapter 3]
+  - Key points: Article 2 - Be Clear and Professional
+- Your new sentence: “For example, if you frequently travel for work, ensure your medication regimen is easy to adhere to while on the move.”
+- The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations: The revised sentence provides clear and structured guidance, maintaining professionalism and relevance to patient needs.
+
+- Guideline source which influenced your response: [Source - Communicate With Care Pocket Guide]
+- The source sentence your new sentence replaces: "Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high."
+- The deviations your new sentence corrects: The original sentence is clear but can be more concise and focused on ensuring clarity to prevent misunderstandings.
+  - Source: [Source - Communicate With Care Pocket Guide]
+  - Key points: Article 2. ii (Provide Context)
+- Your new sentence: "Discuss any difficulties with your current treatment, such as side effects, your preference for a pill or injection, its suitability for your lifestyle, and cost concerns."
+- The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations: The revised sentence is more concise and clear, reducing potential misunderstandings and providing context, as recommended by the guidelines.
+
+By implementing these changes, we ensure the document complies with the specific guidelines for non-promotional material, maintains clarity and professionalism, and includes necessary disclaimers for legal compliance.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+- The original source sentence:
+  - “The information on this website is intended for education purposes only and should not be substituted for medical advice from your doctor.”
+
+- The deviation from the guidelines originally provided by the expert reviewer:
+  - While the expert reviewer's suggested change added more comprehensive disclaimers, the reference to specific sources such as the patient information leaflet and reporting side effects was not entirely derived from the necessary context in the prescribed guidelines.
+
+- The expert reviewer's original suggested change:
+  - “This information is intended for educational purposes only and should not replace medical advice from your doctor. Please see the patient information leaflet in the package for additional information. If you experience any side effects while using [insert NN medicinal product], talk to your doctor, pharmacist, or nurse.”
+
+- An explanation for the reason behind your new suggested change:
+  - The updated sentence needs to ensure compliance with the guidelines without adding unnecessary content not explicitly required by the "Disclaimer Texts for Non-promotional Material." The focus should be on adhering strictly to the explanatory context that aligns with the provided reference.
+
+- Your new suggested sentence:
+  - “This information is intended for educational purposes only and should not replace medical advice from your doctor.”
+  
+- In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response:
+  - According to [Source - Disclaimer Texts for Non-promotional Material] the information suggests that any general disclaimers need to be concise and should mention the intent for educational use and the importance of seeking a doctor's advice.
+
+---
+
+- The original source sentence:
+  - “Talk about your lifestyle, how it impacts how well your treatment is working, and if changes to your treatment plan are needed. For example, you could be traveling a lot for work and want to make sure your medication is easy to take, or you may need more support with your weight management goals despite already eating healthily and exercising to the best of your ability.”
+
+- The deviation from the guidelines originally provided by the expert reviewer:
+  - The expert reviewer's revision retained the clarity but missed the opportunity to incorporate a more structured and concise approach while maintaining professionalism.
+
+- The expert reviewer's original suggested change:
+  - “Discuss your lifestyle and its effect on your treatment’s effectiveness. If you travel often or need additional support with managing your weight despite a healthy diet and regular exercise, mention these factors to your doctor for appropriate adjustments to your treatment plan.”
+
+- An explanation for the reason behind your new suggested change:
+  - The new suggested change should further simplify and clearly structure the sentence to ensure it adheres to being straightforward and professional, avoiding lengthy explanations within examples.
+
+- Your new suggested sentence:
+  - “Discuss how your lifestyle affects your treatment. For instance, if you travel frequently or need extra support with weight management, inform your doctor to adjust your treatment plan accordingly.”
+
+- In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response:
+  - According to [Source - Communicate With Care Pocket Guide], the information suggests maintaining clear and professional communication, particularly Article 2 - Be Clear and Professional, focusing on concise and context-providing statements.
+
+---
+
+- The original source sentence:
+  - “For example, you could be travelling a lot for work and want to make sure your medication is easy to take.”
+
+- The deviation from the guidelines originally provided by the expert reviewer:
+  - The expert reviewer's improved sentence added clarity but could be further revised for even more precision while maintaining the guideline’s standards.
+
+- The expert reviewer's original suggested change:
+  - “For example, if you frequently travel for work, ensure your medication regimen is easy to adhere to while on the move.”
+
+- An explanation for the reason behind your new suggested change:
+  - The new sentence can be more streamlined while retaining the essence of the guideline, making it easier for the reader to understand and connect with the instructions.
+
+- Your new suggested sentence:
+  - “If you travel often for work, ensure your medication is convenient to take on the go.”
+
+- In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response:
+  - According to [Source - EFPIA Chapter 3], the information suggests that it is essential to be clear and professional, aligning with Article 2 - Be Clear and Professional, focusing on structured and direct guidance.
+
+---
+
+By implementing these changes, we ensure the document complies with the specific guidelines for non-promotional material, maintains clarity and professionalism, and aligns effectively with the provided "Non-Promotional Material Guidelines."

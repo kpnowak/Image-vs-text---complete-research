@@ -1,0 +1,86 @@
+### The Best Non-Promotional Review on Earth
+
+---
+
+**Compliance Review for "How to talk about treatment options" Document**
+
+#### Combined Assessment and Corrections
+
+1. **Lack of Disclaimer**
+
+   - **Original Source Sentence:** The entire document lacks necessary disclaimers.
+   
+   - **Deviation from Guidelines:** The document does not include required disclaimers that inform users about the purpose of the information and the representation of individuals in the images.
+
+   - **Expert Reviewers' Suggested Change:** 
+     - "This information is intended for diabetes patients who have been prescribed [insert NN medicinal product] and should not be substituted for medical advice from your doctor. The image shown is a model and not a real patient." 
+     - Add disclaimers at the top and bottom of the document.
+
+   - **Reason for New Suggested Change:** Ensures readers understand that the information should not replace professional medical advice and that images do not represent real patients.
+
+   - **New Suggested Sentence:** 
+     - Add at the top and bottom of the document: "This information is intended for diabetes patients who have been prescribed [insert NN medicinal product] and should not be substituted for medical advice from your doctor. The image shown is a model and not a real patient. The characters and their descriptions are solely for representation purposes and do not reflect real patient experiences."
+
+   - **Source and Key Point:** According to [Source - Disclaimer Texts for Non-promotional Material], the information suggests that disclaimers should be included to inform users about the representational nature of images and the intention of the information.
+
+2. **Inadequate Emphasis on Professional Medical Advice**
+
+   - **Original Source Sentence:** Insufficient emphasis on the necessity of professional medical advice in the text.
+
+   - **Deviation from Guidelines:** The document does not clearly communicate that readers should consult their healthcare providers for specific medical advice.
+
+   - **Expert Reviewers' Suggested Change:** 
+     - “Please consult your healthcare provider to discuss any specific medical concerns or before making changes to your treatment plan.”
+
+   - **Reason for New Suggested Change:** Reinforcing the professional medical advice should be more impactful by including it in a prominent context within the document.
+
+   - **New Suggested Sentence:** 
+     - Add after the introduction paragraph: "Always consult your healthcare provider before making any changes to your treatment plan or if you have any specific medical concerns. Their guidance is crucial in ensuring that your treatment is adjusted safely and effectively."
+
+   - **Source and Key Point:** According to [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication], it is essential to emphasize that the content does not substitute for professional medical advice.
+
+3. **Overemphasis on Self-Management without Clear Role of Healthcare Providers**
+
+   - **Original Source Sentence:** When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs.
+
+   - **Deviation from Guidelines:** The source sentence does not sufficiently highlight the essential role of healthcare providers in managing treatment plans.
+
+   - **Expert Reviewers' Suggested Change:** 
+     - When you're living with type 2 diabetes, it’s important to regularly consult with your healthcare provider to reevaluate and adjust your treatment in response to your changing health needs.
+
+   - **Reason for New Suggested Change:** Emphasize the collaborative role of healthcare providers and patients, enhancing the document's compliance.
+
+   - **New Suggested Sentence:** 
+     - "When you're living with type 2 diabetes, it's crucial to regularly consult with your healthcare provider to reassess and adjust your treatment plan based on your evolving health conditions. Your healthcare provider can help guide these changes to ensure they are safe and effective."
+
+   - **Source and Key Point:** According to [Source - EFPIA Chapter 3, Article 16], it is essential to ensure that the role of healthcare providers is explicitly stated and emphasized in LLH activities, maintaining a balance between patient empowerment and professional guidance.
+
+4. **Incomplete Reference Format**
+
+   - **Original Source Sentence:** Reference 1 is listed at the end without indicating its source clearly within the text.
+
+   - **Deviation from Guidelines:** The reference is not appropriately formatted or comprehensive.
+
+   - **Expert Reviewers' Suggested Change:** 
+     - Instead of “Management of hyperglycaemia in type 2 diabetes, 2018...”, use “Buse JB, Wexler DJ, Tsapas A, et al., 2019. Management of hyperglycaemia in type 2 diabetes: 2018 consensus report by ADA and EASD”. Diabetologia, 63(2), 221-228.
+
+   - **New Suggested Sentence:** 
+     - Ensure that all references are clear and correctly formatted within the text.
+
+   - **Source and Key Point:** According to [Source - Communicate With Care Pocket Guide], all references should be clear and provide the necessary context.
+
+5. **Misleading Representation of Interaction with Healthcare Providers**
+
+   - **Original Source Sentence:** Your doctor is the medical expert, but you are the one living with type 2 diabetes.
+
+   - **Deviation from Guidelines:** The sentence might be interpreted as diminishing the expertise of healthcare providers.
+
+   - **Expert Reviewers' Suggested Change:** 
+     - "Your doctor is the medical expert, and your input about living with type 2 diabetes is crucial for creating a suitable treatment plan."
+
+   - **New Suggested Sentence:** 
+     - Ensure that the collaborative nature of patient and healthcare provider interaction is clearly presented.
+
+   - **Source and Key Point:** According to [Source - Communicate With Care Pocket Guide], communication should maintain a professional tone and avoid diminishing the role of healthcare providers.
+
+By implementing these changes, the document now ensures compliance with the "Non-Promotional Material Guidelines," maintaining ethical standards, clarity, and emphasizing non-promotional, balanced, and scientifically grounded communication.

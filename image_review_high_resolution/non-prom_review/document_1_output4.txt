@@ -1,0 +1,212 @@
+### Sentence Reviews
+
+**1. Original Sentence:**
+"When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+**Source of Guideline Influencing Response:**
+Source - Disclaimer Texts for Non-promotional Material
+
+**Deviation:**
+The original sentence does not include a disclaimer that separates it from medical advice and informational material.
+
+**New Sentence:**
+"When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs. Please see patient information leaflet in the package for additional information."
+
+**Reason for Change:**
+Adding the disclaimer ensures that the reader understands this is informational content and should consult the patient information leaflet for medical advice.
+  
+---
+
+**2. Original Sentence:**
+"It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+**Source of Guideline Influencing Response:**
+Source - General Disclaimers include in all pages (Article 3.vii)
+
+**Deviation:**
+The original sentence does not prompt professional medical consultation for any changes or side effects.
+
+**New Sentence:**
+"It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. If you experience any side effects while using [insert NN medicinal product], talk to your doctor, pharmacist or nurse."
+
+**Reason for Change:**
+Adding a disclaimer provides clarity on seeking professional advice for any changes or side effects, complying with the guideline.
+
+---
+
+**3. Original Sentence:**
+"Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+
+**Source of Guideline Influencing Response:**
+Source - Disclaimer Texts for Non-promotional Material (Article 3.vi)
+
+**Deviation:**
+The original sentence didn't clarify it was for informational purposes only and not a substitute for medical advice.
+
+**New Sentence:**
+"Your doctor is the medical expert, but you are the one living with type 2 diabetes. This information is intended for educational purposes only and should not be substituted for medical advice from your doctor."
+
+**Reason for Change:**
+Including the disclaimer makes it clear this is not a substitute for professional medical advice.
+
+---
+
+**4. Original Sentence:**
+"Talk about your lifestyle, how it impacts how well your treatment is working, and if changes to your treatment plan are needed."
+
+**Source of Guideline Influencing Response:**
+Source - Communicate With Care Pocket Guide (Article 2.iii)
+
+**Deviation:**
+The original sentence may lead to speculation without clear, factual context.
+
+**New Sentence:**
+"Discuss how your lifestyle impacts your treatment effectiveness and if changes to your treatment plan are needed based on medical advice."
+
+**Reason for Change:**
+Clarifies the sentence by grounding it in factual medical advice, avoiding speculation.
+
+---
+
+**5. Original Sentence:**
+"Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan."
+
+**Source of Guideline Influencing Response:**
+Source - General Disclaimers include in all pages (Article 3.iv)
+
+**Deviation:**
+The sentence could be interpreted as setting patient expectations without professional input.
+
+**New Sentence:**
+"Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan. The character and its description are for representation purposes only and do not reflect real patient experiences."
+
+**Reason for Change:**
+Including the disclaimer ensures the reader knows the content does not reflect real patient experiences and should be discussed with a doctor. 
+
+---
+
+**6. Original Sentence:**
+"Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+
+**Source of Guideline Influencing Response:**
+Source - Communicate With Care Pocket Guide (Article 2.ii)
+
+**Deviation:**
+Lacks context that might help users unfamiliar with discussing treatment options with their doctor.
+
+**New Sentence:**
+"Remember, this conversation is about working together with your doctor to find the best treatment option for you. Come prepared with your questions and concerns to make the most of your discussion."
+
+**Reason for Change:**
+Provides better context helping readers understand the importance of preparation for medical discussions, adhering to guidelines on providing context.
+
+---
+
+**7. Original Sentence:**
+"This material is for preparatory use in NN only."
+
+**Source of Guideline Influencing Response:**
+Source - Disclaimer Texts for Non-promotional Material (Article 1.i)
+
+**Deviation:**
+The sentence might lack specificity or context regarding use in NN.
+
+**New Sentence:**
+"This material is for preparatory use in NN only. Please consider and adhere strictly to local procedures and regulations when utilizing this content."
+
+**Reason for Change:**
+Provides clarity on the context of use ensuring compliance with local legal and procedural standards.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Sentence Reviews 
+
+**1. Original Sentence:** 
+"When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+**Deviation from the guidelines originally provided by the expert reviewer:**
+The expert's suggested change did not significantly deviate from the guidelines and appropriately added the necessary disclaimer.
+
+**Expert reviewer's original suggested change:** 
+"When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs. Please see patient information leaflet in the package for additional information."
+
+**An explanation for the reason behind your new suggested change:** 
+I am pleased with the suggested change by the expert as it adheres to the "Disclaimer Texts for Non-promotional Material" (Article 3.vi) by including a disclaimer that guides the patient to consult the patient information leaflet.
+
+**2. Original Sentence:** 
+"It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+**Deviation from the guidelines originally provided by the expert reviewer:**
+The expert's suggested change effectively integrated the guideline-required disclaimer for seeking professional medical consultation for any changes or side effects.
+
+**Expert reviewer's original suggested change:** 
+"It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. If you experience any side effects while using [insert NN medicinal product], talk to your doctor, pharmacist or nurse."
+
+**Reason for Change:** 
+Suggesting professional consultation for changes or side effects aligns with "General Disclaimers include in all pages" (Article 3.vii).
+
+**3. Original Sentence:** 
+"Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+
+**Deviation from the guidelines originally provided by the expert reviewer:**
+The expert's suggested change importantly added a disclaimer separating the informational content and not substituting it for medical advice.
+
+**Expert reviewer's original suggested change:** 
+"Your doctor is the medical expert, but you are the one living with type 2 diabetes. This information is intended for educational purposes only and should not be substituted for medical advice from your doctor."
+
+**Reason for Change:** 
+Clarifying informational versus medical advice is necessary according to "Disclaimer Texts for Non-promotional Material" (Article 3.vi).
+
+**4. Original Sentence:** 
+"Talk about your lifestyle, how it impacts how well your treatment is working, and if changes to your treatment plan are needed."
+
+**Deviation from the guidelines originally provided by the expert reviewer:**
+The expert's suggested change did not fully address the need for a clear context and factual background.
+
+**Expert reviewer's original suggested change:** 
+"Discuss how your lifestyle impacts your treatment effectiveness and if changes to your treatment plan are needed based on medical advice."
+
+**Explanation for the reason behind your new suggested change:** 
+Adding more precise language to ensure clear context and factuality, aligning with "Communicate With Care Pocket Guide" (Article 2.iii).
+
+**Your new suggested sentence:** 
+"Discuss with your doctor how your lifestyle affects your treatment and whether changes are necessary. Ensure these discussions are based on factual medical advice."
+
+**5. Original Sentence:** 
+"Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan."
+
+**Deviation from the guidelines originally provided by the expert reviewer:**
+The expert's suggestion to include a disclaimer indicating the informational purpose was correct but the new sentence could better contextualize setting realistic expectations.
+
+**Expert reviewer's original suggested change:** 
+"Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan. The character and its description are for representation purposes only and do not reflect real patient experiences."
+
+**Explanation for the reason behind your new suggested change:** 
+Including the context that timelines and outcomes should be discussed with a medical professional avoids misinterpretation and aligns with "General Disclaimers include in all pages" (Article 3.iv).
+
+**Your new suggested sentence:** 
+"Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan. Remember to discuss your concerns and expectations to ensure they are medically grounded."
+
+**6. Original Sentence:** 
+"Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+
+**Deviation from the guidelines originally provided by the expert reviewer:**
+The expert's suggested change helps by adding context and encourages preparation for medical discussions, aligning with guidelines on providing context.
+
+**Source Suggesting Change:**
+Source - Communicate With Care Pocket Guide (Article 2.ii)
+
+**Expert reviewer's original suggested change:** 
+"Remember, this conversation is about working together with your doctor to find the best treatment option for you. Come prepared with your questions and concerns to make the most of your discussion."
+
+**Explanation for the reason behind your new suggested change:** 
+Provides better context helping readers understand the importance of preparation for medical discussions in agreement with "Communicate With Care Pocket Guide" (Article 2.ii).
+
+**Your new suggested sentence:** 
+"Remember, this conversation is about collaborating with your doctor to find the best treatment option for you. Be prepared with questions and points for discussion to make the conversation effective."
+
+---
+
+By following this approach, you ensure that all changes adhere strictly to the "Non-Promotional Material Guidelines" and also provide clarity and additional context to the reader, enhancing comprehension and adherence to the guidelines.

@@ -1,0 +1,99 @@
+### Combined Review of Non-Promotional Materials Image for CholeCap
+
+#### Compliance with Non-Promotional Material Guidelines
+
+### Document Title: CholeCap Flibastatin Nasalucane Capsules
+
+1. **Original Source Sentence:**
+   "The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+
+   **Deviation from guidelines:**
+   - Emphasizes the uniqueness of the product, which can be seen as promotional.
+   - According to EFPIA Chapter 3: Article 17.i, educational materials must not serve as an inducement to recommend or prescribe a medicinal product.
+
+   **Combined Suggested Sentence:**
+   "CholeCap is among the statins used in treating hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+
+   **Reason:**
+   - This sentence retains the necessary information about the indication without making it promotional or misleading, ensuring clarity and factual representation.
+
+2. **Original Source Sentence:**
+   "Clinically proven efficacy and safety in paediatric patients."
+
+   **Deviation from guidelines:**
+   - Lacks context and detailed data to support the claim.
+   - According to [Communicate With Care Pocket Guide: Article 2.iii], statements should be fact-based and avoid exaggerations or unsupported claims.
+
+   **Combined Suggested Sentence:**
+   "Clinical studies have demonstrated efficacy and safety in managing hypercholesterolaemia in paediatric patients, with detailed results available in published studies."
+
+   **Reason:**
+   - Provides clarity and supportive data, ensuring the statement is fact-based and avoids any exaggeration.
+
+3. **Original Source Sentence:**
+   "Dolor sit amet."
+
+   **Deviation from guidelines:**
+   - Placeholder text does not provide necessary disclaimers or context.
+   - According to [Disclaimer Texts for Non-promotional Material: Article 3], relevant disclaimers must be included.
+
+   **Combined Suggested Sentence:** 
+   "[Disclaimer: The image shown is a model and not a real patient. The prescription example shown is not based on a real patient.]"
+
+   **Reason:**
+   - By including relevant disclaimers, it ensures clarity and aligns with the required guidelines.
+
+4. **Original Source Sentence:**
+   "Reduction in LDL-C."
+
+   **Deviation from guidelines:**
+   - Lacks context to present the information in a balanced and objective manner.
+   - According to [EFPIA Chapter 3: Article 16], content should be fair, balanced, and geared towards evidence-based science.
+
+   **Combined Suggested Sentence:**
+   "Study results demonstrate a reduction in LDL-C levels over time with CholeCap treatment."
+
+   **Reason:**
+   - This change adds necessary context and ensures the sentence is informative without being promotional.
+
+5. **Original Source Sentence:**
+   "49% Reduction in LDL-C at week 24 compared to baseline."
+
+   **Deviation from guidelines:**
+   - Needs clear evidence-based context to avoid the risk of off-label promotion.
+   - According to [Global Legal & Compliance Pocket Guide: Article 1], off-label information dissemination must be balanced and objective.
+
+   **Combined Suggested Sentence:**
+   "Research data shows a 49% reduction in LDL-C levels at week 24 compared to baseline, indicating significant management of hypercholesterolaemia."
+
+   **Reason:**
+   - This sentence maintains data integrity while ensuring the context is appropriate and balanced to avoid promotional implications.
+
+6. **Original Source Sentence:**
+   "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+
+   **Deviation from guidelines:**
+   - Promotes CholeCap by making strong claims about its benefits.
+   - According to [EFPIA Chapter 3: Article 17], educational materials must not promote products and should be beneficial to patient care.
+
+   **Combined Suggested Sentence:**
+   "CholeCap is utilized to manage elevated cholesterol levels in paediatric patients with familial hypercholesterolaemia, with effects observed on total cholesterol, LDL-C, and apo B levels."
+
+   **Reason:**
+   - This change eliminates promotional wording and maintains an educational tone, presenting the information beneficial to patient care.
+
+7. **Original Source Sentence:**
+   "Welcome to a brighter future for your patients."
+
+   **Deviation from guidelines:**
+   - Could be interpreted as promotional, creating an idealistic product image.
+   - According to [EFPIA Chapter 4: Article 21], interactions with healthcare professionals should be transparent and non-promotional.
+
+   **Combined Suggested Sentence:**
+   "Consult current guidelines for managing patients with hypercholesterolaemia to ensure best practices."
+
+   **Reason:**
+   - This change provides useful, actionable information and helps ensure the sentence remains informational and not promotional.
+
+### Conclusion:
+The combined review carefully adheres to Non-Promotional Material Guidelines, ensuring each sentence is revised to maintain clarity, balance, and factual representation. Essential disclaimers are added, and any promotional language is removed, ensuring compliance with EFPIA codes and maintaining high ethical standards in scientific communication.

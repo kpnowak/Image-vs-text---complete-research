@@ -1,0 +1,157 @@
+The document's prominent language is English. Based on the language guidelines provided, I'll review the document for grammatical accuracy.
+
+### Document Review:
+
+**Source Sentence:**
+"The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+
+**Deviations Corrected:**
+None
+
+**Reason:**
+The sentence is grammatically correct and does not contain any errors needing correction.
+
+**New Sentence:**
+"The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+
+---
+
+**Source Sentence:**
+"Clinically proven efficacy and safety in paediatric patients."
+
+**Deviations Corrected:**
+None
+
+**Reason:**
+The sentence is grammatically correct and clear. 
+
+**New Sentence:**
+"Clinically proven efficacy and safety in paediatric patients."
+
+---
+
+**Source Sentence:**
+"CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+
+**Deviations Corrected:**
+None
+
+**Reason:**
+The sentence is clear and no grammatical errors are present.
+
+**New Sentence:**
+"CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+
+---
+
+**Source Sentence:**
+"CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain. Welcome to a brighter future for your patients."
+
+**Deviations Corrected:**
+None
+
+**Reason:**
+The sentence is grammatically correct and well-structured.
+
+**New Sentence:**
+"CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain. Welcome to a brighter future for your patients."
+
+---
+
+**Source Sentence:**
+"CHOLECAP (lovastatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP. It is not for those with liver problems. And it is not for women who are nursing, pregnant, or may become pregnant."
+
+**Deviations Corrected:**
+Punctuation, Sentence Structure
+
+**Reason:**
+The formatting and sentence structure of the segment "And it is not for women..." could be improved for clarity.
+
+**New Sentence:**
+"CHOLECAP (lovastatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP. It is not for those with liver problems, nor is it for women who are nursing, pregnant, or may become pregnant."
+
+---
+
+**Source Sentence:**
+"If you take CHOLECAP (lovastatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness. This could be a sign of rare but serious muscle side effects. Tell your doctor about all your medical conditions and all medications you take."
+
+**Deviations Corrected:**
+None
+
+**Reason:**
+There is no grammatical error or deviation noted in the sentence.
+
+**New Sentence:**
+"If you take CHOLECAP (lovastatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness. This could be a sign of rare but serious muscle side effects. Tell your doctor about all your medical conditions and all medications you take."
+
+---
+
+**Source Sentence:**
+"This may help avoid serious drug interactions. Your doctor should do blood tests to check your liver function before starting CHOLECAP and during your treatment if you have symptoms of liver problems. Tell your doctor if you have diabetes. Elevated blood sugar levels have been reported with statins, including CHOLECAP."
+
+**Deviations Corrected:**
+None
+
+**Reason:**
+The sentence is grammatically sound and does not require correction.
+
+**New Sentence:**
+"This may help avoid serious drug interactions. Your doctor should do blood tests to check your liver function before starting CHOLECAP and during your treatment if you have symptoms of liver problems. Tell your doctor if you have diabetes. Elevated blood sugar levels have been reported with statins, including CHOLECAP."
+
+---
+
+**Source Sentence:**
+"Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events."
+
+**Deviations Corrected:**
+Spelling, Consistency
+
+**Reason:**
+The British English spelling of "diarrhea" is "diarrhoea."
+
+**New Sentence:**
+"Common side effects are diarrhoea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events."
+
+The completion of the review concludes that the text predominantly maintains excellent grammar and spelling, with very few errors or deviations noted. The adjustments made were to enhance clarity and consistency according to British English standards.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Document Review:
+
+**1. Original Sentence:**
+"CHOLECAP (lovastatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP. It is not for those with liver problems. And it is not for women who are nursing, pregnant, or may become pregnant."
+
+- **The deviation from the guidelines originally provided by the expert reviewer:**
+Punctuation, Sentence Structure
+
+- **The expert reviewer's original suggested change:**
+"CHOLECAP (lovastatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP. It is not for those with liver problems, nor is it for women who are nursing, pregnant, or may become pregnant."
+
+- **An explanation for the reason behind your new suggested change:**
+The expert reviewer's suggestion simplifies the sentence structure and creates better flow. However, to emphasize the exclusivity of the conditions under which the tablets should not be used, a slight rephrasing can improve clarity.
+
+- **Your new suggested sentence:**
+"CHOLECAP (lovastatin calcium) tablets are not for everyone, including those who have previously had an allergic reaction to CHOLECAP or have liver problems. Additionally, it is not for women who are nursing, pregnant, or may become pregnant."
+
+---
+
+**2. Original Sentence:**
+"Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests."
+
+- **The deviation from the guidelines originally provided by the expert reviewer:**
+Spelling, Consistency
+
+- **The expert reviewer's original suggested change:**
+"Common side effects are diarrhoea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events."
+
+- **An explanation for the reason behind your new suggested change:**
+The expert's suggestion aligns with British English standards. Ensuring consistency with the document's usage of British English is important for maintaining professional and regional standards.
+
+- **Your new suggested sentence:**
+"Common side effects include diarrhoea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always seek medical advice from their doctors about adverse events."
+
+---
+
+This review evaluates and ensures all corrections align with the "Grammar & Spelling Guidelines" for the English language, demonstrating improved sentence structure, correct spelling, punctuation, and consistency.

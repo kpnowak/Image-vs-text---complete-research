@@ -1,0 +1,67 @@
+1. **Source: EFPIA Chapter 3, Article 16 - Lifelong Learning in Healthcare**
+   - **Source sentence:** "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+   - **Deviations:** The text on the promotional material focuses on product benefits which may be seen as promotional.
+   - **New sentence:** "Lifelong learning in healthcare ensures that healthcare providers stay informed about new developments in treating heterozygous familial hypercholesterolaemia to enhance patient care."
+   - **Reason:** According to EFPIA Chapter 3, Article 16, information should remain educational without constituting promotion. The new sentence ensures the focus remains on education rather than specific product promotion.
+
+2. **Source: EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility**
+   - **Source sentence:** "49% Reduction in LDL-C at week 24 compared to baseline."
+   - **Deviations:** Highlighting the percentage reduction could be interpreted as a promotional claim.
+   - **New sentence:** "Educational materials should emphasize general information on LDL-C reduction and its importance in patient care."
+   - **Reason:** According to EFPIA Chapter 3, Article 17, educational materials must be informative and not directly promote a specific product. The new sentence ensures compliance by changing the focus to general education.
+
+3. **Source: Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional**
+   - **Source sentence:** "CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain."
+   - **Deviations:** The sentence includes promotional claims not permitted in educational materials.
+   - **New sentence:** "Current best practices in healthcare involve managing cardiovascular risks in patients with hypercholesterolemia."
+   - **Reason:** This change ensures the text sticks to general facts and avoids specific promotional claims, in accordance with the guidelines on clarity and professionalism.
+
+4. **Source: EFPIA Chapter 3, Article 17, iv - Informational or Educational Materials and Items of Medical Utility**
+   - **Source sentence:** "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels."
+   - **Deviations:** The exact claim is promotional and doesn't comply with non-promotional guidelines.
+   - **New sentence:** "Managing elevated total cholesterol, LDL-C, and apo B levels is crucial for patient outcomes."
+   - **Reason:** The replacement sentence aligns with educational objectives, avoiding direct promotion of the product.
+
+5. **Source: Disclaimer Texts for Non-promotional Material, Article 3 - General Disclaimers**
+   - **Source sentence:** Missing disclaimer text.
+   - **Deviations:** The document should include standard disclaimers for clarity and compliance.
+   - **New sentence:** "The information provided here is intended for educational purposes and does not substitute for professional medical advice."
+   - **Reason:** This disclaimer ensures the material remains educational and aligns with non-promotional content guidelines.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+1. **Source: EFPIA Chapter 3, Article 16 - Lifelong Learning in Healthcare**
+   - **Original source sentence:** "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+   - **Deviation:** The text focuses on product benefits, constituting a promotional claim.
+   - **Expert reviewer's suggestion:** "Lifelong learning in healthcare ensures that healthcare providers stay informed about new developments in treating heterozygous familial hypercholesterolaemia to enhance patient care."
+   - **Reason for new suggested change:** It is essential to keep the focus on education and avoiding product-specific promotional content while ensuring the role of healthcare education is emphasized.
+   - **New suggested sentence:** "Healthcare education aims to keep HCPs informed about advancements in treating conditions like heterozygous familial hypercholesterolaemia to enhance patient outcomes."
+   - **Deviations:** According to EFPIA Chapter 3, Article 16, information should be educational and not promotional.
+
+2. **Source: EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility**
+   - **Original source sentence:** "49% Reduction in LDL-C at week 24 compared to baseline."
+   - **Deviation:** Highlighting the percentage reduction could be interpreted as a promotional claim.
+   - **Expert reviewer's suggestion:** "Educational materials should emphasize general information on LDL-C reduction and its importance in patient care."
+   - **Reason for new suggested change:** The revised sentence should focus on the educational aspect of LDL-C reduction without referring to specific percentages or product results.
+   - **New suggested sentence:** "Educational materials should discuss the general principles of LDL-C management and its impact on patient health."
+   - **Deviations:** According to EFPIA Chapter 3, Article 17, educational materials must remain informative and free from direct promotional content.
+
+3. **Source: EFPIA Chapter 3, Article 17, iv - Informational or Educational Materials and Items of Medical Utility**
+   - **Original source sentence:** "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels."
+   - **Deviation:** The exact claim promotes a specific product, contrary to non-promotional guidelines.
+   - **Expert reviewer's suggestion:** "Managing elevated total cholesterol, LDL-C, and apo B levels is crucial for patient outcomes."
+   - **Reason for new suggested change:** The sentence should avoid specific product mentions while promoting the general importance of managing these medical parameters in patient care.
+   - **New suggested sentence:** "Effective management of elevated total cholesterol, LDL-C, and apo B levels is essential for improving patient health."
+   - **Deviations:** According to EFPIA Chapter 3, Article 17, information should remain focused on educational content without direct promotion.
+
+4. **Source: Disclaimer Texts for Non-Promotional Material, Article 3 - General Disclaimers**
+   - **Original source sentence:** Missing disclaimer text.
+   - **Deviation:** The document lacks the necessary disclaimers for clarity and compliance.
+   - **Expert reviewer's suggestion:** "The information provided here is intended for educational purposes and does not substitute for professional medical advice."
+   - **Reason for new suggested change:** It's important to highlight that the material is strictly for educational purposes to prevent any misinterpretation.
+   - **New suggested sentence:** "This information is meant for educational purposes only and should not replace professional medical advice."
+   - **Deviations:** According to Disclaimer Texts for Non-Promotional Material, Article 3, adding general disclaimers ensures the material remains compliant and educational.
+
+Each of these suggestions aims to align the content with the "Non-Promotional Material Guidelines" by ensuring the material remains educational, avoids promotional language, and includes appropriate disclaimers.

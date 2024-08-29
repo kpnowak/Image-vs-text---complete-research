@@ -1,0 +1,143 @@
+### Review of Non-Promotional Material
+
+#### Source Section: "How to talk about treatment options"
+
+##### Sentence 1:
+**Source Sentence**:
+"When you're living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+**Deviation Correction**:
+- **Guideline Source**: **"Source - Communicate With Care Pocket Guide"**
+- **Deviation**: Tone should maintain professionalism, be fact-based, and avoid ambiguity or implications of promotion.
+- **New Sentence**: "When managing type 2 diabetes, it is essential to periodically reassess and potentially modify your treatment plan to meet evolving personal health needs."
+
+**Reason**: 
+This change ensures the language is professional and clear, removing any implication of casualness while staying fact-based.
+
+##### Sentence 2:
+**Source Sentence**:
+"It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+**Deviation Correction**:
+- **Guideline Source**: **"Source - Article 2 - Be Clear and Professional"**
+- **Deviation**: Avoid potentially subjective statements that may lead to misinterpretation.
+- **New Sentence**: "It is important to regularly communicate with your healthcare provider about any potential changes to your treatment that could enhance your health outcomes."
+
+**Reason**:
+This revision ensures clarity and maintains a professional tone while emphasizing the importance of communication with healthcare providers.
+
+##### Sentence 3:
+**Source Sentence**:
+"Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+
+**Deviation Correction**:
+- **Guideline Source**: **"Source - Article 2 - Be Clear and Professional"**
+- **Deviation**: More factual language and professional tone needed.
+- **New Sentence**: "While your doctor provides medical expertise, you are the individual managing day-to-day living with type 2 diabetes."
+
+**Reason**:
+The revised sentence uses a professional tone and clearly delineates roles without implying a casual relationship.
+
+##### Sentence 4:
+**Source Sentence**:
+"You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+
+**Deviation Correction**:
+- **Guideline Source**: **"Source - Article 2 - Be Clear and Professional"**
+- **Deviation**: Ensure clarity and a professional tone; avoid implying medical advice.
+- **New Sentence**: "It is important to communicate your needs and preferences clearly during discussions with your healthcare provider."
+
+**Reason**:
+This correction ensures the tone remains professional and factual, focusing on clear communication.
+
+#### Suggestions for Disclaimers
+**Source Sentences**:
+- **Image-related: "The image shown is a model and not a real patient."**
+- **Scenario-related: "The character and its description are for representation purposes only and does not reflect real patient."**
+
+**Addition to Document**:
+- **Guideline Source**: **"Source - Disclaimer Texts for Non-promotional Material"**
+  - "The image shown is a model and not a real patient."
+
+**Reason**:
+This ensures the material adheres to guidelines by clearly disclaiming that images are of models and not actual patients, maintaining transparency and factual integrity.
+
+#### General Feedback:
+1. **Professional Tone and Clarity**: Ensure all text maintains a professional tone and provides clear, straightforward information. 
+2. **Disclaimers**: Integrate required disclaimers, particularly those relevant to images of models to ensure there is no confusion.
+
+Following these changes will better align the material with the provided guidelines and ensure it meets the required standards for non-promotional texts.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review of Non-Promotional Material
+
+#### Source Section: "How to talk about treatment options"
+
+##### Sentence 1:
+**Source Sentence**:
+"When you're living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+**Deviation Correction**:
+- **Guideline Source**: **"Source - Communicate With Care Pocket Guide"**
+- **Deviation**: Tone should maintain professionalism, be fact-based, and avoid ambiguity or implications of promotion.
+- **New Sentence**: "When managing type 2 diabetes, it is essential to periodically reassess and potentially modify your treatment plan to meet evolving personal health needs."
+
+**Reason**: 
+This change ensures the language is professional and clear, removing any implication of casualness while staying fact-based.
+
+##### Sentence 2:
+**Source Sentence**:
+"It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+**Deviation Correction**:
+- **Guideline Source**: **"Source - Article 2 - Be Clear and Professional"**
+- **Deviation**: Avoid potentially subjective statements that may lead to misinterpretation.
+- **New Sentence**: "It is important to regularly communicate with your healthcare provider about any potential changes to your treatment that could enhance your health outcomes."
+
+**Reason**:
+This revision ensures clarity and maintains a professional tone while emphasizing the importance of communication with healthcare providers.
+
+##### Sentence 3:
+**Source Sentence**:
+"Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+
+**Deviation Correction**:
+- **Guideline Source**: **"Source - Article 2 - Be Clear and Professional"**
+- **Deviation**: More factual language and professional tone needed.
+- **New Sentence**: "While your doctor provides medical expertise, you are the individual managing day-to-day living with type 2 diabetes."
+
+**Reason**:
+The revised sentence uses a professional tone and clearly delineates roles without implying a casual relationship.
+
+##### Sentence 4:
+**Source Sentence**:
+"You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+
+**Deviation Correction**:
+- **Guideline Source**: **"Source - Article 2 - Be Clear and Professional"**
+- **Deviation**: Ensure clarity and a professional tone; avoid implying medical advice.
+- **New Sentence**: "It is important to communicate your needs and preferences clearly during discussions with your healthcare provider."
+
+**Reason**:
+This correction ensures the tone remains professional and factual, focusing on clear communication.
+
+#### Suggestions for Disclaimers
+**Source Sentences**:
+- **Image-related: "The image shown is a model and not a real patient."**
+- **Scenario-related: "The character and its description are for representation purposes only and does not reflect real patient."**
+
+**Addition to Document**:
+- **Guideline Source**: **"Source - Disclaimer Texts for Non-promotional Material"**
+  - "The image shown is a model and not a real patient."
+
+**Reason**:
+This ensures the material adheres to guidelines by clearly disclaiming that images are of models and not actual patients, maintaining transparency and factual integrity.
+
+#### General Feedback:
+1. **Professional Tone and Clarity**: Ensure all text maintains a professional tone and provides clear, straightforward information. 
+2. **Disclaimers**: Integrate required disclaimers, particularly those relevant to images of models to ensure there is no confusion.
+
+Following these changes will better align the material with the provided guidelines and ensure it meets the required standards for non-promotional texts.

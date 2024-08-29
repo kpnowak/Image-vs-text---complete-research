@@ -1,0 +1,80 @@
+### The Best Review on "How to Talk About Treatment Options"
+
+#### Compliance Review and Modifications
+
+**1. Comprehensive Disclaimer Inclusion**
+
+**Observed Issue:**
+The document lacks necessary disclaimers that indicate the purpose of the information and the representation of individuals in the images.
+
+**Guideline Source:**
+Source - Disclaimer Texts for Non-promotional Material
+
+**Recommended Adjustment:**
+Add the following disclaimer at the top and bottom of the document:
+"The information on this website is intended for educational purposes only and should not substitute medical advice from your doctor. The image shown is a model and not a real patient. Please see the patient information leaflet in the package for additional information. If you experience side effects while using [insert NN medicinal product], contact your doctor, pharmacist, or nurse, including for side effects not listed in the leaflet. Side effects can also be reported via [insert local customer contact function or safety department]."
+
+**Reason for Adjustment:**
+This disclaimer now aligns fully with the comprehensive disclaimer list provided in the "Disclaimer Texts for Non-promotional Material" guidelines, ensuring the document meets higher standards of patient safety, clarity, and ethical compliance.
+
+**2. Emphasis on Professional Medical Advice**
+
+**Observed Issue:**
+There is insufficient emphasis on the necessity of consulting with healthcare providers for specific medical advice.
+
+**Guideline Source:**
+Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication
+
+**Recommended Adjustment:**
+Add this statement after the introduction paragraph:
+"Always consult your healthcare provider before making any changes to your treatment plan or if you have any specific medical concerns. Their guidance is crucial in ensuring that your treatment is adjusted safely and effectively."
+
+**Reason for Adjustment:**
+This ensures that readers are consistently reminded to seek professional medical advice, maintaining the document's purpose as an educational resource and not a substitute for professional guidance.
+
+**3. Clarification of Patient-Doctor Interaction**
+
+**Observed Issue:**
+Some phrases in the document might be interpreted as reducing the importance of the healthcare provider's expertise.
+
+**Guideline Source:**
+Source - EFPIA Chapter 3, Article 16 and Communicate With Care Pocket Guide
+
+**Recommended Adjustment:**
+Modify the sentence to:
+"Before your appointment, prepare to discuss your health and treatment plans with your doctor and ask questions to gain a clear understanding of your medical condition."
+
+**Reason for Adjustment:**
+This modification emphasizes the importance of patient-doctor communication without potentially promoting any specific medical product or decision, aligning with the guideline for non-promotional, educational communication.
+
+**4. Ensuring Non-Promotional Nature**
+
+**Observed Issue:**
+The document contains phrases that might unintentionally promote specific medical products or treatments.
+
+**Guideline Source:**
+Source - EFPIA Chapter 3, Article 17 and Communicate With Care Pocket Guide
+
+**Recommended Adjustment:**
+Modify the text to:
+"Discuss general concerns and questions about your treatment plan with a focus on your overall health and treatment effectiveness, avoiding inquiries that promote specific medicinal products."
+
+**Reason for Adjustment:**
+This adjustment ensures the content remains non-promotional and maintains an educational focus, thereby adhering to the required guidelines.
+
+**5. Realistic Expectations and Scientific Evaluation**
+
+**Observed Issue:**
+The document does not fully address the necessity of a scientific and balanced evaluation of treatment changes.
+
+**Guideline Source:**
+Source - EFPIA Chapter 3, Article 18
+
+**Recommended Adjustment:**
+Modify the sentence to:
+"Knowing what to expect can keep you motivated and help you scientifically assess the effectiveness of changes to your treatment plan."
+
+**Reason for Adjustment:**
+This ensures the advice is balanced, objective, and adheres to the EFPIA guidelines for non-promotional material by emphasizing the importance of scientific evaluation in treatment plans.
+
+By implementing these comprehensive adjustments, the document ensures compliance with the "Non-Promotional Material Guidelines," maintaining ethical standards, clarity, and a focus on non-promotional, scientifically grounded communication.

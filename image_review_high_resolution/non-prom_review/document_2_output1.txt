@@ -1,0 +1,92 @@
+1. *Guideline Source:* EFPIA Chapter 3, Article 17, iii.  
+   *Source Sentence:* "Clinically proven efficacy and safety in paediatric patients."  
+   *Deviations:* The sentence should be more specific, balanced, and avoid promotional language. According to EFPIA Chapter 3, Article 17, iii, the material should not be promotional.  
+   *New Sentence:* "Evidence-based data indicate efficacy and safety in paediatric patients."  
+   *Reason:* This change adheres to the requirement of maintaining a fair and balanced presentation of information rather than using absolute promotional claims.
+
+2. *Guideline Source:* Global Legal & Compliance Pocket Guide, Article 1, i.  
+   *Source Sentence:* "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+   *Deviations:* The claim "significantly reduces" may come across as promotional. A more neutral presentation of the scientific information is needed.  
+   *New Sentence:* "CholeCap has been shown in studies to reduce total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."  
+   *Reason:* This rephrasing avoids promotional language and presents the data in a factual, balanced manner.
+
+3. *Guideline Source:* EFPIA Chapter 4, Article 21, iv.  
+   *Source Sentence:* "CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgery, and chest pain."  
+   *Deviations:* The language is promotional and suggests a direct causation which may not be fully supported by evidence.  
+   *New Sentence:* "Clinical studies suggest that CholeCap may help reduce the risk of heart attack, stroke, certain kinds of heart surgery, and chest pain."
+   *Reason:* This change ensures the language is balanced and does not imply guaranteed outcomes.
+
+4. *Guideline Source:* Disclaimer Texts for Non-promotional Material, Article 3, v.  
+   *Source Sentence:* Not explicitly provided.  
+   *Deviations:* The infographic and text should include a disclaimer regarding medical advice.  
+   *New Sentence:* "This information is intended for healthcare professionals and should not substitute for medical advice from your doctor."
+   *Reason:* Adding this disclaimer ensures compliance with the guideline to avoid medical advice substitution.
+
+5. *Guideline Source:* Communicate With Care Pocket Guide, Article 2, iii.  
+   *Source Sentence:* "Welcome to a brighter future for your patients."  
+   *Deviations:* The sentence is promotional and subjective. It lacks factual basis and evidence.  
+   *New Sentence:* "Our goal is to provide data that may support patient health improvements."  
+   *Reason:* This sentence now provides a factual statement about the intent of sharing information, avoiding promotional and subjective language.
+
+6. *Guideline Source:* EFPIA Chapter 3, Article 17, iv.  
+   *Source Sentence:* None provided.  
+   *Deviations:* The material needs to clarify if it includes company branding or product-specific information.  
+   *New Sentence:* "CholeCap is a product of [Company Name], and this material is intended for healthcare professionals."  
+   *Reason:* Ensuring clear branding and audience targeting information aligns with the non-promotional guidelines.
+
+Review Summary:
+The provided document appears to be promotional rather than strictly non-promotional educational material. Revisions were made to align with the EFPIA and other relevant guidelines, focusing on making the content more balanced, factual, and free of any overtly promotional language. Disclaimers were added to clarify the nature of the information and the intended audience. Care should be taken to review all claims to ensure they don't imply guaranteed outcomes without sufficient evidence.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+**Comment 1:**
+- The original source sentence: "Clinically proven efficacy and safety in paediatric patients."
+- The deviation from the guidelines originally provided by the expert reviewer: The sentence should avoid promotional language and be more specific and balanced.
+- The expert reviewer's original suggested change: "Evidence-based data indicate efficacy and safety in paediatric patients."
+- An explanation for the reason behind your new suggested change: The expert's revision improves the sentence by making it less promotional, but the change can still be made more specific and scientific.
+- Your new suggested sentence: "Clinical evidence supports the efficacy and safety profile of this medication in paediatric patients."
+- According to [Source - EFPIA Chapter 3], the information should not be promotional and must present a balanced and objective view.
+
+**Comment 2:**
+- The original source sentence: "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+- The deviation from the guidelines originally provided by the expert reviewer: The use of "significantly reduces" is promotional and should be more neutral.
+- The expert reviewer's original suggested change: "CholeCap has been shown in studies to reduce total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+- An explanation for the reason behind your new suggested change: The expert's suggested change is good but can still be improved by stating the source of the evidence.
+- Your new suggested sentence: "Studies indicate that CholeCap lowers total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls aged 10 to 17 years with heterozygous familial hypercholesterolaemia."
+- According to [Source - Global Legal & Compliance Pocket Guide], the information should present factual data in a balanced manner.
+
+**Comment 3:**
+- The original source sentence: "CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgery, and chest pain."
+- The deviation from the guidelines originally provided by the expert reviewer: The language is promotional and implies direct causation.
+- The expert reviewer's original suggested change: "Clinical studies suggest that CholeCap may help reduce the risk of heart attack, stroke, certain kinds of heart surgery, and chest pain."
+- An explanation for the reason behind your new suggested change: The expert's suggested change is good but can be improved by stating it more cautiously.
+- Your new suggested sentence: "Clinical studies indicate that CholeCap may be associated with a reduced risk of heart attack, stroke, certain types of heart surgery, and chest pain."
+- According to [Source - EFPIA Chapter 4], the content should be balanced and should not imply guaranteed outcomes.
+
+**Comment 4:**
+- The original source sentence: Not explicitly provided.
+- The deviation from the guidelines originally provided by the expert reviewer: The infographic and text lacked a necessary medical disclaimer.
+- The expert reviewer's original suggested change: "This information is intended for healthcare professionals and should not substitute for medical advice from your doctor."
+- An explanation for the reason behind your new suggested change: The expert's suggestion is good but can be made more comprehensive.
+- Your new suggested sentence: "This informational material is intended for healthcare professionals and should not replace medical advice provided by a qualified doctor."
+- According to [Source - Disclaimer Texts for Non-promotional Material], the text should include a disclaimer to prevent it from replacing medical advice.
+
+**Comment 5:**
+- The original source sentence: "Welcome to a brighter future for your patients."
+- The deviation from the guidelines originally provided by the expert reviewer: The sentence is promotional and subjective without factual basis.
+- The expert reviewer's original suggested change: "Our goal is to provide data that may support patient health improvements."
+- An explanation for the reason behind your new suggested change: The expert's suggestion is accurate but can be framed more specifically to indicate the informative intent.
+- Your new suggested sentence: "Our aim is to present data that may contribute to supporting patient health outcomes."
+- According to [Source - Communicate With Care Pocket Guide], the language should be clear, professional, and factual.
+
+**Comment 6:**
+- The original source sentence: None provided.
+- The deviation from the guidelines originally provided by the expert reviewer: The material needs to clarify branding and target audience.
+- The expert reviewer's original suggested change: "CholeCap is a product of [Company Name], and this material is intended for healthcare professionals."
+- An explanation for the reason behind your new suggested change: The expert's suggestion can be improved by explicitly mentioning educational intent.
+- Your new suggested sentence: "CholeCap is manufactured by [Company Name], and this material is intended for healthcare professionals to facilitate informed medical practice."
+- According to [Source - EFPIA Chapter 3], it is essential to ensure that content is clear regarding company and audience without being promotional.
+
+These modifications ensure alignment with the "Non-Promotional Material Guidelines" by making all sentences factual, balanced, and free from promotional tone.

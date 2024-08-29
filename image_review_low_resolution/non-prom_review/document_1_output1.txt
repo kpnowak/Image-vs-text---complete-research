@@ -1,0 +1,102 @@
+### Review of the Document
+
+#### 1. Title: "How to talk about treatment options"
+- **Guideline Source:** [Disclaimer Texts for Non-promotional Material]
+- **Source Sentence:** "How to talk about treatment options"
+- **Deviations Corrected:** According to Disclaimer Texts for Non-promotional Material (Article 3), all non-promotional materials should emphasize the educational intention.
+- **New Sentence:** "How to Discuss Treatment Options with Your Doctor: Educational Guide for Patients with Type 2 Diabetes"
+- **Reasoning:** The new title clarifies that the content is educational, aligning with non-promotional guidelines.
+
+#### 2. Initial Paragraph: "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **Guideline Source:** [Disclaimer Texts for Non-promotional Material]
+- **Source Sentence:** "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **Deviations Corrected:** Ensure clarity on the purpose of the content as non-promotional.
+- **New Sentence:** "Living with type 2 diabetes involves regular assessment and adjustment of treatment based on changing health needs."
+- **Reasoning:** The revised sentence maintains the informative tone required for non-promotional communication.
+
+#### 3. Middle Paragraph: "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+- **Guideline Source:** [Communicate With Care Pocket Guide]
+- **Source Sentence:** "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+- **Deviations Corrected:** The sentence must focus on contextual clarity, avoiding promoting any off-label use.
+- **New Sentence:** "Your doctor provides medical expertise, while you manage day-to-day living with type 2 diabetes."
+- **Reasoning:** This sentence now clearly defines the roles of both patient and doctor.
+
+#### 4. Section Heading: "Goals"
+- **Guideline Source:** [Disclaimer Texts for Non-promotional Material]
+- **Source Sentence:** "Goals"
+- **Deviations Corrected:** Ensuring informative and instructional content.
+- **New Sentence:** "Setting Personal Health Goals"
+- **Reasoning:** This change clarifies the focus on educational support without implying promotional intent.
+
+#### 5. Section Description: "Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
+- **Guideline Source:** [Communicate With Care Pocket Guide]
+- **Source Sentence:** "Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
+- **Deviations Corrected:** Adhering to professional and factual communication principles.
+- **New Sentence:** "Discuss your individual health objectives, such as improved blood sugar control or weight management, and consult with your doctor about the effectiveness of your current treatment plan."
+- **Reasoning:** The revised sentence maintains a clear, professional tone.
+
+#### 6. Final Paragraph: "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+- **Guideline Source:** [Disclaimer Texts for Non-promotional Material]
+- **Source Sentence:** "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+- **Deviations Corrected:** Emphasis on the educational and informational nature of the interaction.
+- **New Sentence:** "Keep in mind that this discussion with your doctor aims to identify the most suitable treatment plan based on your specific needs and circumstances."
+- **Reasoning:** This revision underscores the educational intent and maintains non-promotional compliance.
+
+#### 7. Footer Disclaimer: "The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor."
+- **Guideline Source:** [Disclaimer Texts for Non-promotional Material]
+- **Source Sentence:** "The information on this website is intended for elucation purpose only and should not be substituted for medical advice from your doctor."
+- **Deviations Corrected:** Ensuring correct spelling and compliance with guideline Article 3.
+- **New Sentence:** "The information on this website is intended for educational purposes only and should not replace medical advice from your doctor."
+- **Reasoning:** Corrects the spelling error and ensures clear communication, complying with the disclaimer requirement.
+
+### Summary
+The document has been meticulously reviewed in accordance with the "Non-Promotional Material Guidelines." Each modification ensures that educational content is clear, professional, and informative while avoiding any potential promotional intent. The new sentences align with the ethical principles and high standards stipulated in the guidelines.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review of the Document
+
+#### 1. Title: "How to talk about treatment options"
+- **Original Source Sentence:** "How to talk about treatment options"
+- **Deviation from Guidelines:** The original title lacks clarity regarding the educational intent.
+- **Expert Reviewer's Suggested Change:** "How to Discuss Treatment Options with Your Doctor: Educational Guide for Patients with Type 2 Diabetes"
+- **Reason for New Suggested Change:** While the expert reviewer’s sentence is good, it can be simplified for easier readability while still emphasizing the educational purpose.
+- **Your New Suggested Sentence:** "Educational Guide: Discussing Treatment Options with Your Doctor for Type 2 Diabetes"
+- **Deviations:** According to [Source - Disclaimer Texts for Non-promotional Material], Article 3, educational and non-promotional nature must be clear.
+
+#### 2. Initial Paragraph: "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **Original Source Sentence:** "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **Deviation from Guidelines:** The original sentence is promotional and lacks clear educational intent.
+- **Expert Reviewer's Suggested Change:** "Living with type 2 diabetes involves regular assessment and adjustment of treatment based on changing health needs."
+- **Reason for New Suggested Change:** Ensures clarity on the non-promotional nature without dramatic change in tone.
+- **Your New Suggested Sentence:** "Managing type 2 diabetes often requires regular reassessment and adjustment of treatment based on evolving health needs."
+- **Deviations:** According to [Source - Disclaimer Texts for Non-promotional Material], Article 3, educational intention must be emphasized and original must avoid promotion.
+
+#### 3. Middle Paragraph: "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+- **Original Source Sentence:** "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+- **Deviation from Guidelines:** The original sentence may imply a promotional tone by dividing roles without education.
+- **Expert Reviewer's Suggested Change:** "Your doctor provides medical expertise, while you manage day-to-day living with type 2 diabetes."
+- **Reason for New Suggested Change:** Provides clarity and maintains informational tone without implying roles.
+- **Your New Suggested Sentence:** "While your doctor offers medical expertise, you manage the daily experience of living with type 2 diabetes."
+- **Deviations:** According to [Source - Communicate With Care Pocket Guide], maintaining a clear and professional tone is essential.
+
+#### 5. Section Description: "Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
+- **Original Source Sentence:** "Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
+- **Deviation from Guidelines:** Original sentence might indirectly induce recommendations of treatment adjustments, possibly promotional.
+- **Expert Reviewer's Suggested Change:** "Discuss your individual health objectives, such as improved blood sugar control or weight management, and consult with your doctor about the effectiveness of your current treatment plan."
+- **Reason for New Suggested Change:** Simplifies language while still emphasizing a professional, non-promotional tone
+- **Your New Suggested Sentence:** "Discuss your health goals, such as better blood sugar control or weight management, and ask your doctor about the effectiveness of your current treatment."
+- **Deviations:** According to [Source - Disclaimer Text for Non-promotional Material], Article 3, emphasizing non-promotional and educational intent is crucial.
+
+#### 6. Final Paragraph: "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+- **Original Source Sentence:** "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+- **Deviation from Guidelines:** The original sentence may seem promotional by implying optimizing treatment directly.
+- **Expert Reviewer's Suggested Change:** "Keep in mind that this discussion with your doctor aims to identify the most suitable treatment plan based on your specific needs and circumstances."
+- **Reason for New Suggested Change:** It should highlight collaborative and informational nature avoiding any perceived promotional intent.
+- **Your New Suggested Sentence:** "Keep in mind, this discussion aims to collaborate with your doctor in identifying the most appropriate treatment based on your health needs."
+- **Deviations:** According to [Source - Disclaimer Text for Non-promotional Material], Article 3, focusing on the informative nature of interaction while avoiding any promotional intent is imperative.
+
+### Summary
+The above changes ensure clarity, maintain a professional tone, and clearly define the educational intent, avoiding any promotional implications. Each modification aligns with the ethical principles and high standards stipulated in the "Non-Promotional Material Guidelines".

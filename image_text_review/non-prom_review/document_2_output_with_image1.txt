@@ -1,0 +1,141 @@
+Combining both reviews to create the best possible version that adheres strictly to non-promotional guidelines:
+
+---
+
+### Review of Non-Promotional Materials Image for CholeCap
+
+#### Compliance with Non-Promotional Material Guidelines
+
+1. **Original Source Sentence:**
+   "The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+
+   **Deviation from guidelines:**
+   - Emphasizes the uniqueness of the product, potentially misleading and promotional.
+   - [EFPIA Chapter 3: Article 17] and [Communicate With Care Pocket Guide: Article 2.ii] require information to be clear, balanced, and not inducive.
+
+   **New Suggested Sentence:**
+   "CholeCap is among the statins approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+
+   **Explanation:**
+   This change removes the promotional wording and ensures clarity without implying CholeCap's exclusivity, thus adhering to the guidelines.
+
+2. **Original Source Sentence:**
+   "Clinically proven efficacy and safety in paediatric patients."
+
+   **Deviation from guidelines:**
+   - Lacks context and specificity.
+   - [EFPIA Chapter 3: Article 18] and [Communicate With Care Pocket Guide: Article 2] require clarity and fact-based statements.
+
+   **New Suggested Sentence:**
+   "Clinical studies have demonstrated the efficacy and safety of CholeCap in paediatric patients with familial hypercholesterolaemia.²"
+
+   **Explanation:**
+   This provides a specific patient group, maintains a professional tone, and includes context, ensuring compliance with scientific communication standards.
+
+3. **Original Source Sentence:**
+   "Dolor sit amet."
+
+   **Deviation from guidelines:**
+   - Placeholder text, inappropriate for diagnostic or medical materials.
+   - [Disclaimer Texts for Non-promotional Material: Article 3] mandates relevant disclaimers.
+
+   **New Suggested Sentence:**
+   "[Disclaimer: The image shown is a model and not a real patient. The prescription example shown is not based on a real patient.]"
+
+   **Explanation:**
+   Adding necessary disclaimers ensures clarity, aligns with guidelines, and enhances the professionalism of the material.
+
+4. **Original Source Sentence:**
+   "Reduction in LDL-C."
+
+   **Deviation from guidelines:**
+   - Lacks context and full explanation.
+   - [EFPIA Chapter 3: Article 18] and [Communicate With Care Pocket Guide], providing the full context is required.
+
+   **New Suggested Sentence:**
+   "Studies show that CholeCap helps reduce LDL-C levels in paediatric patients diagnosed with familial hypercholesterolaemia.²"
+
+   **Explanation:**
+   This revision includes the specific patient group and aligns with the requirement of providing full context.
+
+5. **Original Source Sentence:**
+   "49% Reduction in LDL-C at week 24 compared to baseline."
+
+   **Deviation from guidelines:**
+   - Needs evidence-based and balanced context.
+   - [Global Legal & Compliance Pocket Guide], requires balanced and objective presentation.
+
+   **New Suggested Sentence:**
+   "Research data shows a 49% reduction in LDL-C levels at week 24 compared to baseline, indicating significant management of hypercholesterolaemia."
+
+   **Explanation:**
+   This sentence maintains data integrity while providing contextual meaning, avoiding promotional tones.
+
+6. **Original Source Sentence:**
+   "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+
+   **Deviation from guidelines:**
+   - Can be perceived as promotional.
+   - [EFPIA Chapter 3: Article 17] material should be directly beneficial to patient care and non-promotional.
+
+   **New Suggested Sentence:**
+   "CholeCap has been shown to reduce elevated total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls aged 10 to 17 years with heterozygous familial hypercholesterolaemia.¹"
+
+   **Explanation:**
+   This avoids promotional verbiage and ensures an evidence-based factual presentation.
+
+7. **Original Source Sentence:**
+   "Welcome to a brighter future for your patients."
+
+   **Deviation from guidelines:**
+   - Viewed as promotional.
+   - [EFPIA Chapter 4: Article 21], should ensure interactions are transparent and not promotional.
+
+   **New Suggested Sentence:**
+   "Consult current guidelines for managing patients with hypercholesterolaemia to ensure best practices."
+
+   **Explanation:**
+   Providing actionable information without promotional language ensures compliance with transparency and non-promotional communication.
+
+8. **Original Source Sentence:**
+   "If you take CHOLECAP* (veevasstatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness. This could be a sign of rare but serious muscle side effects. Tell your doctor about all your medical conditions and all medications you take. This may help avoid serious drug interactions. Your doctor should do blood tests to check your liver function before starting CHOLECAP and during your treatment if you have symptoms of liver problems. Tell your doctor if you have diabetes. Elevated blood sugar levels have been reported with statins, including CHOLECAP."
+
+   **Deviation from guidelines:**
+   - Needs to offer detailed and clear guidance.
+   - [EFPIA Chapter 3: Article 17.iv], requires disclaimers and clear language.
+
+   **New Suggested Sentence:**
+   "If you take CHOLECAP* (veevasstatin calcium) tablets, notify your doctor if you experience new muscle pain or weakness, which may signal rare but serious muscle side effects. Discuss your entire medical history and current medications to avoid serious drug interactions. Liver function tests should be conducted by your doctor before you start CHOLECAP and during treatment if liver problems arise. Additionally, if you have diabetes, report this to your doctor as elevated blood sugar levels have been observed with statin use, including CHOLECAP."
+
+   **Explanation:**
+   Improved structure adheres to guidelines for clarity, completeness, and appropriate disclaimers.
+
+9. **Original Source Sentence:**
+   "Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events."
+
+   **Deviation from guidelines:**
+   - Requires clear and comprehensive side effect details.
+   - [EFPIA Chapter 3: Article 17.iii], ensures balanced presentation and recommendation for professional advice.
+
+   **New Suggested Sentence:**
+   "Common side effects of CHOLECAP include diarrhea, upset stomach, muscle and joint pain, and changes in certain blood tests. Patients should seek medical advice from their doctors about any adverse events."
+
+   **Explanation:**
+   Ensuring accurate communication and encouraging consultation with healthcare providers.
+
+10. **Original Source Reference:**
+    "Calhoun D, Trimarc T, Meek T, Locasto D. IASPPGuidelines, FullReport, 2. November 2011: 36(11):32-48. Available from: CINAHL Plus with Full Text, Ipswich, MA. Accessed February 2, 2012. 2. Pooja Bat et al. Role of CholeCap (veevasstatin) in Dyslipidemia: A Clinical Study. Cardiology. 2017;3(13):348-356."
+
+    **Deviation from guidelines:**
+    - Ensure accurate and traceable references.
+    - [EFPIA Chapter 3: Article 18], requires clear and accurate source references.
+
+    **New Suggested Sentence:**
+    "References:
+    - Calhoun D, Trimarc T, Meek T, Locasto D. IASPPGuidelines, FullReport, 2. November 2011: 36(11):32-48. Available from: CINAHL Plus with Full Text, Ipswich, MA. Accessed February 2, 2012.
+    - Pooja Bat et al. Role of CholeCap (veevasstatin) in Dyslipidemia: A Clinical Study. Cardiology. 2017;3(13):348-356."
+
+    **Explanation:**
+    Properly formatted references ensure compliance with providing necessary detail and encourages verifiable information.
+
+By following these steps, this review ensures the document adheres to non-promotional guidelines, maintaining integrity, clarity, and factual accuracy throughout the material.

@@ -1,0 +1,136 @@
+### Combined Review of Non-Promotional Materials Image for CholeCap
+
+#### Compliance with Non-Promotional Material Guidelines
+
+1. **Original Source Sentence:**
+   "The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia¹"
+
+   **Deviation Analysis:**
+   - Emphasizes the product's uniqueness, which can be seen as promotional.
+   - According to EFPIA Chapter 3: Article 17.i, educational materials must not serve as an inducement to recommend or prescribe a medicinal product.
+
+   **New Suggested Sentence:**
+   "CholeCap is among the statins used in treating hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+
+   **Rationale:**
+   - This sentence removes any implication of exclusivity or being the first, aligning with guidelines ensuring clarity and accuracy without promotional undertones.
+
+2. **Original Source Sentence:**
+   "Clinically proven efficacy and safety in paediatric patients²"
+
+   **Deviation Analysis:**
+   - Lacks context and detailed data to support the claim.
+   - According to Communicate With Care Pocket Guide: Article 2.iii, statements should stick to facts and avoid exaggerations.
+
+   **New Suggested Sentence:**
+   "Clinical studies have demonstrated efficacy and safety in managing hypercholesterolaemia in paediatric patients, with detailed results available in published studies."
+
+   **Rationale:**
+   - This sentence adds specificity and context, ensuring it aligns with factual and clear communication standards.
+
+3. **Original Source Sentence:**
+   "Dolor sit amet."
+
+   **Deviation Analysis:**
+   - Placeholder text is non-content and lacks required disclaimers or context.
+   - According to Disclaimer Texts for Non-promotional Material: Article 3, including appropriate disclaimers is necessary.
+
+   **New Suggested Sentence:**
+   "[Disclaimer: The image shown is a model and not a real patient. The prescription example shown is not based on a real patient.]"
+
+   **Rationale:**
+   - Adding relevant disclaimers provides clarity and aligns with the required guidelines for non-promotional materials.
+
+4. **Original Source Sentence:**
+   "Reduction in LDL-C²."
+
+   **Deviation Analysis:**
+   - Lacks context and detailed information, making it less informative.
+   - According to EFPIA Chapter 3: Article 16, content should be fair, balanced, and geared towards evidence-based science.
+
+   **New Suggested Sentence:**
+   "Study results demonstrate a significant reduction in LDL-C levels over time with CholeCap treatment.²"
+
+   **Rationale:**
+   - Including "significant" adds clarity and detail, ensuring full context and adherence to factual accuracy requirements.
+
+5. **Original Source Sentence:**
+   "49% Reduction in LDL-C at week 24 compared to baseline."
+
+   **Deviation Analysis:**
+   - Needs clear evidence-based context to avoid the risk of off-label promotion.
+   - According to Global Legal & Compliance Pocket Guide: Appropriate product communication, off-label information dissemination must be balanced and objective.
+
+   **New Suggested Sentence:**
+   "Research data shows a 49% reduction in LDL-C levels at week 24 compared to baseline, indicating significant management of hypercholesterolaemia."
+
+   **Rationale:**
+   - This phrasing ensures clarity and context, maintaining a balanced presentation of data while avoiding promotional implications.
+
+6. **Original Source Sentence:**
+   "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.¹"
+
+   **Deviation Analysis:**
+   - Strong claims about benefits can be perceived as promotional.
+   - According to EFPIA Chapter 3: Article 17, educational materials must not promote products and should be beneficial to patient care.
+
+   **New Suggested Sentence:**
+   "CholeCap is used to manage elevated cholesterol levels in paediatric patients with familial hypercholesterolaemia, with effects observed on total cholesterol, LDL-C, and apo B levels.¹"
+
+   **Rationale:**
+   - This change maintains an educational, informative tone without making strong, promotional claims.
+
+7. **Original Source Sentence:**
+   "CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain. Welcome to a brighter future for your patients."
+
+   **Deviation Analysis:**
+   - Over-promotional language and strong claims about the benefits are not appropriate for non-promotional material.
+   - According to EFPIA Chapter 3: Article 18, statements should be clear and fact-based.
+
+   **New Suggested Sentence:**
+   "Clinical evidence indicates that CholeCap may lower the risk of heart attack, stroke, certain heart surgeries, and chest pain."
+
+   **Rationale:**
+   - This phrasing maintains neutrality, factual accuracy, and avoids promotional language.
+
+8. **Original Source Sentence:**
+   "CHOLECAP* (veevasstatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP. It is not for those with liver problems. And it is not for women who are nursing, pregnant, or may become pregnant."
+
+   **Deviation Analysis:**
+   - The language should be clear and avoid redundancy to enhance understanding.
+   - According to EFPIA Chapter 4: Article 21, statements should effectively communicate contraindications without unnecessary repetition.
+
+   **New Suggested Sentence:**
+   "CHOLECAP* (veevasstatin calcium) tablets should not be used by individuals with a history of allergic reactions to CHOLECAP, liver problems, or by women who are or may become pregnant, or are nursing."
+
+   **Rationale:**
+   - Combining elements into a single, clear statement improves readability and understanding.
+
+9. **Original Source Sentence:**
+   "If you take CHOLECAP* (veevasstatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness. This could be a sign of rare but serious muscle side effects. Tell your doctor about all your medical conditions and all medications you take. This may help avoid serious drug interactions. Your doctor should do blood tests to check your liver function before starting CHOLECAP and during your treatment if you have symptoms of liver problems. Tell your doctor if you have diabetes. Elevated blood sugar levels have been reported with statins, including CHOLECAP."
+
+   **Deviation Analysis:**
+   - Ensure the inclusion of necessary disclaimers and clarity in language.
+   - According to Disclaimer Texts for Non-promotional Material; EFPIA Chapter 20, including relevant disclaimers is crucial.
+
+   **New Suggested Sentence:**
+   "If you take CHOLECAP* (veevasstatin calcium) tablets, notify your doctor if you experience new muscle pain or weakness, which may signal rare but serious muscle side effects. Discuss your entire medical history and current medications to avoid serious drug interactions. Liver function tests should be conducted by your doctor before you start CHOLECAP and during treatment if liver problems arise. Additionally, if you have diabetes, report this to your doctor as elevated blood sugar levels have been observed with statin use, including CHOLECAP."
+
+   **Rationale:**
+   - Improved structure adheres to guidelines for clarity, completeness, and appropriate disclaimers.
+
+10. **References:**
+    - Calhoun D, Trimarc T, Meek T, Locasto D. IASPPGuidelines, FullReport, 2. November 2011: 36(11):32-48. Available from: CINAHL Plus with Full Text, Ipswich, MA. Accessed February 2, 2012.
+    - Pooja Bat et al. Role of CholeCap (veevasstatin) in Dyslipidemia: A Clinical Study. Cardiology. 2017;3(13):348-356.
+
+   **Deviation Analysis:**
+   - Ensure reference accuracy and traceability
+   - According to EFPIA Chapter 3: Article 18, references should be clear, accurate, and verifiable.
+
+   **No suggested changes to sentences.** 
+   
+   **Rationale:**
+   - Compliant and clear reference formatting provides necessary details and encourages verifiable information.
+
+### Conclusion:
+By carefully combining insights from both reviews, the provided document is thoroughly aligned with Non-Promotional Material Guidelines, ensuring clarity, balance, and factual representation. Suitable disclaimers and references are included, effectively avoiding promotional content while providing relevant, factual information.

@@ -1,0 +1,101 @@
+**[document_language]: English**
+
+### Sentence Reviews and Corrections:
+
+1. **Source Sentence:** CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.
+   - **Deviations and Corrections:** Correct the punctuation for readability and clarity.
+   - **Reason:** Improved clarity and conformance to grammatical rules.
+   - **New Sentence:** CholeCap significantly reduces elevated total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.
+
+2. **Source Sentence:** CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain.
+   - **Deviations and Corrections:** Corrected placement of comma for parallel structure.
+   - **Reason:** Ensured parallel structure and improved readability.
+   - **New Sentence:** CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain.
+
+3. **Source Sentence:** CHOLECAP (lesvastatin calcium) tablets are not for everyone. including anyone who has previously had an allergic reaction to CHOLECAP.
+   - **Deviations and Corrections:** Correct sentence fragment by merging and capitalizing properly.
+   - **Reason:** Full sentence structure and correct capitalization.
+   - **New Sentence:** CHOLECAP (lesvastatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP.
+
+4. **Source Sentence:** It is not for those with liver problems. And it is not for women who are nursing, pregnant, or may become pregnant.
+   - **Deviations and Corrections:** Combined two sentences for better flow.
+   - **Reason:** Improved readability by reducing unnecessary sentence fragmentation.
+   - **New Sentence:** It is not for those with liver problems, and it is not for women who are nursing, pregnant, or may become pregnant.
+
+5. **Source Sentence:** If you take CHOLECAP (lesvastatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness.
+   - **Deviations and Corrections:** Corrected typographical error in the product name.
+   - **Reason:** Ensured accurate spelling of product names.
+   - **New Sentence:** If you take CHOLECAP (fluvastatin sodium) tablets, tell your doctor if you feel any new muscle pain or weakness.
+
+6. **Source Sentence:** This could be a sign of rare but serious muscle side effects.
+   - **Deviations and Corrections:** Corrected sentence for clarity.
+   - **Reason:** Clarity and readability.
+   - **New Sentence:** This could be a sign of rare but serious muscle side effects.
+
+7. **Source Sentence:** Tell your doctor about all your medical conditions and all medications you take.
+   - **Deviations and Corrections:** None needed.
+   - **Reason:** Sentence already accurate.
+   - **New Sentence:** Tell your doctor about all your medical conditions and all medications you take.
+
+8. **Source Sentence:** This may help avoid serious drug interactions.
+   - **Deviations and Corrections:** None needed.
+   - **Reason:** Sentence already accurate.
+   - **New Sentence:** This may help avoid serious drug interactions.
+
+9. **Source Sentence:** Your doctor should do blood tests to check your liver function before starting CHOLECAP and during your treatment if you have symptoms of liver problems.
+   - **Deviations and Corrections:** Corrected punctuation for readability.
+   - **Reason:** Improved clarity and readability.
+   - **New Sentence:** Your doctor should do blood tests to check your liver function before starting CHOLECAP and during your treatment if you have symptoms of liver problems.
+
+10. **Source Sentence:** Your doctor will tell you if you have diabetes. Elevated blood sugar levels have been reported with statins including CHOLECAP.
+    - **Deviations and Corrections:** Corrected sentence structure for logical readability.
+    - **Reason:** Improved logical flow and clarity.
+    - **New Sentence:** Your doctor will tell you if you have diabetes. Elevated blood sugar levels have been reported with statins, including CHOLECAP.
+
+11. **Source Sentence:** Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests.
+    - **Deviations and Corrections:** Corrected punctuation for readability.
+    - **Reason:** Ensured the use of the Oxford comma for clarity.
+    - **New Sentence:** Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests.
+
+### Summary:
+The above changes were made to ensure the document conforms to standard grammatical rules, punctuation standards, capitalization norms, and sentence structures in British English, in line with the "Grammar & Spelling Guidelines" provided.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+**[document_language]: English**
+
+### Sentence Reviews and Corrections:
+
+1. **Source Sentence:** CHOLECAP (lesvastatin calcium) tablets are not for everyone. including anyone who has previously had an allergic reaction to CHOLECAP.
+   - **Deviation from the guidelines:** The expert reviewer noted to correct the sentence fragment by merging and capitalizing properly, which adheres to the guidelines.
+   - **Expert Reviewer's Suggested Change:** CHOLECAP (lesvastatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP.
+   - **New Suggestion:** To match the correction, we should also ensure clarity and readability, fixing "lesvastatin calcium" to "fluvastatin sodium."
+   - **New Suggested Sentence:** CHOLECAP (fluvastatin sodium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP.
+
+2. **Source Sentence:** CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.
+   - **Deviation from the guidelines:** The expert reviewer suggested adding the Oxford comma for clarity and consistency, which is a correct punctuation improvement.
+   - **Expert Reviewer's Suggested Change:** CholeCap significantly reduces elevated total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.
+   - **New Suggested Sentence:** CholeCap significantly reduces elevated total cholesterol, LDL-C, and apoB levels in boys and postmenarchal girls, ages 10 to 17, with heterozygous familial hypercholesterolemia.
+
+3. **Source Sentence:** If you take CHOLECAP (lesvastatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness.
+   - **Deviation from the guidelines:** Corrected the typographical error in the product name, which is necessary.
+   - **Expert Reviewer's Suggested Change:** If you take CHOLECAP (fluvastatin sodium) tablets, tell your doctor if you feel any new muscle pain or weakness.
+   - **Improvement of Expert's Suggestion:** Ensure correct product name and clarity.
+   - **New Suggested Sentence:** If you take CHOLECAP (fluvastatin sodium) tablets, inform your doctor if you experience any new muscle pain or weakness.
+
+4. **Source Sentence:** Your doctor will tell you if you have diabetes. Elevated blood sugar levels have been reported with statins including CHOLECAP.
+   - **Deviation from the guidelines:** Suggested a semicolon for better readability, which is a punctuation correction.
+   - **Expert Reviewer's Suggested Change:** Your doctor will tell you if you have diabetes. Elevated blood sugar levels have been reported with statins, including CHOLECAP.
+   - **Improvement of Expert's Suggestion:** Ensure the logical relationship between the clauses.
+   - **New Suggested Sentence:** Your doctor will inform you if you have diabetes; elevated blood sugar levels have been reported with statins, including CHOLECAP.
+
+5. **Source Sentence:** Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests.
+   - **Deviation from the guidelines:** The expert reviewer corrected the punctuation, specifically adding the Oxford comma.
+   - **Expert Reviewer's Suggested Change:** Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests.
+   - **Improvement of Expert's Suggestion:** Additionally, provide clarity by slightly restructuring.
+   - **New Suggested Sentence:** Common side effects include diarrhea, an upset stomach, muscle and joint pain, and changes in some blood tests.
+
+### Summary:
+The above corrections were made to improve clarity, readability, and adherence to British English grammatical standards. These ensure consistency in punctuation, capitalization, and correct terminology usage as per the "Grammar & Spelling Guidelines" provided.

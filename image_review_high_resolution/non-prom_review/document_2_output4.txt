@@ -1,0 +1,91 @@
+Based on the "Non-Promotional Material Guidelines" provided, here is the revised version of the document with corrections:
+
+1. **Guideline Source:** Informational or Educational Materials and Items of Medical Utility (Article 17 - ii)
+   **Source Sentence:** "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+   **Deviations Corrected:** "According to Article 17 - ii of EFPIA Chapter 3, the information must not constitute a circumvention of the prohibition on gifts.
+   **New Sentence:** "CholeCap may contribute to reducing elevated total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years old, with heterozygous familial hypercholesterolemia."
+   **Reason:** This revision avoids direct statements of superiority or efficacy, making it more educational and less promotional.
+
+2. **Guideline Source:** Global Legal & Compliance Pocket Guide (Article 1 - ii)
+   **Source Sentence:** "The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+   **Deviations Corrected:** "According to Article 1 - ii of the Global Legal & Compliance Pocket Guide, dissemination of factual information about unapproved products or new clinical data must avoid promotional intent."
+   **New Sentence:** "CholeCap is approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia, noting its novel approval status."
+   **Reason:** This revision maintains the factual information while avoiding promotional language.
+
+3. **Guideline Source:** Disclaimer Texts for Non-promotional Material (Article 3 - i, ii, iii)
+   **Source Sentence:** "Clinically proven efficacy and safety in paediatric patients."
+   **Deviations Corrected:** "According to Article 3 - i, ii, iii of Disclaimer Texts for Non-promotional Material, patient-related information should include disclaimers."
+   **New Sentence:** "Disclaimer: The information provided is based on scientific studies and is intended for healthcare professionals. The image shown is a model and not a real patient."
+   **Reason:** This addition ensures compliance by providing the necessary disclaimers.
+
+4. **Guideline Source:** Communicate With Care Pocket Guide (Article 2 - i, ii, iii)
+   **Source Sentence:** "Welcome to a brighter future for your patients."
+   **Deviations Corrected:** "According to Article 2 - i, ii, iii of the Communicate With Care Pocket Guide, communication should be clear, professional, and fact-based."
+   **New Sentence:** "These patient outcomes are based on clinical trials and scientific evidence."
+   **Reason:** This revision removes speculative language and aligns with evidence-based communication.
+
+5. **Guideline Source:** Non-Interventional Studies (Article 18 - i)
+   **Source Sentence:** "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels."
+   **Deviations Corrected:** "According to Article 18 - i of EFPIA Chapter 3, non-promotional material should avoid statements that can be interpreted as advertising."
+   **New Sentence:** "Clinical studies indicate that CholeCap can reduce total cholesterol, LDL-C, and apo B levels."
+   **Reason:** This retains the information while ensuring it does not appear promotional.
+
+6. **Guideline Source:** Disclaimer Texts for Non-promotional Material (Article 3 - vii)
+   **Source Sentence:** "Patients should always ask their doctors for medical advice about adverse events."
+   **Deviations Corrected:** "According to Article 3 - vii of Disclaimer Texts for Non-promotional Material, specific disclaimers about seeking medical advice should be included."
+   **New Sentence:** "Please consult your healthcare provider for medical advice about adverse events or any concerns regarding CholeCap."
+   **Reason:** This ensures the disclaimer directs patients appropriately, in compliance with guidelines.
+
+7. **Guideline Source:** Non-Interventional Studies (Article 18 - ii)
+   **Source Sentence:** "49% Reduction in LDL-C at week 24 compared to baseline."
+   **Deviations Corrected:** "According to Article 18 - ii of EFPIA Chapter 3, non-interventional study statistics should be clear and scientifically backed."
+   **New Sentence:** "Study data shows a 49% reduction in LDL-C levels at week 24 compared to baseline."
+   **Reason:** This revision ensures that the claim is presented in a scientifically accurate manner, aligning with non-promotional guidelines.
+
+Each correction improves the compliance of the document with the "Non-Promotional Material Guidelines," ensuring factual accuracy, clear disclaimers, and adherence to ethical standards.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+1. **Original Source Sentence:** "The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+
+   **Deviation from Guidelines:** According to the [Source - Global Legal & Compliance Pocket Guide Article 1 - ii], dissemination of factual information about unapproved products or new clinical data must avoid promotional intent. Phrasing the product as "the first and only" tends to introduce a promotional perspective.
+
+   **Expert Reviewer's Original Suggested Change:** "CholeCap is approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia, noting its novel approval status."
+
+   **Reason for New Suggested Change:** While the expert's suggestion is a vast improvement, indicating "novel approval status" still leans towards being promotional. Therefore, I suggest a more neutral and factual statement.
+
+   **New Suggested Sentence:** "CholeCap is approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+
+2. **Original Source Sentence:** "Clinically proven efficacy and safety in paediatric patients."
+
+   **Deviation from Guidelines:** According to [Source - Disclaimer Texts for Non-promotional Material Article 3 - i, ii, iii], patient-related information should include disclaimers to avoid implying aside from factual data that might hint indirectly at promotion without clarifying the source.
+
+   **Expert Reviewer's Original Suggested Change:** "Disclaimer: The information provided is based on scientific studies and is intended for healthcare professionals. The image shown is a model and not a real patient."
+
+   **Reason for New Suggested Change:** The expert's suggested disclaimer is good, but it can be further improved by ensuring clarity that the efficacy and safety have to be backed by specific studies and sources, enhancing transparency.
+
+   **New Suggested Sentence:** "Disclaimer: The information provided is based on clinical studies reported in scientific literature and is intended for healthcare professionals. The image shown is a model and not a real patient."
+
+3. **Original Source Sentence:** "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+
+   **Deviation from Guidelines:** According to [Source - EFPIA Chapter 3 Article 17 - ii], the information should maintain objectivity and not pitch superiority overtly that may indirectly reflect promotional intent.
+
+   **Expert Reviewer's Original Suggested Change:** "CholeCap may contribute to reducing elevated total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years old, with heterozygous familial hypercholesterolemia."
+
+   **Reason for New Suggested Change:** The expert's change is effective but lacks specificity about studies backing the claim. Adding context about the evidence can make the statement more educational.
+
+   **New Suggested Sentence:** "Clinical studies suggest that CholeCap may help reduce elevated total cholesterol, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years old, with heterozygous familial hypercholesterolemia."
+
+4. **Original Source Sentence:** "Welcome to a brighter future for your patients."
+
+   **Deviation from Guidelines:** According to [Source - Communicate With Care Pocket Guide Article 2 - i, ii, iii], communication should strictly avoid speculative language and maintain a fact-based, professional tone.
+
+   **Expert Reviewer's Original Suggested Change:** "These patient outcomes are based on clinical trials and scientific evidence."
+
+   **Reason for New Suggested Change:** The expert's suggestion refrains from speculative language, which is good, but it can be enhanced by explicitly stating the source of the evidence to emphasize the factual base.
+
+   **New Suggested Sentence:** "The outcomes observed in patients are based on data from clinical trials and supported by scientific research."
+
+These new suggestions align closely with the guidelines while ensuring the communication remains educational without veering into promotional territory.

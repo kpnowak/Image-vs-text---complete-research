@@ -1,0 +1,77 @@
+The prominent language of the document is English. I will now proceed to review the English content based on the "Grammar & Spelling Guidelines" provided.
+
+1. Source sentence: "The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+   - Deviation correction: No error identified. Sentence is grammatically correct.
+   - Reason: The sentence is well-structured and clear.
+   - New sentence: (No change)
+
+2. Source sentence: "Clinically proven efficacy and safety in paediatric patients."
+   - Deviation correction: No error identified. Sentence is grammatically correct.
+   - Reason: The sentence is clear and adheres to grammar rules.
+   - New sentence: (No change)
+
+3. Source sentence: "Reduction in LDL-C."
+   - Deviation correction: No error identified. Sentence is grammatically correct.
+   - Reason: The sentence is a title and properly formulated.
+   - New sentence: (No change)
+
+4. Source sentence: "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+   - Deviation correction: No error identified. Sentence is grammatically correct.
+   - Reason: The sentence is clear and follows the standard medical formulation correctly.
+   - New sentence: (No change)
+
+5. Source sentence: "CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain."
+   - Deviation correction: No error identified. Sentence is grammatically correct.
+   - Reason: The sentence is clear and effectively conveys the information.
+   - New sentence: (No change)
+
+6. Source sentence: "CholeCap (lovastatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CholeCap. It is not for those with liver problems. And it is not for women who are nursing, pregnant, or may become pregnant."
+   - Deviation correction: The phrase “And it is not for women” should be revised for formal writing.
+   - Reason: Starting a sentence with "And" is generally avoided in formal writing.
+   - New sentence: "It is also not for women who are nursing, pregnant, or may become pregnant."
+
+7. Source sentence: "If you take CholeCap (lovastatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness. This could be a sign of rare but serious muscle side effects. Tell your doctor about all your medical conditions and all medications you take. This may help avoid serious drug interactions. Your doctor should do blood tests to check your liver function before starting CholeCap and during your treatment if you have symptoms of liver problems. Tell your doctor if you have diabetes. Elevated blood sugar levels have been reported with statins, including CholeCap."
+   - Deviation correction: No error identified. Sentence is grammatically correct.
+   - Reason: The instructions are clear and adhere to grammar rules.
+   - New sentence: (No change)
+
+8. Source sentence: "Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests."
+   - Deviation correction: No error identified. Sentence is grammatically correct.
+   - Reason: The sentence is clear and follows the standard medical formulation correctly.
+   - New sentence: (No change)
+
+9. Source sentence: "Patients should always ask their doctors for medical advice about adverse events."
+   - Deviation correction: No error identified. Sentence is grammatically correct.
+   - Reason: The sentence is clear and adheres to grammar rules.
+   - New sentence: (No change)
+
+All identified sentences were reviewed, and necessary corrections were made based on the provided guidelines. Any sentences with no deviations were left unchanged, as per instructions.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+**Language Identification:**
+The prominent language of the document is English.
+
+**Review of Expert Comments:**
+
+1. **Original Sentence:**
+   "CholeCap (lovastatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CholeCap. It is not for those with liver problems. And it is not for women who are nursing, pregnant, or may become pregnant."
+
+   **Deviation from Guidelines:**
+   The reviewer correctly identified that starting a sentence with "And" should be avoided in formal writing.
+
+   **Expert's Suggested Change:**
+   "It is also not for women who are nursing, pregnant, or may become pregnant."
+
+   **Explanation:**
+   My suggested adjustment adds a more formal and comprehensive phrasing.
+
+   **New Suggested Sentence:**
+   "Additionally, it is not suitable for women who are nursing, pregnant, or may become pregnant."
+
+**Summary:**
+The only revision needed was for the sentence that started with "And". The rest of the sentences were correctly reviewed and left unchanged.
+
+These modifications ensure the document adheres closely to formal writing standards while maintaining overall clarity and readability.

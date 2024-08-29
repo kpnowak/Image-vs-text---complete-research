@@ -1,0 +1,99 @@
+### Document Language Identification
+The prominent language of the document is English.
+
+### Grammar & Spelling Guidelines
+- Follow British English conventions.
+- Focus on correcting grammatical errors, punctuation, sentence structure, consistency, spelling, clarity, language-specific rules, and formality & tone.
+
+### Review and Corrections
+#### Original Sentence:
+"When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+#### Corrections
+- **Deviation**: No need for correction.
+- **Reason**: The sentence is grammatically correct.
+- **New Sentence**: (No changes necessary)
+
+#### Original Sentence:
+"It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now)—you’ll be able to communicate with your doctor more openly about treatment."
+#### Corrections
+- **Deviation**: None identified.
+- **Reason**: The sentence is clear, and no grammatical issues are observed.
+- **New Sentence**: (No changes necessary)
+
+#### Original Sentence:
+"Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+#### Corrections
+- **Deviation**: None identified.
+- **Reason**: The original sentence is correct.
+- **New Sentence**: (No changes necessary)
+
+#### Original Sentence:
+"Come to every appointment prepared to talk, ask questions and find solutions together."
+#### Corrections
+- **Deviation**: None.
+- **Reason**: This sentence is correct as is.
+- **New Sentence**: (No changes necessary)
+
+#### Original Sentence:
+"Here are some topics to consider if you want to speak up about your type 2 diabetes treatment:"
+#### Corrections
+- **Deviation**: None identified.
+- **Reason**: The sentence is clear.
+- **New Sentence**: (No changes necessary)
+
+(All subsequent sections under the headers such as "Goals," "Challenges," "Lifestyle," "Concerns and side effects," "Treatment expectations," "Follow-up," etc. are also grammatically correct and do not require any changes.)
+
+### Summary
+The document is well-written with no grammatical errors or deviations observed. Sentences are clear and concise, adhering to the British English conventions and guidelines provided. No corrections are necessary.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Document Language Identification
+The language of the document is English.
+
+### Grammar & Spelling Guidelines
+- Follow British English conventions.
+- Focus on correcting grammatical errors, punctuation, sentence structure, consistency, spelling, clarity, language-specific rules, and formality & tone.
+
+### Review and Corrections
+#### Original Sentence:
+"When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+#### Corrections
+- **Deviation**: No need for correction.
+- **Reason**: The sentence is grammatically correct.
+- **New Sentence**: (No changes necessary)
+
+#### Original Sentence:
+"It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now)—you’ll be able to communicate with your doctor more openly about treatment."
+#### Corrections
+- **Deviation**: None identified.
+- **Reason**: The sentence is clear, and no grammatical issues are observed.
+- **New Sentence**: (No changes necessary)
+
+#### Original Sentence:
+"Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+#### Corrections
+- **Deviation**: None identified.
+- **Reason**: The original sentence is correct.
+- **New Sentence**: (No changes necessary)
+
+#### Original Sentence:
+"Come to every appointment prepared to talk, ask questions and find solutions together."
+#### Corrections
+- **Deviation**: None.
+- **Reason**: This sentence is correct as is.
+- **New Sentence**: (No changes necessary)
+
+#### Original Sentence:
+"Here are some topics to consider if you want to speak up about your type 2 diabetes treatment:"
+#### Corrections
+- **Deviation**: None identified.
+- **Reason**: The sentence is clear.
+- **New Sentence**: (No changes necessary)
+
+(All subsequent sections under the headers such as "Goals," "Challenges," "Lifestyle," "Concerns and side effects," "Treatment expectations," "Follow-up," etc. are also grammatically correct and do not require any changes.)
+
+### Summary
+The document is well-written with no grammatical errors or deviations observed. Sentences are clear and concise, adhering to the British English conventions and guidelines provided. No corrections are necessary.

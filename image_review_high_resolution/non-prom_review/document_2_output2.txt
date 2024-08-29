@@ -1,0 +1,77 @@
+### 1. Replacement Comment #1
+**Guideline Source:** EFPIA Chapter 4, Article 21, ii
+**Source Sentence:** "The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+**Deviations:** According to EFPIA Chapter 4, Article 21, ii, the information must not promote a prescription-only medicine (POM) to the general public.
+**New Sentence:** "CholeCap has been studied for its role in managing familial hypercholesterolaemia in teenagers."
+**Reason for Replacement:** The original sentence appears promotional and could be construed as direct advertising to the general public. The new sentence highlights the study focus without promoting or prompting the prescription of CholeCap.
+
+### 2. Replacement Comment #2
+**Guideline Source:** EFPIA Chapter 3, Article 17, iv
+**Source Sentence:** "Clinically proven efficacy and safety in paediatric patients."
+**Deviations:** According to EFPIA Chapter 3, Article 17, iv, the material must not constitute a circumvention of the prohibition on gifts and marketing of products.
+**New Sentence:** "Efficacy and safety of CholeCap have been evaluated in clinical studies involving paediatric patients."
+**Reason for Replacement:** The new sentence presents the facts about the clinical evaluation and does not imply direct promotion, thereby following the guidelines.
+
+### 3. Replacement Comment #3
+**Guideline Source:** Disclaimer Texts for Non-promotional Material, Article 3, i
+**Source Sentence:** No specific sentence to be replaced; addition required.
+**Deviations:** The guideline suggests including a disclaimer stating "The image shown is a model and not a real patient."
+**New Sentence:** "The image shown is a model and not a real patient."
+**Reason for Addition:** The disclaimer is important to avoid any assumption that the image represents actual patients, ensuring clarity and adherence to the guidelines.
+
+### 4. Replacement Comment #4
+**Guideline Source:** Disclaimer Texts for Non-promotional Material, Article 3, v
+**Source Sentence:** "If you take CHOLECAP® (veevesatatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness..."
+**Deviations:** The guideline suggests including a disclaimer that reinforces the prescription is based on a patient example and should not substitute medical advice.
+**New Sentence:** "If you take CHOLECAP® (veevesatatin calcium) tablets, based on your prescription, tell your doctor if you feel any new muscle pain or weakness..."
+**Reason for Replacement:** Adding "based on your prescription" clarifies that this information does not replace medical advice, adhering to the guidelines.
+
+### 5. Replacement Comment #5
+**Guideline Source:** EFPIA Chapter 3, Article 17, iii
+**Source Sentence:** "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+**Deviations:** The material must not constitute an inducement to recommend or prescribe a medicinal product.
+**New Sentence:** "Studies demonstrate that CholeCap may reduce cholesterol levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+**Reason for Replacement:** The new sentence presents a factual conclusion of studies without implying direct promotion, ensuring compliance with the guidelines.
+
+### 6. Replacement Comment #6
+**Guideline Source:** Global Legal & Compliance Pocket Guide, Article 1, ii
+**Source Sentence:** "CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain."
+**Deviations:** Dissemination of off-label information is allowed without promotional intent and should be communicated in the right context.
+**New Sentence:** "Clinical studies have assessed the impact of CholeCap on reducing the risks associated with heart conditions."
+**Reason for Replacement:** This neutral presentation informs about clinical studies without leaning towards a promotional tone, adhering to compliance guidelines.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### 1. Replacement Comment #1
+- The original source sentence: "The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia."
+- The deviation from the guidelines originally provided by the expert reviewer: "According to EFPIA Chapter 4, Article 21, ii, the information must not promote a prescription-only medicine (POM) to the general public."
+- The expert reviewer's original suggested change: "CholeCap has been studied for its role in managing familial hypercholesterolaemia in teenagers."
+- An explanation for the reason behind your new suggested change: The new suggested sentence should focus on the purpose of the study without implying that the product is the first or only option to avoid an impression of promotion.
+- Your new suggested sentence: "CholeCap has been evaluated in clinical studies for its effect on familial hypercholesterolaemia in teenagers."
+- Deviations: "According to EFPIA Chapter 4, Article 21, ii, the information must not promote a prescription-only medicine (POM) to the general public."
+
+### 2. Replacement Comment #2
+- The original source sentence: "Clinically proven efficacy and safety in peadiatric patients."
+- The deviation from the guidelines originally provided by the expert reviewer: "According to EFPIA Chapter 3, Article 17, iv, the material must not constitute a circumvention of the prohibition on gifts and marketing of products."
+- The expert reviewer's original suggested change: "Efficacy and safety of CholeCap have been evaluated in clinical studies involving paediatric patients."
+- An explanation for the reason behind your new suggested change: The new suggested sentence should avoid implying "clinically proven" which may be perceived as promotional. It should present the fact that studies were conducted without an explicit promotional tone.
+- Your new suggested sentence: "Clinical studies have assessed the efficacy and safety of CholeCap involving paediatric patients."
+- Deviations: "According to EFPIA Chapter 3, Article 17, iv, the material must not constitute a circumvention of the prohibition on gifts and marketing of products."
+
+### 3. Replacement Comment #5
+- The original source sentence: "CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+- The deviation from the guidelines originally provided by the expert reviewer: "According to EFPIA Chapter 3, Article 17, iii, the material must not constitute an inducement to recommend or prescribe a medicinal product."
+- The expert reviewer's original suggested change: "Studies demonstrate that CholeCap may reduce cholesterol levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+- An explanation for the reason behind your new suggested change: The new suggested sentence should report clinical findings without making definitive and potentially promotional claims.
+- Your new suggested sentence: "Clinical findings suggest that CholeCap can help reduce cholesterol levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia."
+- Deviations: "According to EFPIA Chapter 3, Article 17, iii, the material must not constitute an inducement to recommend or prescribe a medicinal product."
+
+### 4. Replacement Comment #6
+- The original source sentence: "CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain."
+- The deviation from the guidelines originally provided by the expert reviewer: "Dissemination of off-label information is allowed without promotional intent and should be communicated in the right context."
+- The expert reviewer's original suggested change: "Clinical studies have assessed the impact of CholeCap on reducing the risks associated with heart conditions."
+- An explanation for the reason behind your new suggested change: The new suggested sentence should focus on the results of studies rather than making assertive promotional claims such as "clinically proven."
+- Your new suggested sentence: "Research studies have examined the role of CholeCap in managing risks associated with heart conditions."
+- Deviations: "According to Global Legal & Compliance Pocket Guide, Article 1, ii, dissemination of off-label information is allowed without promotional intent and should be communicated in the right context."

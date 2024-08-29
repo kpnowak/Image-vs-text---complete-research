@@ -1,0 +1,123 @@
+1. **Guideline Source:** EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility
+   **Source Sentence:** "BASE Product: A Revolution in Headache Management"
+   **Deviations:** According to EFPIA Chapter 3, Article 17, promotional content and product branding should not be included in non-promotional materials.
+   **Your New Sentence:** "Advancing Headache Management: Evidence-Based Approaches"
+   **Reason:** This revision removes promotional language and aligns with the guideline that informational or educational materials must be non-promotional and devoid of product branding unless essential for correct use.
+
+2. **Guideline Source:** Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional
+   **Source Sentence:** "Exceptional Efficacy in Reducing Headache Severity"
+   **Deviations:** Using words like "exceptional" can imply exaggerated claims, which is discouraged.
+   **Your New Sentence:** "Efficacy in Reducing Headache Severity"
+   **Reason:** This change avoids exaggerated claims, adhering to the guideline of maintaining a factual and professional tone.
+
+3. **Guideline Source:** EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility
+   **Source Sentence:** "Clinical studies have demonstrated that BASE Product reduces the severity of headaches by more than 30%."
+   **Deviations:** Specific product claims should be avoided in non-promotional materials.
+   **Your New Sentence:** "Clinical studies indicate that certain treatments can significantly reduce the severity of headaches."
+   **Reason:** This revision removes the specific mention of the product and maintains objectivity in presenting scientific information.
+
+4. **Guideline Source:** Disclaimer Texts for Non-promotional Material, Article 3 - General Disclaimers
+   **Source Sentence:** "[No sentence present covering model disclaimer]"
+   **Deviations:** The document does not have the required disclaimer indicating models are not real patients.
+   **Your New Sentence:** "The models shown are not real patients and their scenarios do not reflect actual experiences."
+   **Reason:** Including this disclaimer aligns the document with the guidelines for non-promotional material, ensuring that the portrayal complies with ethical standards.
+
+5. **Guideline Source:** EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility
+   **Source Sentence:** "BASE Product reduces the severity of headaches by more than 30%!"
+   **Deviations:** Promotional claims should be avoided, and statistical claims should be precise and verifiable.
+   **Your New Sentence:** "Certain treatments can reduce the severity of headaches by significant margins."
+   **Reason:** This change ensures that the statement does not appear promotional and maintains compliance with non-promotional content guidelines.
+
+6. **Guideline Source:** Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional
+   **Source Sentence:** "BASE Product has proven to be 43% more efficient."
+   **Deviations:** Using words like "proven" can imply certainty, which is discouraged in non-promotional contexts.
+   **Your New Sentence:** "Studies indicate a potential for greater efficiency in some treatments."
+   **Reason:** This revision avoids implying absolute certainty, maintaining a professional tone appropriate for non-promotional materials.
+
+7. **Guideline Source:** EFPIA Chapter 4, Article 21 - Interactions with POs
+   **Source Sentence:** "BASE Product's ease of use, combined with its impressive efficacy and safety profile, make it an ideal choice."
+   **Deviations:** Promotional and comparative claims should be avoided.
+   **Your New Sentence:** "Ease of use and comprehensive safety profiles are important considerations in treatment selection."
+   **Reason:** This change avoids promotional language and ensures that the content is balanced and objective.
+
+8. **Guideline Source:** Disclaimer Texts for Non-promotional Material, Article 1 - Internal Communication
+   **Source Sentence:** "[No sentence present covering internal communication disclaimer]"
+   **Deviations:** The document does not contain the internal communication disclaimer.
+   **Your New Sentence:** "This material is for preparatory use in NN only."
+   **Reason:** Including this disclaimer ensures that the material is clearly identified as internal and preparatory, complying with the guidelines for non-promotional materials.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+Here is the review and feedback for the expert reviewer's suggested changes based on the "Non-Promotional Material Guidelines":
+
+1. **Guideline Source:** EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility
+
+   **Original Source Sentence:** "BASE Product: A Revolution in Headache Management"
+   
+   **Deviation:** According to EFPIA Chapter 3, Article 17, promotional content and product branding should not be included in non-promotional materials.
+
+   **Expert Reviewer's Suggested Change:** "Advancing Headache Management: Evidence-Based Approaches"
+   
+   **Reasoning for New Suggested Change:** The original revised sentence by the expert reviewer still carries a slightly promotional tone implying significant advancements. It is essential to shift focus purely to educational content.
+   
+   **New Suggested Sentence:** "Innovative Approaches in Headache Management: A Review of Recent Evidence"
+   
+   **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response:** According to EFPIA Chapter 3, Article 17, non-promotional materials must not include product branding or suggest promotional content.
+
+2. **Guideline Source:** EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility
+
+   **Original Source Sentence:** "Clinical studies have demonstrated that BASE Product reduces the severity of headaches by more than 30%."
+   
+   **Deviation:** Specific product claims should be avoided in non-promotional materials.
+
+   **Expert Reviewer's Suggested Change:** "Clinical studies indicate that certain treatments can significantly reduce the severity of headaches."
+   
+   **Reasoning for New Suggested Change:** The proposed change by the expert reviewer is closer to the guideline, but the term "significantly" may still imply a promotional claim. Emphasis should be more neutral.
+   
+   **New Suggested Sentence:** "Clinical studies show that some treatments can reduce the severity of headaches by over 30%."
+   
+   **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response:** According to EFPIA Chapter 3, Article 17, informational or educational materials must not promote branded drugs or contain specific product claims.
+
+3. **Guideline Source:** EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility
+
+   **Original Source Sentence:** "BASE Product reduces the severity of headaches by more than 30%!"
+   
+   **Deviation:** Promotional claims should be avoided, and statistical claims should be precise and verifiable.
+
+   **Expert Reviewer's Suggested Change:** "Certain treatments can reduce the severity of headaches by significant margins."
+   
+   **Reasoning for New Suggested Change:** While the expert reviewer's new sentence removes the direct product claim, using "significant margins" may be too vague and could still be perceived as marketing language.
+   
+   **New Suggested Sentence:** "Certain treatments have been shown to reduce headache severity by over 30%."
+   
+   **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response:** Per EFPIA Chapter 3, Article 17, the material should avoid promotional content and be objective and evidence-based.
+
+4. **Guideline Source:** Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional
+
+   **Original Source Sentence:** "BASE Product has proven to be 43% more efficient."
+   
+   **Deviation:** Using words like "proven" can imply certainty, which is discouraged in non-promotional contexts.
+
+   **Expert Reviewer's Suggested Change:** "Studies indicate a potential for greater efficiency in some treatments."
+   
+   **Reasoning for New Suggested Change:** The expert reviewer's sentence is on track, but "greater efficiency" is still somewhat imprecise. A more careful wording can maintain objectivity.
+   
+   **New Suggested Sentence:** "Studies show that some treatments may improve efficiency by 43%."
+   
+   **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response:** According to Communicate With Care Pocket Guide, Article 2, maintaining a professional and factual tone is crucial. 
+
+5. **Guideline Source:** Disclaimer Texts for Non-promotional Material, Article 3 - General Disclaimers
+
+   **Original Source Sentence:** "[No sentence present covering model disclaimer]"
+   
+   **Deviation:** The document does not have the required disclaimer indicating models are not real patients.
+
+   **Expert Reviewer's Suggested Change:** "The models shown are not real patients and their scenarios do not reflect actual experiences."
+   
+   **Reasoning for New Suggested Change:** The reviewer’s suggested sentence is accurate, but it can be made more concise while retaining the necessary disclaimers.
+
+   **New Suggested Sentence:** "The depicted models are not real patients, and the scenarios shown do not represent actual experiences."
+   
+   **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response:** As per Disclaimer Texts for Non-promotional Material, Article 3, ensuring disclaimers are appropriately worded and clear is required.

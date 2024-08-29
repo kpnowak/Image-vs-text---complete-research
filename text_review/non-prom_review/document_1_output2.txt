@@ -1,99 +1,213 @@
-### Review of "DIABETES WHAT'S NEXT?"
+### Review and Corrections for "DIABETES WHAT'S NEXT?"
 
-#### Sentence 1:
+#### Section: How to talk about treatment options
 
-- **Guideline Source:** Disclaimer Texts for Non-promotional Material
-- **Source Sentence:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
-- **Deviations:** According to Disclaimer Texts for Non-promotional Material, all material provided must include certain disclaimers for clarity and legal compliance.
-- **New Sentence:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs. The information on this website is intended for education purposes only and should not be substituted for medical advice from your doctor."
-- **Reason:** This change incorporates necessary disclaimer information, ensuring that readers clearly understand the intent of the content.
+**Original Sentence:**
+"When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
 
-#### Sentence 2:
+**Deviation and Guideline Source:**
+According to Article 2 (Be Clear and Professional) from the Communicate With Care Pocket Guide, the information should be clear and avoid generalizations.
 
-- **Guideline Source:** EFPIA Chapter 3, Article 17.iii.
-- **Source Sentence:** "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
-- **Deviations:** According to EFPIA Chapter 3, Article 17.iii., materials must not constitute an inducement to recommend/specific medicinal products.
-- **New Sentence:** "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial, as this communication can help in personalizing your care plan effectively."
-- **Reason:** This change ensures that the material encourages general patient empowerment and communication without suggesting any specific treatment.
+**New Sentence:**
+"When living with type 2 diabetes, you may need to reassess and modify your treatment plan to meet your evolving health needs."
 
-#### Sentence 3:
+**Reason for Change:**
+This revision clarifies the sentence and avoids generalization, ensuring that the communication is clear and professional.
 
-- **Guideline Source:** EFPIA Chapter 3, Article 20.i.
-- **Source Sentence:** "You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
-- **Deviations:** According to EFPIA Chapter 3, Article 20.i., the information must be fair, balanced, and objective.
-- **New Sentence:** "You know your mind and body, and it’s important to advocate for your needs and preferences, ensuring your discussion with your doctor is well-informed and balanced."
-- **Reason:** This clarification promotes balanced discussions and informed decision-making without leading to biased outcomes.
+---
 
-#### Sentence 4:
+**Original Sentence:**
+"It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
 
-- **Guideline Source:** Communicate With Care Pocket Guide, Article 2.iii.
-- **Source Sentence:** "Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
-- **Deviations:** According to Communicate With Care Pocket Guide, Article 2.iii., the information should stick to facts and avoid exaggerations.
-- **New Sentence:** "Share your personal goals, such as achieving better blood sugar control or weight management, and discuss with your doctor if your current treatment meets these goals."
-- **Reason:** This change ensures the material sticks to factual statements and avoids speculation on the effectiveness of treatments.
+**Deviation and Guideline Source:**
+According to Article 2 (iii) (Stick to Facts from Be Clear and Professional) from the Communicate With Care Pocket Guide, the information should avoid subjective advice and stick to facts.
 
-#### Sentence 5:
+**New Sentence:**
+"It is beneficial for patients to discuss any treatment changes with their doctor to ensure their treatment plan remains effective."
 
-- **Guideline Source:** EFPIA Chapter 3, Article 17.i.a.
-- **Source Sentence:** "Discuss any difficulties you’ve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high."
-- **Deviations:** According to EFPIA Chapter 3, Article 17.i.a., the materials must be "inexpensive" and directly relevant to patient care.
-- **New Sentence:** "Discuss any difficulties you’ve experienced with your current treatment, including side effects, preferences such as pills or injections, its integration into your lifestyle, or concerns about cost."
-- **Reason:** This version ensures that the content remains relevant to patient care and does not lead to the promotion of any costly solutions.
+**Reason for Change:**
+This ensures the sentence sticks to facts and avoids speculative language, conforming to the guideline.
 
-#### Sentence 6:
+---
 
-- **Guideline Source:** EFPIA Chapter 3, Article 18.i.
-- **Source Sentence:** "This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommended to you."
-- **Deviations:** According to EFPIA Chapter 3, Article 18.i., non-interventional studies and related discussions must not be disguised as promotions.
-- **New Sentence:** "This includes discussing how your medication works, the implications of missing a dose, managing side effects, and addressing any concerns regarding lifestyle changes as advised by your healthcare provider."
-- **Reason:** This ensures that the information is educational and supportive without promoting specific treatments.
+**Original Sentence:**
+"Come to every appointment prepared to talk, ask questions and find solutions together."
 
-#### Sentence 7:
+**Deviation and Guideline Source:**
+According to Article 3 (Do Not Ignore Inappropriate Writing) from the Communicate With Care Pocket Guide, suggestive language should be addressed.
 
-- **Guideline Source:** EFPIA Chapter 3, Article 16.i.
-- **Source Sentence:** "By speaking up, asking questions, and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health."
-- **Deviations:** According to EFPIA Chapter 3, Article 16.i., education should allow for the expression of diverse, evidence-based science.
-- **New Sentence:** "By speaking up, asking questions, and being part of the decision-making process, you can collaborate with your healthcare provider to create a personalized plan that supports your journey towards better health."
-- **Reason:** Rephrasing this sentence ensures that it promotes a collaborative approach to healthcare and supports balanced scientific discussions.
+**New Sentence:**
+"Prepare questions and points for discussion before each appointment to collaboratively find solutions with your doctor."
 
-#### Sentence 8:
+**Reason for Change:**
+Provides a factual and neutral directive that maintains professionalism and clarity.
 
-- **Guideline Source:** Communicate With Care Pocket Guide, Article 1.ii.
-- **Source Sentence:** "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
-- **Deviations:** According to Communicate With Care Pocket Guide, Article 1.ii., sensitive content should be evaluated for its appropriateness.
-- **New Sentence:** "Remember, this conversation is about working together with your doctor to identify a treatment plan that best meets your needs."
-- **Reason:** This phrasing maintains clarity and ensures the content is appropriate, professional, and respectful of the patient's role in their health management.
+---
 
-This review ensures adherence to the Non-Promotional Material Guidelines by addressing the identified deviations and providing corrected sentences that comply with ethical and legal standards.
+**Original Sentence:**
+"Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
+
+**Deviation and Guideline Source:**
+According to Article 17 (Informational or Educational Materials) from EFPIA Chapter 3, ensure relevance to medical practice and patient care.
+
+**New Sentence:**
+"Discuss your personal health goals, such as improving blood sugar control or achieving weight management, and evaluate with your doctor the effectiveness of your current treatment."
+
+**Reason for Change:**
+Aligns the information with factual health discussions and keeps it directly relevant to medical practice and patient care.
+
+---
+
+**Original Sentence:**
+"Discuss any difficulties you’ve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high."
+
+**Deviation and Guideline Source:**
+According to Article 20 (Member Company Staff) from EFPIA Chapter 3, ensure adequate training and precise information about medicinal products.
+
+**New Sentence:**
+"Discuss any challenges with your current treatment, such as side effects, preference between oral medication or injection, lifestyle compatibility, and the cost of treatment options."
+
+**Reason for Change:**
+Ensures the communication is precise and clear, addressing the needed topics while adhering to guidelines.
+
+---
+
+**Original Sentence:**
+"For example, you could be travelling a lot for work and want to make sure your medication is easy to take, or you may need more support with your weight management goals despite already eating healthily and exercising to the best of your ability."
+
+**Deviation and Guideline Source:**
+According to Article 2 (ii) (Provide Context) from the Communicate With Care Pocket Guide, context should be provided to prevent misunderstandings.
+
+**New Sentence:**
+"For instance, if you travel frequently for work, you might need medication that is convenient to use during trips, or if weight management remains challenging despite a healthy diet and exercise, more support could be necessary."
+
+**Reason for Change:**
+Provides context while maintaining clarity and professionalism to prevent misunderstandings.
+
+---
+
+**Original Sentence:**
+"Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan is working."
+
+**Deviation and Guideline Source:**
+According to Article 2 (iii) (Stick to Facts) from the Communicate With Care Pocket Guide, avoid speculative language.
+
+**New Sentence:**
+"Knowing what to expect can assist in maintaining motivation and assessing the effectiveness of changes in the treatment plan."
+
+**Reason for Change:**
+Stick to factual statements, ensuring the information is objective and scientifically grounded.
+
+---
+
+**Original Sentence:**
+"Typically, type 2 diabetes patients should see their doctor every 3-6 months to check in and re-evaluate their treatments."
+
+**Deviation and Guideline Source:**
+According to Article 1 (Be Mindful, Consider Legal Implications) from the Communicate With Care Pocket Guide, ensure that written communications recognize their potential legal implications.
+
+**New Sentence:**
+"It is generally recommended that type 2 diabetes patients consult their doctor every 3-6 months to review and reassess their treatment plans."
+
+**Reason for Change:**
+This provides a clear, factual recommendation that is less prescriptive, acknowledging the need for individual medical advice.
+
+---
+
+**Original Sentence:**
+"The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor."
+
+**Deviation and Guideline Source:**
+According to Article 2 - General Disclaimers from Disclaimer Texts for Non-promotional Material, ensure a comprehensive disclaimer is maintained.
+
+**New Sentence:**
+"The information on this website is intended solely for educational purposes and should not replace medical advice from your doctor."
+ 
+**Reason for Change:**
+Retains the essential disclaimer while ensuring clarity and appropriateness in the educational context.
+
+These corrections ensure adherence to non-promotional guidelines, focusing on clarity, professionalism, and factual representation, while eliminating speculative or suggestive language per the guidelines provided.
 
 ----------------------------------------------------------------------------------------------
 ---------------------------------------- Chief Output ----------------------------------------
 ----------------------------------------------------------------------------------------------
 
-Sure, let's work through each of the expert reviewer's comments systematically.
+**Original Sentence:**
+"And discuss with your doctor if your current treatment could be more effective."
 
-#### Sentence 1:
+**Deviation and Guideline Source Originally Provided by Expert Reviewer:**
+According to Article 2 (Stick to Facts) from the Communicate With Care Pocket Guide, the information should avoid subjective advice and stick to facts.
 
-- **Original Source Sentence:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
-- **Deviation from Guidelines:** According to [Source - Disclaimer Texts for Non-promotional Material, Article 2.ii], material provided must include certain disclaimers for clarity and legal compliance.
-- **Expert Reviewer’s Original Suggested Change:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs. The information on this website is intended for education purposes only and should not be substituted for medical advice from your doctor."
-- **Explanation for New Suggested Change:** The reviewer's suggested change added a necessary disclaimer but should also include the images disclaimer based on the guidelines.
-- **My New Suggested Sentence:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs. This information is for educational purposes only and should not replace medical advice from your doctor. The image shown is a model and not a real patient."
+**Expert Reviewer's Suggested Change:**
+"Evaluate with your doctor the effectiveness of your current treatment."
 
-#### Sentence 3:
+**Reason for My New Suggested Change:**
+Upon review, the expert’s revision does not sufficiently expand on the specifics of what should be discussed with the doctor, specifically in relation to the patient's treatment. To adhere more closely to the guidelines while also giving a clear directive to the patient, it is important to specify what aspects of the current treatment should be evaluated. Hence, mentioning specific elements like side effects or lifestyle impact ensures the communication is factual and directly relevant to the patient's medical practice.
 
-- **Original Source Sentence:** "You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
-- **Deviation from Guidelines:** According to [Source - EFPIA Chapter 3, Article 20.i.], the information must be fair, balanced, and objective.
-- **Expert Reviewer’s Original Suggested Change:** "You know your mind and body, and it’s important to advocate for your needs and preferences, ensuring your discussion with your doctor is well-informed and balanced."
-- **Explanation for New Suggested Change:** The expert reviewer’s suggestion is mostly accurate but can be improved in clarity while maintaining balance and objectivity.
-- **My New Suggested Sentence:** "You know your mind and body best, so it’s essential to voice your needs and preferences to have a well-informed and balanced discussion with your doctor."
+**My New Suggested Sentence:**
+"Discuss with your doctor the overall effectiveness of your current treatment, including any side effects and how well it fits into your daily routine."
 
-#### Sentence 7:
+**Deviation:**
+According to Article 17 i (b) and (c) from Source - EFPIA Chapter 3, the material should ensure relevance to medical practice and patient care, providing clear and factual educational content.
 
-- **Original Source Sentence:** "By speaking up, asking questions, and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health."
-- **Deviation from Guidelines:** According to [Source - EFPIA Chapter 3, Article 16.i.], education should allow for the expression of diverse, evidence-based science.
-- **Expert Reviewer’s Original Suggested Change:** "By speaking up, asking questions, and being part of the decision-making process, you can collaborate with your healthcare provider to create a personalized plan that supports your journey towards better health."
-- **Explanation for New Suggested Change:** The expert reviewer’s suggestion aligns well but adding emphasis on evidence-based decisions enhances adherence to guidelines.
-- **My New Suggested Sentence:** "By speaking up, asking questions, and participating in the decision-making process, you and your healthcare provider can create a personalized plan grounded in evidence-based practices that support your journey towards better health."
+---
 
-By improving these sentences in accordance with the Non-Promotional Material Guidelines, we ensure accuracy, compliance with legal and ethical standards, and better alignment with the guidelines provided. Ensure each change respects the intent of the original content while making necessary adjustments for clarity, compliance, and educational value.
+**Original Sentence:**
+"The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor."
+
+**Deviation and Guideline Source Originally Provided by Expert Reviewer:**
+According to Article 2 - General Disclaimers from Disclaimer Texts for Non-promotional Material, ensure a comprehensive disclaimer is maintained.
+
+**Expert Reviewer's Suggested Change:**
+"The information on this website is intended solely for educational purposes and should not replace medical advice from your doctor."
+
+**Reason for My New Suggested Change:**
+The expert reviewer's revision is clearly articulated but can be further improved for clarity and to ensure it aligns perfectly with the tone and legal implications required. Adding "in any way" emphasizes that the educational content must not interfere with professional medical advice.
+
+**My New Suggested Sentence:**
+"The information provided on this website is for educational purposes only and should in no way be considered as a substitute for professional medical advice from your doctor."
+
+**Deviation:**
+According to Article 1 i and ii from Source - Disclaimer Texts for Non-promotional Material, it is essential to inform users that the educational content is not a replacement for professional medical advice.
+
+---
+
+**Original Sentence:**
+"For example, you could be travelling a lot for work and want to make sure your medication is easy to take, or you may need more support with your weight management goals despite already eating healthily and exercising to the best of your ability."
+
+**Deviation and Guideline Source Originally Provided by Expert Reviewer:**
+According to Article 2 (Provide Context) from the Communicate With Care Pocket Guide, context should be provided to prevent misunderstandings.
+
+**Expert Reviewer's Suggested Change:**
+"For instance, if you travel frequently for work, you might need medication that is convenient to use during trips, or if weight management remains challenging despite a healthy diet and exercise, more support could be necessary."
+
+**Reason for My New Suggested Change:**
+While the suggestion provides context, adding specific guidance regarding discussions with a healthcare provider can help balance scientific information with practical advice more effectively.
+
+**My New Suggested Sentence:**
+"For instance, if you travel frequently for work, you might need medication that is convenient to use during trips, or if weight management remains challenging despite a healthy diet and exercise, discuss with your doctor about additional support options."
+
+**Deviation:**
+According to Article 1 i from Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication, sharing factual information and engaging in balanced support conversations is vital without implying any promotion.
+
+---
+
+**Original Sentence:**
+"Discuss any difficulties you’ve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high."
+
+**Deviation and Guideline Source Originally Provided by Expert Reviewer:**
+According to Article 20 (Member Company Staff) from EFPIA Chapter 3, ensure accurate and precise information about medicinal products.
+
+**Expert Reviewer's Suggested Change:**
+"Discuss any challenges with your current treatment, such as side effects, preference between oral medication or injection, lifestyle compatibility, and the cost of treatment options."
+
+**Reason for My New Suggested Change:**
+The expert’s change is quite valid but can be intensified by explicitly encouraging detailed conversations about specific factors impacting treatment.
+
+**My New Suggested Sentence:**
+"Talk about any challenges with your current treatment with your doctor, including side effects, your preference between oral medication and injection, how well it fits into your lifestyle, and the cost involved."
+
+**Deviation:**
+According to Article 17 i (c) and ii from Source - EFPIA Chapter 3, ensuring the material aids patient care through practical and relevant medical information.
+
+These revisions ensure adherence to the guidelines, focusing on clarity, professionalism, factual representation, and practicality, while preventing speculative or suggestive language.

@@ -1,0 +1,57 @@
+### Combined Review for "How to talk about treatment options" Document
+
+#### Assessment and Corrections
+
+**1. Comprehensive Disclaimer**
+
+- **Original Source Sentence:** "The information on this website is intended for educational purposes only and should not be substituted for medical advice from your doctor."
+- **Deviation from Guidelines:** The sentence does not include all necessary disclaimers regarding patient safety and representation.
+- **Expert Reviewers' Suggested Changes:**
+  - Add a disclaimer to inform users that information is not for substitution of professional medical advice and about model representation in images.
+  - Include detailed safety information regarding the medicinal product.
+- **New Combined Sentence:** 
+  "The information on this website is intended for educational purposes only and should not substitute medical advice from your doctor. For more details, please consult the patient information leaflet in the package. If you experience side effects while using [insert NN medicinal product], contact your doctor, pharmacist, or nurse, including for side effects not listed in the leaflet. Side effects can also be reported via [insert local customer contact function or safety department]. The images shown are models and not real patients. The characters and their descriptions are solely for representation purposes and do not reflect real patient experiences."
+- **Reason for Adding New Sentence:** This comprehensive disclaimer provides a clear caveat about substituting medical advice and includes safety and representational information, adhering to non-promotional guidelines.
+
+**2. Emphasis on Professional Medical Advice**
+
+- **Original Source Sentence:** "It is important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+- **Deviation from Guidelines:** Insufficient emphasis on consulting healthcare providers.
+- **Expert Reviewers' Suggested Changes:**
+  - Reinforce the need for professional medical advice prominently within the document.
+- **New Combined Sentence:** 
+  "Always consult your healthcare provider before making any changes to your treatment plan or if you have any specific medical concerns. Their guidance is crucial in ensuring your treatment is adjusted safely and effectively."
+- **Reason for New Sentence:** Ensures the emphasis on consulting healthcare providers is clear and prominent, aligning with the Global Legal & Compliance Pocket Guide's recommendations.
+
+**3. Role of Healthcare Providers**
+
+- **Original Source Sentence:** "You should feel empowered to accomplish your treatment goals."
+- **Deviation from Guidelines:** The sentence does not adequately emphasize the role of healthcare providers in treatment plans.
+- **Expert Reviewers' Suggested Changes:**
+  - Reinforce the need to consult healthcare providers for treatment adjustments.
+- **New Combined Sentence:** 
+  "When you're living with type 2 diabetes, it's crucial to regularly consult with your healthcare provider to reassess and adjust your treatment plan based on your evolving health conditions. Your healthcare provider can help guide these changes to ensure they are safe and effective."
+- **Reason for New Sentence:** Enhances the emphasis on the collaborative role of healthcare providers and patients, ensuring compliance with EFPIA guidelines on the professional tone.
+
+**4. Professional Tone and Context**
+
+- **Original Source Sentence:** "Come to every appointment prepared to talk, ask questions and find solutions together."
+- **Deviation from Guidelines:** Potentially promotional tone by encouraging interactions may endorse specific treatments.
+- **Expert Reviewers' Suggested Changes:**
+  - Avoid implying endorsements and maintain a professional tone.
+- **New Combined Sentence:** 
+  "Before your appointment, prepare to discuss your health and treatment plans with your doctor and ask questions to gain a clear understanding of your medical condition."
+- **Reason for New Sentence:** Ensures the communication remains focused on patient education and clear understanding without an implied endorsement, in line with EFPIA and Communicate With Care Pocket Guide guidelines.
+
+**5. Scientific Evaluation**
+
+- **Original Source Sentence:** "Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan is working."
+- **Deviation from Guidelines:** Does not explicitly mention scientific and balanced evaluation.
+- **Expert Reviewers' Suggested Changes:**
+  - Highlight the scientific and balanced approach to treatment evaluation.
+- **New Combined Sentence:** 
+  "Knowing what to expect can keep you motivated and help you scientifically assess the effectiveness of changes to your treatment plan."
+- **Reason for New Sentence:** Emphasizes the necessity of scientific evaluation and balanced judgment, adhering to EFPIA Chapter 3, Article 18.
+
+By integrating the insights from both expert reviews, the revised document ensures compliance with the "Non-Promotional Material Guidelines" by providing clarity, maintaining a professional tone, and emphasizing safety and collaborative healthcare. This consolidated review results in a balanced, ethical, and clear non-promotional communication about treatment options for diabetes.
+

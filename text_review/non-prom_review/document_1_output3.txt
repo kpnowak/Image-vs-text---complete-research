@@ -1,304 +1,253 @@
-Certainly! Here is the meticulous review of the provided document with the necessary corrections guided by the "Non-Promotional Material Guidelines."
+Certainly, here is the review of the provided non-promotional document along with corrections where deviations were noted:
 
-### Corrected Sentences:
+**Section: Homepage Content - "How to talk about treatment options"**
 
-1. **Original Sentence:** 
-   "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.1"
+**1. Sentence Review: "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."**
 
-   **Deviations:** 
-   - According to [Source - EFPIA Chapter 17, Article 17.i], the material must be directly beneficial to the care of patients and not constitute promotion.
-   - This sentence may be interpreted as an indirect promotional suggestion.
+- **Guideline Source:** [Source - EFPIA Chapter 3, Article 16]
+- **Source Sentence:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **Deviations:** Article 16 emphasizes the need for fair, balanced, and objective educational content. The current sentence could be perceived as a medical recommendation.
+- **New Sentence:** "When living with type 2 diabetes, individuals commonly reevaluate and change their treatment plans to better align with their evolving health needs."
+- **Reason:** This neutral phrasing avoids sounding like specific medical advice, ensuring the content remains non-promotional and purely educational.
 
-   **New Sentence:**
-   "When managing type 2 diabetes, regular evaluation and adjustment of treatment may be necessary to meet evolving health needs."
+**2. Sentence Review: "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."**
 
-   **Reason for Replacement:**
-   The new sentence maintains neutrality, avoids indirect promotional undertones, and adheres to the mandated standards of non-promotional material.
+- **Guideline Source:** [Source - Communicate With Care Pocket Guide, Article 2]
+- **Source Sentence:** "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+- **Deviations:** Article 2 advises providing context and avoiding assumptions. "Feel empowered" may be perceived as subjective and directive.
+- **New Sentence:** "It can be beneficial to discuss with your doctor any changes in your health that might require adjustments to your treatment."
+- **Reason:** This objective phrasing respects the patient's autonomy while avoiding assumptions or directives.
 
-2. **Original Sentence:**
-   "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+**3. Sentence Review: "Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."**
 
-   **Deviations:** 
-   - According to [Source - Communicate With Care Pocket Guide, Article 2.i], the tone must be professional and avoid implied promotions.
-   - The term "empowered" can imply promotional motivation.
+- **Guideline Source:** [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio, Article 1]
+- **Source Sentence:** "Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+- **Deviations:** Emphasis on "advocate for your needs" might be perceived as promoting a particular behavior.
+- **New Sentence:** "While your doctor provides medical expertise, ensure to communicate your health experiences and preferences."
+- **Reason:** This respects the role of HCPs while encouraging patient participation in a balanced way.
 
-   **New Sentence:**
-   "It is crucial to discuss with your doctor whenever you think a change in your treatment might be necessary."
+**4. Sentence Review: "Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."**
 
-   **Reason for Replacement:**
-   This correction retains the essence of patient engagement while removing any potential promotional insinuations.
+- **Guideline Source:** [Source - EFPIA Chapter 3, Article 17]
+- **Source Sentence:** "Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
+- **Deviations:** Specific outcomes like "better blood sugar control" may imply promotion of certain treatments.
+- **New Sentence:** "Discuss your personal health goals, such as managing blood sugar levels or weight, and evaluate with your doctor if your current treatment aligns with these goals."
+- **Reason:** This focuses on collaboration with the doctor rather than suggesting outcomes.
 
-3. **Original Sentence:**
-   "Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+**5. Sentence Review: "Discuss any difficulties you’ve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high."**
 
-   **Deviations:** 
-   - According to [Source - Communicate With Care Pocket Guide, Article 2.i], the tone must be professional and factual, avoiding any insinuations.
-   - The phrase "advocate for your needs" might be seen as encouraging self-directed adjustments without sufficient medical guidance.
+- **Guideline Source:** [Source - EFPIA Chapter 3, Article 17]
+- **Source Sentence:** "Discuss any difficulties you’ve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high."
+- **Deviations:** Mentioning "pills or injections" might sound like promoting specific treatment modalities.
+- **New Sentence:** "Discuss any difficulties with your current treatment, such as side effects, lifestyle fit, or cost, and explore possible alternatives with your doctor."
+- **Reason:** This remains non-specific and encourages a broad discussion of treatment options.
 
-   **New Sentence:**
-   "Your doctor has the medical expertise, but you also know your personal health condition. It is important to communicate your preferences and concerns during your discussions."
+**6. Sentence Review: "Talk about your lifestyle, how it impacts how well your treatment is working, and if changes to your treatment plan are needed."**
 
-   **Reason for Replacement:**
-   The revision ensures a balanced, factual representation of the doctor-patient dialogue, aligning with non-promotional communication standards.
+- **Guideline Source:** [Source - EFPIA Chapter 3, Article 16]
+- **Source Sentence:** "Talk about your lifestyle, how it impacts how well your treatment is working, and if changes to your treatment plan are needed."
+- **Deviations:** This can imply a direct impact of lifestyle on treatment efficacy.
+- **New Sentence:** "Discuss how your lifestyle might interact with your treatment plan and whether any modifications could improve your health outcomes."
+- **Reason:** This phrasing avoids direct causality, making it more balanced.
 
-4. **Original Sentence:**
-   "Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
+**7. Sentence Review: "Ask questions or share concerns you may have about your treatment plan."**
 
-   **Deviations:** 
-   - According to [Source - EFPIA Chapter 17, Article 17.i], the content must be fair and balanced and not appear as promotional.
-   - The previous wording suggests direct treatment efficacy comparisons which might be seen as promotional.
+- **Guideline Source:** [Source - Communicate With Care Pocket Guide, Article 3]
+- **Source Sentence:** "Ask questions or share concerns you may have about your treatment plan."
+- **Deviations:** The phrase could be more specific to guide effective communication.
+- **New Sentence:** "Address any questions or concerns regarding your treatment plan to better understand it and address any issues early."
+- **Reason:** This offers more guidance, ensuring patients know the context and importance of their queries.
 
-   **New Sentence:**
-   "Share your personal health goals, such as achieving better blood sugar control or weight management, and discuss with your doctor if any adjustments to your treatment are advisable."
+**8. Sentence Review: "Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan."**
 
-   **Reason for Replacement:**
-   The new wording encourages a balanced discussion about treatment options without suggesting promotional bias.
+- **Guideline Source:** [Source - Communicate With Care Pocket Guide, Article 2.iii]
+- **Source Sentence:** "Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan."
+- **Deviations:** The statement should avoid suggesting specific outcomes.
+- **New Sentence:** "Work with your doctor to understand the expected timeline and potential outcomes of your treatment plan."
+- **Reason:** This collaborative focus ensures clarity and avoids unrealistic promises.
 
-5. **Original Sentence:**
-   "Discuss any difficulties you’ve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high."
+**9. Sentence Review: "If you are making any changes to your treatment plan, discuss with your doctor how you should follow-up on how it is working."**
 
-   **Deviations:** 
-   - According to [Source - Communicate With Care Pocket Guide, Article 2.iii], clarity and factuality are paramount. The current wording suggests direct preference influences.
-   - Highlighting specific administration forms may inadvertently promote certain products.
+- **Guideline Source:** [Source - EFPIA Chapter 4, Article 21]
+- **Source Sentence:** "If you are making any changes to your treatment plan, discuss with your doctor how you should follow-up on how it is working."
+- **Deviations:** The phrase needs more specificity about the follow-up process.
+- **New Sentence:** "Consult with your doctor about a follow-up schedule to monitor the effectiveness of any changes to your treatment plan."
+- **Reason:** This emphasizes the importance of continuous monitoring and collaboration.
 
-   **New Sentence:**
-   "Highlight any challenges with your current treatment, such as side effects or lifestyle compatibility, and discuss possible alternatives with your doctor."
+**10. Sentence Review: "The information on this website is intended for educational purposes only and should not be substituted for medical advice from your doctor."**
 
-   **Reason for Replacement:**
-   By focusing on discussing challenges broadly, the new sentence removes potential promotional bias towards specific treatment forms.
+- **Guideline Source:** [Source - Disclaimer Texts for Non-promotional Material]
+- **Source Sentence:** "The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor."
+- **Deviations:** The disclaimer should adhere to standardized phrasing to avoid ambiguity.
+- **New Sentence:** "The information on this website is intended for educational purposes only and should not replace professional medical advice from your doctor."
+- **Reason:** This standardized phrasing ensures clarity and adherence to guidelines.
 
-6. **Original Sentence:**
-   "Your doctor should be able to talk you through all of those concerns and more."
-
-   **Deviations:** 
-   - According to [Source - EFPIA Chapter 17, Article 17.iii], the content should not circumvent the prohibition on gifts or inducements.
-   - The statement "should be able" might be viewed as pressuring HCPs into providing specific guidance, linking indirectly to inducement.
-
-   **New Sentence:**
-   "Your doctor can provide detailed information to address your concerns."
-
-   **Reason for Replacement:**
-   This revision maintains an informative tone without implying requirements or promotional intent.
-
-7. **Original Sentence:**
-   "Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan is working."
-
-   **Deviations:** 
-   - According to [Source - EFPIA Chapter 3, Article 18.i], material should not disguise promotion and should be objective.
-   - Emphasis on self-evaluation might encourage personal alterations without professional input.
-
-   **New Sentence:**
-   "Understanding what to expect can help you stay informed and discuss with your doctor the effectiveness of any changes made to your treatment plan."
-
-   **Reason for Replacement:**
-   The revised sentence emphasizes collaboration with healthcare providers, upholding a non-promotional and professional tone.
-
-8. **Original Sentence:**
-   "If you are making any changes to your treatment plan, discuss with your doctor how you should follow-up on how it is working."
-
-   **Deviations:** 
-   - According to [Source - EFPIA Chapter 17, Article 17.i], discussions about treatment changes should be objective and based on medical evaluation.
-   - The original sentence suggests patient-directed changes without medical initiation.
-
-   **New Sentence:**
-   "If any changes to your treatment plan are needed, discuss with your doctor the appropriate follow-up to monitor progress."
-
-   **Reason for Replacement:**
-   This revision emphasizes medical oversight in treatment adjustments, ensuring compliance with non-promotional guidelines.
-
-9. **Original Sentence:**
-   "By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health."
-
-   **Deviations:** 
-   - According to [Source - Communicate With Care Pocket Guide, Article 2.i], the tone should be professional and factual, avoiding empowerment language which might imply promotional intent.
-   - The term "empower" can carry promotional undertones.
-
-   **New Sentence:**
-   "By communicating openly and participating in the decision-making process, you can collaboratively develop a treatment plan suited to your needs."
-
-   **Reason for Replacement:**
-   The new sentence retains patient engagement while eliminating potential promotional connotations, adhering to non-promotional communication mandates.
-
-### Double-Checking Criteria:
-- Each point has been reviewed to ensure clarity and adherence to non-promotional material standards.
-- No duplicate comments; each correction addresses distinct deviations and ensures compliance with the guidelines provided.
-- Only necessary changes have been made to maintain the integrity of the original educational intent while adhering to ethical and legal standards.
-
-These revisions ensure the material meets the required standards for non-promotional content, providing clear, balanced, and objective information devoid of any promotional bias.
+By addressing and correcting these deviations, the document now aligns better with non-promotional guidelines and provides balanced, factual, and educational content.
 
 ----------------------------------------------------------------------------------------------
 ---------------------------------------- Chief Output ----------------------------------------
 ----------------------------------------------------------------------------------------------
 
-### Comment 1
+Certainly! Here is the review of the expert's comments along with improved corrections where deviations were noted:
+
+**1. Sentence Review: "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."**
+
 - **Original Source Sentence:**
-  "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
+"When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
 
-- **Deviation from the Guidelines Originally Provided by the Expert Reviewer:**
-  According to [Source - EFPIA Chapter 17, Article 17.i], the material must be directly beneficial to the care of patients and not constitute promotion. The sentence may be interpreted as an indirect promotional suggestion.
+- **Deviation:**
+Article 16 emphasizes the need for fair, balanced, and objective educational content. The current sentence could be perceived as a specific medical recommendation.
 
-- **Expert Reviewer's Original Suggested Change:**
-  "When managing type 2 diabetes, regular evaluation and adjustment of treatment may be necessary to meet evolving health needs."
+- **Expert Reviewer's Suggested Change:**
+"When living with type 2 diabetes, individuals commonly reevaluate and change their treatment plans to better align with their evolving health needs."
 
-- **Explanation for the Reason Behind Your New Suggested Change:**
-  The expert's suggested change is good but could be improved to ensure it clearly avoids any promotional undertones and is entirely neutral.
+- **Explanation for New Suggested Change:**
+The new suggestion should maintain neutrality and not sound like medical advice.
 
-- **Your New Suggested Sentence:**
-  "People with type 2 diabetes may periodically need to reassess and adjust their treatment to address their changing health requirements."
+- **New Suggested Sentence:**
+"For those managing type 2 diabetes, it is typical to consider adjustments to treatment plans in response to changing health conditions."
 
-- **Deviations:**
-  According to [Source - EFPIA Chapter 17, Article 17.i], the content should be directly beneficial to the care of patients and avoid promotional implications. Also, according to [Source - Communicate With Care Pocket Guide, Article 2.iii], it should stick to facts and avoid speculation.
-   
-### Comment 2
+- **Deviations Explained:**
+According to [Source - EFPIA Chapter 3, Article 16], the information should be purely educational and not resemble a medical prescription. The new sentence maintains a neutral tone while conveying the necessary information.
+
+**2. Sentence Review: "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."**
+
 - **Original Source Sentence:**
-  "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+"It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
 
-- **Deviation from the Guidelines Originally Provided by the Expert Reviewer:**
-  According to [Source - Communicate With Care Pocket Guide, Article 2.i], the tone must be professional and avoid implied promotions. The term "empowered" can imply promotional motivation.
+- **Deviation:**
+The phrase "feel empowered" may be perceived as subjective and directive.
 
-- **Expert Reviewer's Original Suggested Change:**
-  "It is crucial to discuss with your doctor whenever you think a change in your treatment might be necessary."
+- **Expert Reviewer's Suggested Change:**
+"It can be beneficial to discuss with your doctor any changes in your health that might require adjustments to your treatment."
 
-- **Explanation for the Reason Behind Your New Suggested Change:**
-  The expert's suggestion removes the term "empowered" but could further emphasize the importance of professional medical advice.
+- **Explanation for New Suggested Change:**
+The focus should be on encouraging patient-doctor communication without implying empowerment or making assumptions.
 
-- **Your New Suggested Sentence:**
-  "It is important to consult your doctor whenever you believe a change in your treatment could be beneficial."
+- **New Suggested Sentence:**
+"Consider discussing any health changes with your doctor to determine if adjustments to your treatment plan are necessary."
 
-- **Deviations:**
-  According to [Source - Communicate With Care Pocket Guide, Article 2.i], maintaining professionalism in tone is critical. According to [Source - EFPIA Chapter 17, Article 17.i], the statement should avoid any promotional undertones.
-  
-### Comment 3
+- **Deviations Explained:**
+According to [Source - Communicate With Care Pocket Guide, Article 2], the content should provide context and avoid assumptions or directives. This suggested sentence adheres to that guideline by focusing on the act of discussion without additional subjective language.
+
+**3. Sentence Review: "Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."**
+
 - **Original Source Sentence:**
-  "Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+"Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
 
-- **Deviation from the Guidelines Originally Provided by the Expert Reviewer:**
-  According to [Source - Communicate With Care Pocket Guide, Article 2.i], the tone must be professional and factual, avoiding any insinuations. The phrase "advocate for your needs" might be seen as encouraging self-directed adjustments without sufficient medical guidance.
+- **Deviation:**
+The term "advocate for your needs" might suggest promoting specific behaviors which could be perceived as directive.
 
-- **Expert Reviewer's Original Suggested Change:**
-  "Your doctor has the medical expertise, but you also know your personal health condition. It is important to communicate your preferences and concerns during your discussions."
+- **Expert Reviewer's Suggested Change:**
+"While your doctor provides medical expertise, ensure to communicate your health experiences and preferences."
 
-- **Explanation for the Reason Behind Your New Suggested Change:**
-  The suggested change should ensure a balanced approach that involves both the doctor's knowledge and patient input without promotion.
+- **Explanation for New Suggested Change:**
+The suggestion should encourage communication without potentially directive language.
 
-- **Your New Suggested Sentence:**
-  "While your doctor provides medical expertise, your insights into your own health are valuable. It’s important to communicate your concerns and preferences during consultations."
+- **New Suggested Sentence:**
+"While your doctor offers medical advice, share your personal health experiences and preferences during discussions."
 
-- **Deviations:**
-  According to [Source - EFPIA Chapter 17, Article 17.i], the material must be fair, balanced, and objective. According to [Source - Communicate With Care Pocket Guide, Article 2.i], the tone must remain professional.
-  
-### Comment 4
+- **Deviations Explained:**
+According to [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio, Article 1], non-promotional material should always be communicated in a balanced and objective way. The new sentence promotes open communication without promoting a specific behavior.
+
+**4. Sentence Review: "Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."**
+
 - **Original Source Sentence:**
-  "Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
+"Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
 
-- **Deviation from the Guidelines Originally Provided by the Expert Reviewer:**
-  According to [Source - EFPIA Chapter 17, Article 17.i], the content must be fair and balanced and not appear as promotional. The previous wording suggests direct treatment efficacy comparisons which might be seen as promotional.
+- **Deviation:**
+Specific outcomes like "better blood sugar control" may imply the promotion of certain treatments.
 
-- **Expert Reviewer's Original Suggested Change:**
-  "Share your personal health goals, such as achieving better blood sugar control or weight management, and discuss with your doctor if any adjustments to your treatment are advisable."
+- **Expert Reviewer's Suggested Change:**
+"Discuss your personal health goals, such as managing blood sugar levels or weight, and evaluate with your doctor if your current treatment aligns with these goals."
 
-- **Explanation for the Reason Behind Your New Suggested Change:**
-  While the expert's suggestion is adequate, a more neutral phrasing can better ensure it avoids any perceived promotions.
+- **Explanation for New Suggested Change:**
+The new suggestion should avoid any suggestion of outcomes and remain general.
 
-- **Your New Suggested Sentence:**
-  "Discuss your health goals, such as better blood sugar control or weight management, with your doctor to determine if adjustments to your treatment may be beneficial."
+- **New Suggested Sentence:**
+"Talk about your health goals, such as blood sugar management or weight control, and consult your doctor to assess if your treatment plan is meeting these goals."
 
-- **Deviations:**
-  According to [Source - EFPIA Chapter 17, Article 17.i], ensuring the content does not appear as promotional is crucial. According to [Source - Communicate With Care Pocket Guide, Article 2.iii], sticking to factual statements is encouraged.
-  
-### Comment 5
+- **Deviations Explained:**
+According to [Source - EFPIA Chapter 3, Article 17], the information should be relevant and unbiased while not promoting specific outcomes. This sentence encourages a general consultation without implying specific results.
+
+**6. Sentence Review: "Talk about your lifestyle, how it impacts how well your treatment is working, and if changes to your treatment plan are needed."**
+
 - **Original Source Sentence:**
-  "Discuss any difficulties you’ve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high."
+"Talk about your lifestyle, how it impacts how well your treatment is working, and if changes to your treatment plan are needed."
 
-- **Deviation from the Guidelines Originally Provided by the Expert Reviewer:**
-  According to [Source - Communicate With Care Pocket Guide, Article 2.iii], clarity and factuality are paramount. The current wording suggests direct preference influences. Highlighting specific administration forms may inadvertently promote certain products.
+- **Deviation:**
+This statement might imply a direct causality between lifestyle and treatment efficacy.
 
-- **Expert Reviewer's Original Suggested Change:**
-  "Highlight any challenges with your current treatment, such as side effects or lifestyle compatibility, and discuss possible alternatives with your doctor."
+- **Expert Reviewer's Suggested Change:**
+"Discuss how your lifestyle might interact with your treatment plan and whether any modifications could improve your health outcomes."
 
-- **Explanation for the Reason Behind Your New Suggested Change:**
-  The expert's suggestion is generally correct but could be refined to ensure it remains neutral and comprehensive.
+- **Explanation for New Suggested Change:**
+The suggestion should steer clear of implying any specific medical outcome.
 
-- **Your New Suggested Sentence:**
-  "Communicate any challenges you have with your current treatment, like side effects or whether it fits your lifestyle, and discuss potential alternatives with your doctor."
+- **New Suggested Sentence:**
+"Discuss how your lifestyle factors might affect your treatment and if any changes might benefit your health."
 
-- **Deviations:**
-  According to [Source - EFPIA Chapter 17, Article 17.iii], the content should be factual and avoid implying specific product promotion. According to [Source - Communicate With Care Pocket Guide, Article 2.iii], the statement must be clear and factual.
-  
-### Comment 6
+- **Deviations Explained:**
+According to [Source - EFPIA Chapter 3, Article 16], content should be fair, balanced, and objective without implying causality. The new sentence keeps the discussion general and educational.
+
+**7. Sentence Review: "Ask questions or share concerns you may have about your treatment plan."**
+
 - **Original Source Sentence:**
-  "Your doctor should be able to talk you through all of those concerns and more."
+"Ask questions or share concerns you may have about your treatment plan."
 
-- **Deviation from the Guidelines Originally Provided by the Expert Reviewer:**
-  According to [Source - EFPIA Chapter 17, Article 17.iii], the content should not circumvent the prohibition on gifts or inducements. The statement "should be able" might be viewed as pressuring HCPs into providing specific guidance, linking indirectly to inducement.
+- **Deviation:**
+The phrase could offer more guidance to ensure effective communication.
 
-- **Expert Reviewer's Original Suggested Change:**
-  "Your doctor can provide detailed information to address your concerns."
+- **Expert Reviewer's Suggested Change:**
+"Address any questions or concerns regarding your treatment plan to better understand it and address any issues early."
 
-- **Explanation for the Reason Behind Your New Suggested Change:**
-  While the expert's suggested change is accurate, a slight alteration can make it even more aligned with the non-promotional tone.
+- **Explanation for New Suggested Change:**
+Additional guidance can ensure the intent and importance of patient queries are clear.
 
-- **Your New Suggested Sentence:**
-  "Your doctor can help address your concerns with detailed information."
+- **New Suggested Sentence:**
+"Actively discuss any questions or concerns about your treatment plan to ensure clarity and promptly address any issues."
 
-- **Deviations:**
-  According to [Source - EFPIA Chapter 17, Article 17.iii], ensuring the statement does not imply inducement is essential. According to [Source - Communicate With Care Pocket Guide, Article 2.i], maintaining a professional tone is critical.
-  
-### Comment 7
+- **Deviations Explained:**
+According to [Source - Communicate With Care Pocket Guide, Article 3], concerns should be addressed clearly for better understanding. This revised sentence emphasizes the importance of proactive communication.
+
+**8. Sentence Review: "Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan."**
+
 - **Original Source Sentence:**
-  "Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan is working."
+"Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan."
 
-- **Deviation from the Guidelines Originally Provided by the Expert Reviewer:**
-  According to [Source - EFPIA Chapter 3, Article 18.i], material should not disguise promotion and should be objective. Emphasis on self-evaluation might encourage personal alterations without professional input.
+- **Deviation:**
+The statement should avoid suggesting specific outcomes.
 
-- **Expert Reviewer's Original Suggested Change:**
-  "Understanding what to expect can help you stay informed and discuss with your doctor the effectiveness of any changes made to your treatment plan."
+- **Expert Reviewer's Suggested Change:**
+"Work with your doctor to understand the expected timeline and potential outcomes of your treatment plan."
 
-- **Explanation for the Reason Behind Your New Suggested Change:**
-  The suggested change should further reduce any implications that patients should make personal treatment evaluations independently.
+- **Explanation for New Suggested Change:**
+The suggestion should emphasize understanding without implying any certainty of outcomes.
 
-- **Your New Suggested Sentence:**
-  "Understanding what to expect helps you stay informed and effectively communicate with your doctor about the success of any treatment changes."
+- **New Suggested Sentence:**
+"Collaborate with your doctor to gain a clear understanding of the expected timeline and possible outcomes of your treatment plan."
 
-- **Deviations:**
-  According to [Source - EFPIA Chapter 17, Article 17.i], the material must not promote or encourage non-professional adjustments. According to [Source - Communicate With Care Pocket Guide, Article 2.i], sticking to professionalism is key.
-  
-### Comment 8
+- **Deviations Explained:**
+According to [Source - Communicate With Care Pocket Guide, Article 2.iii], sticking to facts avoids speculation. This new sentence encourages understanding without making specific promises.
+
+**9. Sentence Review: "If you are making any changes to your treatment plan, discuss with your doctor how you should follow-up on how it is working."**
+
 - **Original Source Sentence:**
-  "If you are making any changes to your treatment plan, discuss with your doctor how you should follow-up on how it is working."
+"If you are making any changes to your treatment plan, discuss with your doctor how you should follow-up on how it is working."
 
-- **Deviation from the Guidelines Originally Provided by the Expert Reviewer:**
-  According to [Source - EFPIA Chapter 17, Article 17.i], discussions about treatment changes should be objective and based on medical evaluation. The original sentence suggests patient-directed changes without medical initiation.
+- **Deviation:**
+The phrase could be more specific about the follow-up process.
 
-- **Expert Reviewer's Original Suggested Change:**
-  "If any changes to your treatment plan are needed, discuss with your doctor the appropriate follow-up to monitor progress."
+- **Expert Reviewer's Suggested Change:**
+"Consult with your doctor about a follow-up schedule to monitor the effectiveness of any changes to your treatment plan."
 
-- **Explanation for the Reason Behind Your New Suggested Change:**
-  The expert's suggestion can be slightly refined to ensure it's framed entirely within the context of medical supervision.
+- **Explanation for New Suggested Change:**
+The suggestion should provide more detailed guidance on the follow-up.
 
-- **Your New Suggested Sentence:**
-  "When changes to your treatment plan are required, discuss with your doctor how to monitor its effectiveness."
+- **New Suggested Sentence:**
+"Discuss a follow-up plan with your doctor to regularly monitor the effectiveness of any changes to your treatment."
 
-- **Deviations:**
-  According to [Source - EFPIA Chapter 17, Article 17.i], ensuring all adjustments are guided by professional medical advice is essential. According to [Source - Communicate With Care Pocket Guide, Article 2.i], maintaining a factual, professional tone is paramount.
-  
-### Comment 9
-- **Original Source Sentence:**
-  "By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health."
+- **Deviations Explained:**
+According to [Source - EFPIA Chapter 4, Article 21], transparency and planning are crucial in medical communication. This sentence emphasizes the importance of structured follow-ups.
 
-- **Deviation from the Guidelines Originally Provided by the Expert Reviewer:**
-  According to [Source - Communicate With Care Pocket Guide, Article 2.i], the tone should be professional and factual, avoiding empowerment language which might imply promotional intent. The term "empower" can carry promotional undertones.
-
-- **Expert Reviewer's Original Suggested Change:**
-  "By communicating openly and participating in the decision-making process, you can collaboratively develop a treatment plan suited to your needs."
-
-- **Explanation for the Reason Behind Your New Suggested Change:**
-  The expert's suggestion is effective, but it could be made clearer and more aligned with the non-promotional tone by eliminating the term "empower" completely.
-
-- **Your New Suggested Sentence:**
-  "By actively engaging in discussions and asking questions, you can work with your doctor to develop a treatment plan that best meets your needs."
-
-- **Deviations:**
-  According to [Source - EFPIA Chapter 17, Article 17.i], avoiding promotional tone is essential. According to [Source - Communicate With Care Pocket Guide, Article 2.i], maintaining a professional, factual tone is paramount.
-
-By making these adjustments, the sentences will better align with the "Non-Promotional Material Guidelines" while maintaining the educational integrity and usefulness for patients.
+By addressing and correcting these deviations, the document now aligns better with non-promotional guidelines and provides balanced, factual, and educational content.

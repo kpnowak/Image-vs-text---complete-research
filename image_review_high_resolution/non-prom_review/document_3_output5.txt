@@ -1,0 +1,135 @@
+**Guideline source:** [Source - EFPIA Chapter 3]  
+**Source sentence:** "In the bustling suburbs of America's progressive states, where the pace of life is ever-increasing, managing patients' headaches effectively and safely is a crucial aspect of healthcare."  
+**Deviations:**
+- According to [Source - Communicate With Care Pocket Guide] the information suggests that the statement lacks context specific to a non-promotional material guideline and is too general. 
+- [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication] the information implies it is indirectly promotional due to the use of persuasive language like "crucial aspect of healthcare."
+
+**Your new sentence:** "In healthcare practices, effectively and safely managing patients' headaches remains a significant focus for improving patient outcomes."  
+**Reason for replacing the source sentence:** The new sentence adheres to non-promotional guidelines by avoiding general promotional statements and focuses on the objective of improving patient outcomes without added persuasion.
+
+---
+
+**Guideline source:** [Source - EFPIA Chapter 3, Article 17]  
+**Source sentence:** "Clinical studies have demonstrated that BASE Product reduces the severity of headaches by more than 30%."  
+**Deviations:**
+- The statement could be perceived as promotional because it emphasizes effectiveness without citing the studies [Source - EFPIA Chapter 3, Article 17.iii].
+
+**Your new sentence:** "Independent clinical studies have demonstrated a reduction in headache severity by more than 30% with the use of BASE Product, although specifics of the studies should be reviewed for comprehensive understanding."  
+**Reason for replacing the source sentence:** Emphasizes an objective summary of the data, and it directs the reader to review the specific studies for a more detailed understanding, which aligns with non-promotional guidelines.
+
+---
+
+**Guideline source:** [Source - EFPIA Chapter 3, Article 17]  
+**Source sentence:** "Recognized as one of the safest headache medicines available today, BASE Product provides you and your patients with peace of mind."  
+**Deviations:**
+- The statement is promotional, implying superiority and guaranteed outcomes without supporting evidence [Source - EFPIA Chapter 3, Article 17.iii].
+
+**Your new sentence:** "BASE Product is designed with a well-tolerated formula to help manage headaches, aiming to provide a reliable option for patient care."  
+**Reason for replacing the source sentence:** This avoids unsubstantiated claims and promotional language, providing a neutral, fact-based statement.
+
+---
+
+**Guideline source:** [Source - EFPIA Chapter 3, Article 17]  
+**Source sentence:** "By choosing BASE Product, you are opting for a treatment that ensures quicker, longer-lasting relief for your patients, enhancing their quality of life and your reputation as a healthcare provider."  
+**Deviations:**
+- The sentence uses promotional language that implies guaranteed effectiveness and beneficial impact on the provider's reputation, which could constitute inducement [Source - EFPIA Chapter 3, Article 17.iii].
+
+**Your new sentence:** "BASE Product aims to provide effective headache relief as part of a comprehensive treatment plan, potentially benefiting patient care."  
+**Reason for replacing the source sentence:** Keeps the focus on patient care benefit in a neutral, non-promotional manner.
+
+---
+
+**Guideline source:** [Source - Disclaimer Texts for Non-promotional Material]  
+**Source sentence:** Missing  
+**Deviations:**
+- The document is missing necessary disclaimers, such as indicating that the image is a model [Source - Disclaimer Texts for Non-promotional Material].
+
+**Your new sentence:** "The image shown is a model and not a real patient."  
+**Reason for including the sentence:** Adds necessary transparency and adherence to non-promotional guidelines, ensuring clarity for the reader.
+
+---
+
+**Guideline source:** [Source - EFPIA Chapter 3, Article 17]  
+**Source sentence:** "This efficiency is not just in its pain-relieving capabilities, but also in its onset of action, duration of effect, and overall patient satisfaction."  
+**Deviations:**
+- This type of language could be seen as promotional by overemphasizing the product's benefits in various aspects without sufficient backing evidence or balanced presentation [Source - EFPIA Chapter 3, Article 17.i.c].
+
+**Your new sentence:** "Clinical evidence supports BASE Product’s pain-relieving capabilities, including onset of action and duration of effect, which may contribute to patient care efficacy."  
+**Reason for replacing the source sentence:** Provides a balanced view, references clinical evidence, and avoids promotional exaggeration.
+
+---
+
+By focusing on these revisions, the reviewed document will better align with the Non-Promotional Material Guidelines, maintaining an unbiased, fact-based perspective that supports educational objectives without promoting the product.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+**Guideline source:** [Source - EFPIA Chapter 3]  
+**Source sentence:** "In the bustling suburbs of America's progressive states, where the pace of life is ever-increasing, managing patients' headaches effectively and safely is a crucial aspect of healthcare."  
+**Deviations:**
+- According to [Source - Communicate With Care Pocket Guide] the information suggests that the statement lacks context specific to a non-promotional material guideline and is too general. 
+- [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication] the information implies it is indirectly promotional due to the use of persuasive language like "crucial aspect of healthcare."
+
+**Expert reviewer's original suggested change:** "In healthcare practices, effectively and safely managing patients' headaches remains a significant focus for improving patient outcomes."  
+**Reason for the new suggested change:** The expert reviewer's suggested change is an improvement but retains unnecessary focus on significance, which can still be construed as promotional.
+**Your new suggested sentence:** "Managing patients' headaches effectively and safely is an important aspect of patient care in healthcare practices."
+**Deviations:** According to [Source - Communicate With Care Pocket Guide] the information suggests that effective communication should avoid persuasive and general language while maintaining a professional tone.
+
+---
+
+**Guideline source:** [Source - EFPIA Chapter 3, Article 17]  
+**Source sentence:** "Clinical studies have demonstrated that BASE Product reduces the severity of headaches by more than 30%."  
+**Deviations:**
+- The statement could be perceived as promotional because it emphasizes effectiveness without citing the studies [Source - EFPIA Chapter 3, Article 17.iii].
+
+**Expert reviewer's original suggested change:** "Independent clinical studies have demonstrated a reduction in headache severity by more than 30% with the use of BASE Product, although specifics of the studies should be reviewed for comprehensive understanding."  
+**Reason for the new suggested change:** The suggested change by the expert reviewer is relevant but should discourage generalization and ensure neutrality.
+**Your new suggested sentence:** "Independent clinical studies report a reduction in headache severity by more than 30% with BASE Product; readers should consult specific studies for detailed information."
+**Deviations:** According to [Source - EFPIA Chapter 3, Article 17.iii], the emphasis should be on providing factual information devoid of promotional connotations and ensuring readers refer to specific studies.
+
+---
+
+**Guideline source:** [Source - EFPIA Chapter 3, Article 17]  
+**Source sentence:** "Recognized as one of the safest headache medicines available today, BASE Product provides you and your patients with peace of mind."  
+**Deviations:**
+- The statement is promotional, implying superiority and guaranteed outcomes without supporting evidence [Source - EFPIA Chapter 3, Article 17.iii].
+
+**Expert reviewer's original suggested change:** "BASE Product is designed with a well-tolerated formula to help manage headaches, aiming to provide a reliable option for patient care."  
+**Reason for the new suggested change:** The expert reviewer's change still subtly implies assured outcomes ("well-tolerated formula"). The focus should remain strictly neutral.
+**Your new suggested sentence:** "BASE Product is formulated to manage headaches, making it a potential option for patient care."
+**Deviations:** According to [Source - EFPIA Chapter 3, Article 17.iii] the language should avoid implications of superiority or guaranteed benefits and stay factual and balanced.
+
+---
+
+**Guideline source:** [Source - EFPIA Chapter 3, Article 17]  
+**Source sentence:** "By choosing BASE Product, you are opting for a treatment that ensures quicker, longer-lasting relief for your patients, enhancing their quality of life and your reputation as a healthcare provider."  
+**Deviations:**
+- The sentence uses promotional language that implies guaranteed effectiveness and beneficial impact on the provider's reputation, which could constitute inducement [Source - EFPIA Chapter 3, Article 17.iii].
+
+**Expert reviewer's original suggested change:** "BASE Product aims to provide effective headache relief as part of a comprehensive treatment plan, potentially benefiting patient care."  
+**Reason for the new suggested change:** The expert reviewer's change is adequate but should avoid any future suggestive terms like "potentially benefiting patient care."
+**Your new suggested sentence:** "BASE Product is intended to be part of a comprehensive headache treatment plan."
+**Deviations:** According to [Source - EFPIA Chapter 3, Article 17.iii], language should avoid guaranteed outcomes and focus on informational content without persuasive elements.
+
+---
+
+**Guideline source:** [Source - Disclaimer Texts for Non-promotional Material]  
+**Source sentence:** Missing  
+**Deviations:**
+- The document is missing necessary disclaimers, such as indicating that the image is a model [Source - Disclaimer Texts for Non-promotional Material].
+
+**Expert reviewer's original suggested change:** "The image shown is a model and not a real patient."  
+**Reason for including the sentence:** Adds necessary transparency and adherence to non-promotional guidelines, ensuring clarity for the reader.
+
+---
+
+**Guideline source:** [Source - EFPIA Chapter 3, Article 17]  
+**Source sentence:** "This efficiency is not just in its pain-relieving capabilities, but also in its onset of action, duration of effect, and overall patient satisfaction."  
+**Deviations:**
+- This type of language could be seen as promotional by overemphasizing the product's benefits in various aspects without sufficient backing evidence or balanced presentation [Source - EFPIA Chapter 3, Article 17.i.c].
+
+**Expert reviewer's original suggested change:** "Clinical evidence supports BASE Product’s pain-relieving capabilities, including onset of action and duration of effect, which may contribute to patient care efficacy."  
+**Reason for the new suggested change:** The expert reviewer's suggestion still leaves room for promotional interpretation by including multiple benefits consecutively.
+**Your new suggested sentence:** "Clinical evidence indicates that BASE Product has pain-relieving capabilities, with specific details provided in supporting studies."
+**Deviations:** According to [Source - EFPIA Chapter 3, Article 17.i.c], factual evidence should be presented without promotional intent, ensuring a balanced and neutral approach.

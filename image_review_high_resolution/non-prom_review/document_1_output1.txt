@@ -1,0 +1,79 @@
+Below is a detailed review of the document, corrected based on the provided "Non-Promotional Material Guidelines." Each of the new sentences is formulated to ensure compliance:
+
+---
+
+1. **Guideline Source**: Source - Disclaimer Texts for Non-promotional Material
+   - **Deviations Corrected**: Article 3 - General Disclaimers includes in all pages
+   - **Source Sentence Replaced**: The document currently lacks the necessary disclaimers.
+   - **New Sentence**: "The image shown is a model and not a real patient."
+   - **Reason**: To ensure clarity and prevent misunderstandings about the representation of patients, thereby adhering to the guidelines.
+
+2. **Guideline Source**: Source - Disclaimer Texts for Non-promotional Material
+   - **Deviations Corrected**: Article 1 - Internal Communication
+   - **Source Sentence Replaced**: There is no explicit mention of internal communication disclaimer.
+   - **New Sentence**: “This material is for preparatory use in NN only.”
+   - **Reason**: It is important to clarify the internal use of the material to prevent misuse or misinterpretation.
+
+3. **Guideline Source**: Source - Disclaimer Texts for Non-promotional Material
+   - **Deviations Corrected**: Article 2 - Draft Non-Promotional Material
+   - **Source Sentence Replaced**: The document does not contain a disclaimer for draft internal use.
+   - **New Sentence**: “This is a DRAFT, for preparatory use in NN only. Affiliates are responsible for compliance with local procedures and for review of such non-promotional material, e.g., against more stringent local legislation, and if relevant local code of conduct before distribution.”
+   - **Reason**: This ensures the document is reviewed and adapted appropriately by affiliates, adhering to local regulations.
+
+4. **Guideline Source**: Source - Communicate With Care Pocket Guide
+   - **Deviations Corrected**: Article 3 - Do Not Ignore Inappropriate Writing
+   - **Source Sentence Replaced**: The sentence structure in the document signifies general advice without an exclusive professional tone.
+   - **New Sentence**: "Discuss your treatment timeline and expected outcomes with your doctor to stay motivated and ensure your treatment plan's effectiveness."
+   - **Reason**: Written with a clear and professional tone, aligning with the guideline to stick to facts and avoid speculation.
+
+5. **Guideline Source**: Source - Communicate With Care Pocket Guide
+   - **Deviations Corrected**: Article 2 - Be Clear and Professional
+   - **Source Sentence Replaced**: "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+   - **New Sentence**: "While your doctor brings medical expertise, you are the primary manager of your type 2 diabetes."
+   - **Reason**: Maintain a respectful and professional tone, ensuring clarity and avoiding any perception of downplaying the doctor's role.
+
+6. **Guideline Source**: Source - Communicate With Care Pocket Guide
+   - **Deviations Corrected**: Article 2 - Be Clear and Professional 
+   - **Source Sentence Replaced**: “You know your mind and body, and it's important to advocate for your needs and preferences during your discussion.”
+   - **New Sentence**: “You are most familiar with your own body and needs; ensure to communicate these clearly to your doctor for a collaborative discussion.”
+   - **Reason**: The revised sentence ensures clarity, objectivity and maintains a professional tone, thus removing any possible informal language.
+
+7. **Guideline Source**: Source - Disclaimer Texts for Non-promotional Material
+   - **Deviations Corrected**: Article 3 - General Disclaimers includes in all pages
+   - **Source Sentence Replaced**: Preventing unauthorized representations.
+   - **New Sentence**: “The character and its description are for representation purposes only and do not reflect real patient experiences.”
+   - **Reason**: Ensures readers understand that the information provided is illustrative and not based on specific individuals.
+
+8. **Guideline Source**: Source - EFPIA Chapter 3
+   - **Deviations Corrected**: Article 17 - Informational or Educational Materials and Items of Medical Utility
+   - **Source Sentence Replaced**: Lack of reference to non-promotional use.
+   - **New Sentence**: “Informational materials provided are intended for educational purposes and not intended to promote any specific products.”
+   - **Reason**: Aligns the document with guidelines ensuring it is clearly non-promotional.
+
+---
+
+**Conclusion**: The suggested modifications aim to ensure the document adheres to the "Non-Promotional Material Guidelines", maintaining clarity, professionalism, and compliance. Each change aligns the content with the requirements to prevent any perceptions of promotion and to incorporate appropriate disclaimers.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+1. **Original Source Sentence**: "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+   - **Deviation from Guidelines**: The sentence structure could be perceived as informal and might not maintain the recommended professional tone. According to the "Communicate With Care Pocket Guide," Article 2 - Be Clear and Professional, the information suggests that language should be clear, professional, and respectful.
+   - **Expert Reviewer's Original Suggested Change**: "While your doctor brings medical expertise, you are the primary manager of your type 2 diabetes."
+   - **Explanation for New Suggested Change**: To enhance the professional tone and ensure mutual respect between the doctor and patient roles, this revised sentence acknowledges both the doctor's and the patient's roles appropriately.
+   - **New Suggested Sentence**: "Your doctor provides medical expertise, while you manage your daily life with type 2 diabetes."
+
+2. **Original Source Sentence**: "You know your mind and body, and it's important to advocate for your needs and preferences during your discussion."
+   - **Deviation from Guidelines**: The sentence uses informal language ("you know your mind and body") and may lack professional tone and clarity. According to "Communicate With Care Pocket Guide," Article 2 - Be Clear and Professional, the information suggests the language needs to be polite and professional.
+   - **Expert Reviewer's Original Suggested Change**: “You are most familiar with your own body and needs; ensure to communicate these clearly to your doctor for a collaborative discussion.”
+   - **Explanation for New Suggested Change**: To further emphasize a balanced, respectful partnership between patient and doctor, heightening the clarity and professional wording.
+   - **New Suggested Sentence**: "It is essential to communicate your unique needs and preferences clearly to your doctor for an effective collaborative approach to treatment."
+
+3. **Original Source Sentence**: "Preventing unauthorized representations."
+   - **Deviation from Guidelines**: This phrase is unclear and lacks the necessary disclaimers required for non-promotional material. According to "Disclaimer Texts for Non-promotional Material," Article 3 - General Disclaimers, the information suggests adding specific disclaimers to prevent misunderstandings.
+   - **Expert Reviewer's Original Suggested Change**: “The character and its description are for representation purposes only and do not reflect real patient experiences.”
+   - **Explanation for New Suggested Change**: To more clearly and professionally communicate the representation intent as required.
+   - **New Suggested Sentence**: “The depicted character and description are solely for illustrative purposes and do not reflect the experiences of actual patients.”
+
+By addressing the deviations from the guidelines and making improvements to the expert reviewer's suggestions, the new sentences ensure they adhere strictly to the "Non-Promotional Material Guidelines" while maintaining clarity, professionalism, and compliance.

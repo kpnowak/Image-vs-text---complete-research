@@ -1,0 +1,161 @@
+### Step 1: Identify the Prominent Language
+The prominent language of the provided document is English.
+
+### Document Grammar Review in English
+Here are the reviewed and corrected sentences:
+
+---
+
+#### Source Sentence 1
+> The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia¹
+
+##### Deviation:
+- Full stop missing at the end of the sentence.
+
+##### Corrected Sentence:
+> The first and only statin approved for the treatment of hypercholesterolaemia in teenagers with familial hypercholesterolaemia.¹
+
+***Reasoning:***
+Added a full stop to complete the sentence.
+
+---
+
+#### Source Sentence 2
+> Clinically proven efficacy and safety in paediatric patients²
+
+##### Deviation:
+- Full stop missing at the end of the sentence.
+
+##### Corrected Sentence:
+> Clinically proven efficacy and safety in paediatric patients.²
+
+***Reasoning:***
+Added a full stop to complete the sentence.
+
+---
+
+#### Source Sentence 3
+> CholeCap significantly reduces elevated total cholesterol, LDL-C and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolaemia.¹
+
+##### Deviation:
+- No deviation found.
+
+##### Corrected Sentence:
+> **No changes, as there were no grammatical errors.**
+
+---
+
+#### Source Sentence 4
+> CholeCap is clinically proven to reduce the risk of heart attack, stroke, certain kinds of heart surgeries, and chest pain. Welcome to a brighter future for your patients.
+
+##### Deviation:
+- No deviation found.
+
+##### Corrected Sentence:
+> **No changes, as there were no grammatical errors.**
+
+---
+
+#### Source Sentence 5
+> CHOLECAP (veevastatin calcium) tablets are not for everyone, including anyone who has previously had an allergic reaction to CHOLECAP. It is not for those with liver problems. And it is not for women who are nursing, pregnant, or may become pregnant.
+
+##### Deviation:
+- No deviation found.
+
+##### Corrected Sentence:
+> **No changes, as there were no grammatical errors.**
+
+---
+
+#### Source Sentence 6
+> If you take CHOLECAP (veevastatin calcium) tablets, tell your doctor if you feel any new muscle pain or weaknesses. This could be a sign of rare but serious muscle side effects. Tell your doctor about all your medical conditions and all medications you take.
+
+##### Deviation:
+- “weaknesses” should be singular as "any new muscle pain or weakness."
+
+##### Corrected Sentence:
+> If you take CHOLECAP (veevastatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness. This could be a sign of rare but serious muscle side effects. Tell your doctor about all your medical conditions and all medications you take.
+
+***Reasoning:***
+Corrected "weaknesses" to "weakness" for proper subject-verb agreement.
+
+---
+
+#### Source Sentence 7
+> This may help avoid serious drug interactions. Your doctor should do blood tests to check your liver function before starting CHOLECAP and during your treatment if you have symptoms of liver problems. Tell your doctor if you have diabetes. Elevated blood sugar levels have been reported with statins, including CHOLECAP.
+
+##### Deviation:
+- No deviation found.
+
+##### Corrected Sentence:
+> **No changes, as there were no grammatical errors.**
+
+---
+
+#### Source Sentence 8
+> Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events.
+
+##### Deviation:
+- "diarrhea" should be "diarrhoea" to conform with British English spelling.
+
+##### Corrected Sentence:
+> Common side effects are diarrhoea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events.
+
+***Reasoning:***
+Corrected "diarrhea" to "diarrhoea" for British English consistency.
+
+---
+
+The above corrections make sure the sentences are grammatically accurate and conform to British English standards. The primary focus was on punctuation, subject-verb agreement, and spelling correction while maintaining the medical terminology intact.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Step 1: Identify the Prominent Language
+The prominent language of the provided document is English.
+
+### Document Grammar Review in English
+Here are the reviewed and corrected sentences:
+
+---
+
+#### Source Sentence 6
+> If you take CHOLECAP (veevastatin calcium) tablets, tell your doctor if you feel any new muscle pain or weaknesses. This could be a sign of rare but serious muscle side effects. Tell your doctor about all your medical conditions and all medications you take.
+
+##### Deviation:
+- “weaknesses” should be singular as "any new muscle pain or weakness."
+
+##### Expert's Suggested Change:
+> If you take CHOLECAP (veevastatin calcium) tablets, tell your doctor if you feel any new muscle pain or weakness. This could be a sign of rare but serious muscle side effects. Tell your doctor about all your medical conditions and all medications you take.
+
+***Reasoning:***
+Corrected "weaknesses" to "weakness" for proper subject-verb agreement.
+
+##### Improved Suggested Change:
+> If you take CHOLECAP (veevastatin calcium) tablets, inform your doctor if you experience any new muscle pain or weakness. This may be a sign of rare but serious muscle side effects. Tell your doctor about all your medical conditions and all medications you take.
+
+***Explanation for New Suggested Change:***
+Replaced "tell" with "inform" to enhance formality and replaced "feel" with "experience" to better describe the sensation of muscle pain or weakness.
+
+#### Source Sentence 8
+> Common side effects are diarrhea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events.
+
+##### Deviation:
+- "diarrhea" should be "diarrhoea" to conform with British English spelling.
+
+##### Expert's Suggested Change:
+> Common side effects are diarrhoea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always ask their doctors for medical advice about adverse events.
+
+***Reasoning:***
+Corrected "diarrhea" to "diarrhoea" for British English consistency.
+
+##### Improved Suggested Change:
+> Common side effects include diarrhoea, upset stomach, muscle and joint pain, and changes in some blood tests. Patients should always consult their doctors for medical advice about adverse events.
+
+***Explanation for New Suggested Change:***
+Replaced "are" with "include" to provide better sentence flow and "ask their doctors for" with "consult their doctors for" to enhance formality and precision.
+
+---
+
+By following these steps and providing improvements where necessary, the document’s textual accuracy, readability, and adherence to the grammar and spelling guidelines are ensured.

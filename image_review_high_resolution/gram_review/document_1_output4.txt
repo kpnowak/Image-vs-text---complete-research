@@ -1,0 +1,201 @@
+The prominent language of the document is English.
+
+Since the document is in English, I will review it for grammatical accuracy according to the "Grammar & Spelling Guidelines."
+
+---
+
+**Source Sentence:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
+**Deviations Corrected:** None
+**Reason for Replacement:** No changes needed as the original sentence is grammatically correct.
+**New Sentence:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+---
+
+**Source Sentence:** "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+**Deviations Corrected:** None.
+**Reason for Replacement:** No changes needed as the original sentence is grammatically correct.
+**New Sentence:** "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+---
+
+**Source Sentence:** "It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you're doing right now!)—you’ll be able to communicate with your doctor more openly about treatment."
+**Deviations Corrected:** None.
+**Reason for Replacement:** No changes needed as the original sentence is grammatically correct.
+**New Sentence:** "It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you're doing right now!)—you’ll be able to communicate with your doctor more openly about treatment."
+
+---
+
+**Source Sentence:** "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+**Deviations Corrected:** None.
+**Reason for Replacement:** No changes needed as the original sentence is grammatically correct.
+**New Sentence:** "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+
+---
+
+**Source Sentence:** "You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+**Deviations Corrected:** None.
+**Reason for Replacement:** No changes needed as the original sentence is grammatically correct.
+**New Sentence:** "You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+
+---
+
+**Source Sentence:** "Come to every appointment prepared to talk, ask questions and find solutions together."
+**Deviations Corrected:** None.
+**Reason for Replacement:** No changes needed as the original sentence is grammatically correct.
+**New Sentence:** "Come to every appointment prepared to talk, ask questions and find solutions together."
+
+---
+
+**Source Sentence:** "Here are some topics to consider if you want to speak up about your type 2 diabetes treatment:"
+**Deviations Corrected:** None.
+**Reason for Replacement:** No changes needed as the original sentence is grammatically correct.
+**New Sentence:** "Here are some topics to consider if you want to speak up about your type 2 diabetes treatment:"
+
+---
+
+**Source Sentence:** "Talk about your goals."
+**Deviations Corrected:** None.
+**Reason for Replacement:** No changes needed as the original sentence is grammatically correct.
+**New Sentence:** "Talk about your goals."
+
+---
+
+**Source Sentence:** "Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
+**Deviations Corrected:** "whether, for example, it’s"
+**Reason for Replacement:** Removed the comma after "whether" to correct punctuation.
+**New Sentence:** "Share your personal goals, whether for example it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
+
+---
+
+**Source Sentence:** "Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high."
+**Deviations Corrected:** None.
+**Reason for Replacement:** No changes needed as the original sentence is grammatically correct.
+**New Sentence:** "Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high."
+
+---
+
+**Source Sentence:** "If relevant, you can also ask if there might be a better alternative that addresses these challenges."
+**Deviations Corrected:** None.
+**Reason for Replacement:** No changes needed as the original sentence is grammatically correct.
+**New Sentence:** "If relevant, you can also ask if there might be a better alternative that addresses these challenges."
+
+---
+
+**Source Sentence:** "Talk about your lifestyle, how it impacts how well your treatment is working, and if changes to your treatment plan are needed."
+**Deviations Corrected:** None.
+**Reason for Replacement:** No changes needed as the original sentence is grammatically correct.
+**New Sentence:** "Talk about your lifestyle, how it impacts how well your treatment is working, and if changes to your treatment plan are needed."
+
+---
+
+**Source Sentence:** "For example, you could be traveling a lot for work and want to make sure your medication is easy to take, or you may need more support with your weight management goals despite already eating healthily and exercising to the best of your ability."
+**Deviations Corrected:** "travelling" to "traveling"
+**Reason for Replacement:** Corrected the spelling from British English to American English for consistency with the rest of the document.
+**New Sentence:** "For example, you could be traveling a lot for work and want to make sure your medication is easy to take, or you may need more support with your weight management goals despite already eating healthily and exercising to the best of your ability."
+
+---
+
+**Source Sentence:** "Ask questions or share concerns you may have about your treatment plan."
+**Deviations Corrected:** None.
+**Reason for Replacement:** No changes needed as the original sentence is grammatically correct.
+**New Sentence:** "Ask questions or share concerns you may have about your treatment plan."
+
+---
+
+**Source Sentence:** "This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommended to you."
+**Deviations Corrected:** "experience and how" to "experience, and how"
+**Reason for Replacement:** Added a comma before "and how" to correct punctuation and improve readability.
+**New Sentence:** "This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience, and how to manage them, or any other concerns you may have about the lifestyle changes recommended to you."
+
+---
+
+**Source Sentence:** "Your doctor should be able to talk you through all of those concerns and more."
+**Deviations Corrected:** None.
+**Reason for Replacement:** No changes needed as the original sentence is grammatically correct.
+**New Sentence:** "Your doctor should be able to talk you through all of those concerns and more."
+
+---
+
+**Source Sentence:** "Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan."
+**Deviations Corrected:** None.
+**Reason for Replacement:** No changes needed as the original sentence is grammatically correct.
+**New Sentence:** "Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan."
+
+---
+
+**Source Sentence:** "Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan is working."
+**Deviations Corrected:** "plan is" to "plan are"
+**Reason for Replacement:** Corrected the verb to agree with the plural noun "changes."
+**New Sentence:** "Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan are working."
+
+---
+
+**Source Sentence:** "If you are making any changes to your treatment plan, discuss when you should follow-up on how it is working."
+**Deviations Corrected:** "follow-up" to "follow up"
+**Reason for Replacement:** Corrected the compound word "follow-up" to the correct phrasal verb "follow up."
+**New Sentence:** "If you are making any changes to your treatment plan, discuss when you should follow up on how it is working."
+
+---
+
+**Source Sentence:** "Typically, type 2 diabetes patients should see their doctor every 3-6 months to check in and re-evaluate their treatment."
+**Deviations Corrected:** None.
+**Reason for Replacement:** No changes needed as the original sentence is grammatically correct.
+**New Sentence:** "Typically, type 2 diabetes patients should see their doctor every 3-6 months to check in and re-evaluate their treatment."
+
+---
+
+**Source Sentence:** "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+**Deviations Corrected:** None.
+**Reason for Replacement:** No changes needed as the original sentence is grammatically correct.
+**New Sentence:** "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+
+---
+
+**Source Sentence:** "By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health."
+**Deviations Corrected:** "questions and" to "questions, and"
+**Reason for Replacement:** Added a comma before "and" to correct punctuation and improve readability.
+**New Sentence:** "By speaking up, asking questions, and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health."
+
+---
+
+**No changes are needed for the reference and related articles section.**
+
+---
+
+**End of Grammatical Review.**
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+**Original Sentence:** "Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
+**Deviation from the Guidelines:** Incorrect punctuation with a comma after "whether".
+**Expert Reviewer's Suggested Change:** "Share your personal goals, whether for example it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective."
+**Reason for Suggested Change:** The use of a comma after "whether" in the original sentence is incorrect and can hinder clarity.
+**New Suggested Sentence:** "Share your personal goals, whether it's better blood sugar control or weight management; for example, discuss with your doctor if your current treatment could be more effective."
+**Explanation for New Suggested Change:** The use of a semicolon here separates the conditions clearly, enhancing readability while maintaining the original sentence's meaning.
+
+**Original Sentence:** "Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high."
+**Deviation from the Guidelines:** None noted
+**Expert Reviewer's Suggested Change:** No change suggested
+**Reason for Suggested Change:** None needed, original text adheres to guidelines
+
+**Original Sentence:** "If relevant, you can also ask if there might be a better alternative that addresses these challenges."
+**Deviation from the Guidelines:** None noted
+**Expert reviewer's suggestion:** None needed, original text adheres to guidelines
+
+**Original Sentence:** "For example, you could be traveling a lot for work and want to make sure your medication is easy to take, or you may need more support with your weight management goals despite already eating healthily and exercising to the best of your ability."
+**Deviation from the Guidelines:** Incorrect spelling for "travelling" should be consistent with American English
+**Expert reviewer's suggestion:** Change "travelling" to "traveling"
+**New Suggested Sentence:** "For example, you might travel frequently for work and want to ensure your medication is easy to take, or you may need more support with your weight management goals despite already eating healthily and exercising to the best of your ability."
+**Explanation for New Suggested Change:** Modernizes and simplifies sentence for readability without changing original context
+
+**Original Sentence:** "Ask questions or share concerns you may have about your treatment plan."
+**Deviation from the Guidelines:** None noted
+**Expert reviewer's suggestion:** Not needed, original sentence adheres to guidelines
+
+**Original Sentence:** "This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommended to you."
+**Deviation from the Guidelines:** Incorrect punctuation; needs a comma before "and how to manage them".
+**Expert reviewer's suggestion:** "This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience, and how to manage them, or any other concerns you may have about the lifestyle changes recommended to you."
+**New Suggested Sentence:** "This might involve discussing how your medication works, what occurs if you miss a dose, potential side effects and their management, as well as any other concerns regarding the recommended lifestyle changes."
+**Explanation for New Suggested Change:** Optimizes sentence flow and readability, adhering to clarity guidelines.
