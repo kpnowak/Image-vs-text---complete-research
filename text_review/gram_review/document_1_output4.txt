@@ -1,0 +1,257 @@
+Step 1: Store the specific language of the document in [document_language]:
+[document_language] = English
+
+Step 2: Apply the "Grammar & Spelling Guidelines" instructed in the delimiters:
+
+### Reviews and Corrections:
+
+**1. Source Sentence:**
+When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.1
+
+**Deviation & Correction:**
+"reevaluate" should be "re-evaluate." Removed unnecessary citation "1."
+
+**New Sentence:**
+When you're living with type 2 diabetes, it's common to re-evaluate and change your treatment to adjust to your changing personal health needs.
+
+---
+
+**2. Source Sentence:**
+It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.
+
+**Deviation & Correction:**
+Missing comma after "important."
+
+**New Sentence:**
+It's important that you feel empowered, and ready to talk to your doctor whenever you feel a change could be beneficial.
+
+---
+
+**3. Source Sentence:**
+It can be difficult to start these conversations, but with your treatment goals in mindand by educating yourself more about type 2 diabetes (like youre doing right now!)youll be able to communicate with your doctor more openly about treatment.
+
+**Deviation & Correction:**
+Replace em dash "" with standard commas.
+
+**New Sentence:**
+It can be difficult to start these conversations, but with your treatment goals in mind, and by educating yourself more about type 2 diabetes (like you’re doing right now!), you’ll be able to communicate with your doctor more openly about treatment.
+
+---
+
+**4. Source Sentence:**
+Your doctor is the medical expert, but you are the one living with type 2 diabetes.
+
+**Deviation & Correction:**
+No change needed (correct as is).
+
+**New Sentence:**
+Your doctor is the medical expert, but you are the one living with type 2 diabetes.
+
+---
+
+**5. Source Sentence:**
+Share your personal goals, whether, for example, its better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+**Deviation & Correction:**
+Replace "its" with "it's."
+
+**New Sentence:**
+Share your personal goals, whether, for example, it's better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+---
+
+**6. Source Sentence:**
+Talk about your lifestyle, how it impacts how well your treatment is working, and if changes to your treatment plan are needed.
+
+**Deviation & Correction:**
+No change needed (correct as is).
+
+**New Sentence:**
+Talk about your lifestyle, how it impacts how well your treatment is working, and if changes to your treatment plan are needed.
+
+---
+
+**7. Source Sentence:**
+Ask questions or share concerns you may have about your treatment plan.
+
+**Deviation & Correction:**
+No change needed (correct as is).
+
+**New Sentence:**
+Ask questions or share concerns you may have about your treatment plan.
+
+---
+
+**8. Source Sentence:**
+Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan.
+
+**Deviation & Correction:**
+No change needed (correct as is).
+
+**New Sentence:**
+Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan.
+
+---
+
+**9. Source Sentence:**
+If you are making any changes to your treatment plan, discuss with your doctor how you should follow-up on how it is working.
+
+**Deviation & Correction:**
+"follow-up on how it is working" should be simplified for clarity.
+
+**New Sentence:**
+If you are making any changes to your treatment plan, discuss with your doctor how you should follow up to see if it is working.
+
+---
+
+**10. Source Sentence:**
+Typo "toward" instead of "towards."
+
+**Deviation & Correction:**
+No change as "towards" is correct in British English.
+
+**New Sentence:**
+Remember, this conversation is about working together with your doctor to find the best treatment option for you. By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health.
+
+---
+
+**11. Source Sentence:**
+Buse JB, Wexler DJ, Tsapas A, et al
+
+**Deviation & Correction:**
+No change needed (reference details are correct as per citation format).
+
+**New Sentence:**
+Buse JB, Wexler DJ, Tsapas A, et al.
+
+---
+
+**12. Source Sentence:**
+Type 2 diabetes treatments
+
+**Deviation & Correction:**
+No change needed.
+
+**New Sentence:**
+Type 2 diabetes treatments
+
+---
+
+**13. Source Sentence:**
+This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommendation to you.
+
+**Deviation & Correction:**
+Fixes "recommendation" to "recommended."
+
+**New Sentence:**
+This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommended to you.
+
+---
+
+These concise corrections are intended to fix grammatical and punctuation issues while ensuring readability and clarity according to British English standards.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Reviews and Corrections:
+
+**1. Original Sentence:**
+When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.1
+
+**Deviation from Guidelines:**
+Unnecessary citation should be ignored, and hyphens/dashes formatting should not be corrected.
+
+**Expert Reviewer's Original Suggested Change:**
+When you're living with type 2 diabetes, it's common to re-evaluate and change your treatment to adjust to your changing personal health needs.
+
+**Explanation:**
+The original correction deviates from the guideline by addressing hyphen usage, which is to be avoided. Removing the unnecessary citation "1" is correct.
+
+**New Suggested Sentence:**
+When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.
+
+---
+
+**2. Original Sentence:**
+It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.
+
+**Deviation from Guidelines:**
+The expert reviewer incorrectly suggests adding a comma, which disrupts the sentence's flow.
+
+**Expert Reviewer's Original Suggested Change:**
+It's important that you feel empowered, and ready to talk to your doctor whenever you feel a change could be beneficial.
+
+**Explanation:**
+The additional comma is unnecessary and does not improve clarity or readability.
+
+**New Suggested Sentence:**
+It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.
+
+---
+
+**3. Original Sentence:**
+It can be difficult to start these conversations, but with your treatment goals in mindand by educating yourself more about type 2 diabetes (like you’re doing right now!)you’ll be able to communicate with your doctor more openly about treatment.
+
+**Deviation from Guidelines:**
+Replace em dash "" with standard commas.
+
+**Expert Reviewer's Original Suggested Change:**
+It can be difficult to start these conversations, but with your treatment goals in mind, and by educating yourself more about type 2 diabetes (like you’re doing right now!), you’ll be able to communicate with your doctor more openly about treatment.
+
+**Explanation:**
+The expert's suggestion disrupts the readability and clarity by replacing the em dash with commas. Em dashes are appropriate for adding emphasis here.
+
+**New Suggested Sentence:**
+It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment.
+
+---
+
+**5. Original Sentence:**
+Share your personal goals, whether, for example, its better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+**Deviation from Guidelines:**
+Correcting the typographical encoding issue but retain the phrasing, as punctuation around "for example" is incorrectly handled. 
+
+**Expert Reviewer's Original Suggested Change:**
+Share your personal goals, whether, for example, it's better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+**Explanation:**
+The expert did not properly address the punctuation issue around "for example."
+
+**New Suggested Sentence:**
+Share your personal goals, whether it’s better blood sugar control or weight management, for example, and discuss with your doctor if your current treatment could be more effective.
+
+---
+
+**9. Original Sentence:**
+If you are making any changes to your treatment plan, discuss with your doctor how you should follow-up on how it is working.
+
+**Deviation from Guidelines:**
+The expert reviewer's suggestion still uses complex phrasing that can be simplified further for clarity.
+
+**Expert Reviewer's Original Suggested Change:**
+If you are making any changes to your treatment plan, discuss with your doctor how you should follow up to see if it is working.
+
+**Explanation:**
+Simplifying this sentence further improves its readability and clarity.
+
+**New Suggested Sentence:**
+If you are making any changes to your treatment plan, discuss with your doctor how you should follow up to check its effectiveness.
+
+---
+
+**13. Original Sentence:**
+This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommendation to you.
+
+**Deviation from Guidelines:**
+The expert reviewer mistakenly addresses only a minor error and does not resolve the missing comma after "dose."
+
+**Expert Reviewer's Original Suggested Change:**
+This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommended to you.
+
+**Explanation:**
+The expert's correction is partial, as it misses the necessary comma to enhance the clarity.
+
+**New Suggested Sentence:**
+This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience, and how to manage them or any other concerns you may have about the lifestyle changes recommended to you.

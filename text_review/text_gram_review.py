@@ -3,7 +3,9 @@ import base64
 import time
 import os
 
-
+os.environ['AZURE_OPENAI_API_KEY'] = 'Put Your OpenAI API Key here'
+os.environ['AZURE_OPENAI_ENDPOINT'] = 'Put your OpenAI endpoint here'
+os.environ['OPENAI_API_VERSION'] = "Put your OpenAI API version here"
 
 client = AzureOpenAI(
     api_key=os.getenv("AZURE_OPENAI_API_KEY"),  
@@ -100,6 +102,8 @@ Please provide the following response for each of the comments you've improved u
 - The deviations your new sentence corrects.
 - The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations.
 - Your new sentence
+
+Remember that this review needs to be saved by Python algorithm to txt file, so avoid this error: "UnicodeEncodeError: 'charmap' codec can't encode character '\x97' in position 1349: character maps to <undefined>"
 """
 
 def combiner(response1, response2):
@@ -176,6 +180,8 @@ def text_review_5():
             - The expert reviewer's original suggested change
             - An explanation for the reason behind your new suggested change in the same language as the issue.
             - Your new suggested sentence
+
+        Remember that this review needs to be saved by Python algorithm to txt file, so avoid this error: "UnicodeEncodeError: 'charmap' codec can't encode character '\x97' in position 1349: character maps to <undefined>"
         """
 
         # chef review code
@@ -192,7 +198,7 @@ def text_review_5():
         # Stop the timer
         end_time = time.time()
 
-        with open(f"text_review\\gram_review\\document_1_output{i + 1}.txt", "w") as f:
+        with open(f"text_review\\gram_review\\document_1_output{i + 1}.txt", "w", encoding="utf-8") as f:
             f.write(combined_response)
 
         # Calculate the elapsed CPU time

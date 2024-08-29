@@ -1,0 +1,281 @@
+Sure, I'll review the document according to the specific guidelines provided. Here are the corrections:
+
+1. **Source Sentence:**
+   It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.
+   
+   **Deviations:**
+   None noted. Technical punctuation may imply the need for a comma.
+
+   **Reason for Replacement:**
+   Improve clarity and readability with better punctuation. 
+
+   **New Sentence:**
+   It's important that you feel empowered and ready to talk to your doctor whenever you feel that a change could be beneficial.
+
+2. **Source Sentence:**
+   It can be difficult to start these conversations, but with your treatment goals in mindand by educating yourself more about type 2 diabetes (like youre doing right now!)youll be able to communicate with your doctor more openly about treatment.
+
+   **Deviations:**
+   Non-standard punctuation used ('' and '').
+
+   **Reason for Replacement:**
+   Replace non-standard punctuation with standard punctuation marks. 
+
+   **New Sentence:**
+   It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment.
+
+3. **Source Sentence:**
+   Your doctor is the medical expert, but you are the one living with type 2 diabetes.
+
+   **Deviations:**
+   None noted.
+
+   **Reason for Replacement:**
+   Maintain clarity while adhering exactly to language guidelines. No change necessary.
+
+   **New Sentence:**
+   No change necessary.
+
+4. **Source Sentence:**
+   Share your personal goals, whether, for example, its better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+   **Deviations:**
+   Non-standard punctuation ('') and slightly convoluted phrasing.
+
+   **Reason for Replacement:**
+   Use standard apostrophes and clarify the example within the sentence. 
+
+   **New Sentence:**
+   Share your personal goals, for example, better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+5. **Source Sentence:**
+   Discuss any difficulties youve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.
+
+   **Deviations:**
+   Non-standard punctuation ('') and slight adjustment of punctuation clarity by potentially replacing hyphen.
+
+   **Reason for Replacement:**
+   Use standard apostrophes and more appropriate punctuation.
+
+   **New Sentence:**
+   Discuss any difficulties you’ve experienced with your current treatment: such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.
+
+6. **Source Sentence:**
+   Talk about your lifestyle, how it impacts how well your treatment is working, and if changes to your treatment plan are needed.
+
+   **Deviations:**
+   Redundant use of "how."
+
+   **Reason for Replacement:**
+   Streamline sentence to avoid redundancy.
+
+   **New Sentence:**
+   Talk about your lifestyle, its impact on how well your treatment is working, and if changes to your treatment plan are needed.
+
+7. **Source Sentence:**
+   This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommendation to you.
+
+   **Deviations:**
+   Slight syntactical improvement for clarity.
+
+   **Reason for Replacement:**
+   Rearrange sentence for improved clarity and fluidity.
+
+   **New Sentence:**
+   This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the recommended lifestyle changes.
+
+8. **Source Sentence:**
+   Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan is working.
+   
+   **Deviations:**
+   Subject-verb agreement.
+
+   **Reason for Replacement:**
+   Improve grammatically to ensure subject-verb agreement.
+
+   **New Sentence:**
+   Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan are working.
+
+9. **Source Sentence:**
+   Discuss with your doctor how you should follow-up on how it is working.
+
+   **Deviations:**
+   Clarify repetition of "how."
+
+   **Reason for Replacement:**
+   Avoid redundancy by rephrasing sentence.
+
+   **New Sentence:**
+   Discuss with your doctor how you should follow-up to evaluate its effectiveness.
+
+10. **Source Sentence:**
+   Typically, type 2 diabetes patients should see their doctor every 3-6 months to check in and re-evaluate their treatments.
+   
+   **Deviations:**
+   None necessary but better flow with less prepositional phrasing.
+
+   **Reason for Replacement:**
+   Minimal rephrasing for clarity and fluidity.
+
+   **New Sentence:**
+   Typically, type 2 diabetes patients should see their doctors every 3-6 months to check in and reassess their treatments.
+
+Each correction aims to adhere strictly to grammar, punctuation, clarity, and readability, thereby enhancing the overall quality of the document.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+Step 1: Identify the prominent language of the document. 
+- The document is in English.
+
+Step 2: If [document_language] == French and English, then [document_language] == English. Skip reviewing any French content.
+- [document_language] is English.
+
+Step 3: Translate the prompt if [document_language] != English. 
+- Not applicable since the document language is English.
+
+Step 4: Study the prompt and "Grammar & Spelling Guidelines", "IMPORTANT CONSIDERATIONS WHILE REVIEWING".
+
+Step 5: Work through each of the comments provided by the expert reviewer.
+Step 6: Verify that the expert's suggested change adheres to the guidelines.
+Step 7: Make improvements to the expert's suggested changes if necessary.
+
+**Review of Expert Comments:**
+
+1. **Original Sentence:**
+   It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.
+
+   **Deviation:**
+   The expert's review did not identify any deviations or necessary changes.
+
+   **Expert's Suggested Change:**
+   It's important that you feel empowered and ready to talk to your doctor whenever you feel that a change could be beneficial.
+
+   **Explanation:**
+   The expert suggestion is perfect as is, no changes are necessary per guidelines on clarity and readability.
+
+2. **Original Sentence:**
+   It can be difficult to start these conversations, but with your treatment goals in mindand by educating yourself more about type 2 diabetes (like youre doing right now!)youll be able to communicate with your doctor more openly about treatment.
+
+   **Deviation:**
+   Non-standard punctuation used ('' and '').
+
+   **Expert's Suggested Change:**
+   It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment.
+
+   **Explanation:**
+   Expert reviewer's new sentence correctly replaced non-standard punctuation with standard punctuation marks. No further change needed. However, let's ensure clarity on removing OCR artifacts to standard characters.
+
+   **New Suggested Sentence:**
+   It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment.
+
+3. **Original Sentence:**
+   Share your personal goals, whether, for example, its better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+   **Deviation:**
+   Non-standard punctuation ('') and slightly convoluted phrasing.
+
+   **Expert's Suggested Change:**
+   Share your personal goals, for example, better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+   **Explanation:**
+   The expert's suggested change simplifies the phasing correctly and uses standard apostrophes.
+
+   **New Suggested Sentence:**
+   Share your personal goals, for example, better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+4. **Original Sentence:**
+   Discuss any difficulties youve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.
+
+   **Deviation:**
+   Non-standard punctuation ('').
+
+   **Expert's Suggested Change:**
+   Discuss any difficulties you’ve experienced with your current treatment: such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.
+
+   **Reason for Modification:**
+   The colon after "treatment" should be replaced with a dash instead. 
+
+   **New Suggested Sentence:**
+   Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.
+
+5. **Original Sentence:**
+   Talk about your lifestyle, how it impacts how well your treatment is working, and if changes to your treatment plan are needed.
+
+   **Deviation:**
+   Redundant use of "how."
+
+   **Expert's Suggested Change:**
+   Talk about your lifestyle, its impact on how well your treatment is working, and if changes to your treatment plan are needed.
+
+   **Explanation:**
+   The expert's suggested change adheres to guidelines for clarity and readability.
+
+   **New Suggested Sentence:**
+   Talk about your lifestyle, its impact on how well your treatment is working, and if changes to your treatment plan are needed.
+
+6. **Original Sentence:**
+   This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommendation to you.
+
+   **Deviation:**
+   Slight syntactical improvement for clarity.
+
+   **Expert's Suggested Change:**
+   This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the recommended lifestyle changes.
+
+   **Explanation:**
+   Minor syntactical adjustment improves readability. The expert reviewer’s suggested correction adheres to the guidelines.
+
+   **New Suggested Sentence:**
+   This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the recommended lifestyle changes.
+
+7. **Original Sentence:**
+   Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan is working.
+
+   **Deviation:**
+   Subject-verb agreement.
+
+   **Expert's Suggested Change:**
+   Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan are working.
+
+   **Explanation:**
+   The expert reviewer corrected the subject-verb agreement. No further changes needed.
+
+   **New Suggested Sentence:**
+   Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan are working.
+
+8. **Original Sentence:**
+   Discuss with your doctor how you should follow-up on how it is working.
+
+   **Deviation:**
+   Repetition of "how."
+
+   **Expert's Suggested Change:**
+   Discuss with your doctor how you should follow-up to evaluate its effectiveness.
+
+   **Explanation:**
+   The expert’s suggestion reduces redundancy and improves clarity.
+
+   **New Suggested Sentence:**
+   Discuss with your doctor how you should follow-up to evaluate its effectiveness.
+
+9. **Original Sentence:**
+   Typically, type 2 diabetes patients should see their doctor every 3-6 months to check in and re-evaluate their treatments.
+
+   **Deviation:**
+   None noted.
+
+   **Expert's Suggested Change:**
+   Typically, type 2 diabetes patients should see their doctors every 3-6 months to check in and reassess their treatments.
+
+   **Explanation:**
+   The minimal rephrasing enhances clarity and fluidity. However, changing "doctor" to "doctors" is unintended stylistic alteration. Let’s revert to singular form as per the original sentence.
+
+   **New Suggested Sentence:**
+   Typically, type 2 diabetes patients should see their doctor every 3-6 months to check in and reassess their treatments.
+
+Thus, the review was conducted ensuring clarity while adhering to the specified "Grammar & Spelling Guidelines" accurately handling redundancy, punctuation, and grammar issues comprehensibly.
+
+--- 
+Note: This file needs to be saved without special character encoding issues. Removing characters like '' and '' ensures the text remains compatible with Python algorithms for saving outputs successfully.

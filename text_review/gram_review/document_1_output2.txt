@@ -1,0 +1,297 @@
+**[document_language]**: English
+
+---
+
+**Source Sentence:** 
+When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.1
+
+**Deviations Corrected:**
+Corrected grammar and punctuation by removing the incorrect citation marker at the end.
+
+**Reason for Replacement:**
+The citation marker "1" should not interrupt the flow of the sentence and should be placed where it is contextually appropriate or at the end of the paragraph.
+
+**New Sentence:**
+When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.
+
+---
+
+**Source Sentence:** 
+It can be difficult to start these conversations, but with your treatment goals in mindand by educating yourself more about type 2 diabetes (like youre doing right now!)youll be able to communicate with your doctor more openly about treatment.
+
+**Deviations Corrected:**
+Removed the non-standard and inconsistent usage of the em dash and corrected contractions.
+
+**Reason for Replacement:**
+Improving clarity and readability by normalizing punctuation and ensuring contractions are clear.
+
+**New Sentence:**
+It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment.
+
+---
+
+**Source Sentence:** 
+You know your mind and body, and its important to advocate for your needs and preferences during your discussion.
+
+**Deviations Corrected:**
+Corrected contraction.
+
+**Reason for Replacement:**
+Improving consistency and readability.
+
+**New Sentence:**
+You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion.
+
+---
+
+**Source Sentence:** 
+Share your personal goals, whether, for example, its better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+**Deviations Corrected:**
+Corrected contraction.
+
+**Reason for Replacement:**
+Improving consistency and readability.
+
+**New Sentence:**
+Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+---
+
+**Source Sentence:** 
+Discuss any difficulties youve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.
+
+**Deviations Corrected:**
+Corrected contraction and ensured proper punctuation.
+
+**Reason for Replacement:**
+Enhancing readability and ensuring proper punctuation usage.
+
+**New Sentence:**
+Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.
+
+---
+
+**Source Sentence:** 
+If relevant, you can also ask if there might be a better alternative that addresses these challenges.
+
+**Deviations Corrected:**
+None specifically mentioned.
+
+**Reason for Replacement:**
+No significant grammatical deviations; sentence structure is already clear and correct.
+
+**New Sentence:**
+If relevant, you can also ask if there might be a better alternative that addresses these challenges.
+
+---
+
+**Source Sentence:** 
+For example, you could be travelling a lot for work and want to make sure your medication is easy to take, or you may need more support with your weight management goals despite already eating healthily and exercising to the best of your ability.
+
+**Deviations Corrected:**
+Corrected the spelling of "travelling" and ensured proper sentence structure and comma usage.
+
+**Reason for Replacement:**
+Improving readability and ensuring correct British English spelling.
+
+**New Sentence:**
+For example, you could be travelling a lot for work and want to make sure your medication is easy to take, or you may need more support with your weight management goals despite already eating healthily and exercising to the best of your ability.
+
+---
+
+**Source Sentence:** 
+Ask questions or share concerns you may have about your treatment plan. This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommendation to you.
+
+**Deviations Corrected:**
+Corrected sentence structure for clarity and grammar, particularly the phrase "lifestyle changes recommendation to you."
+
+**Reason for Replacement:**
+Improving clarity and readability.
+
+**New Sentence:**
+Ask questions or share any concerns you may have about your treatment plan. This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommended to you.
+
+---
+
+**Source Sentence:** 
+Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan is working.
+
+**Deviations Corrected:**
+Corrected verb agreement error.
+
+**Reason for Replacement:**
+Ensuring correct verb agreement and sentence clarity.
+
+**New Sentence:**
+Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan are working.
+
+---
+
+**Source Sentence:** 
+Typically, type 2 diabetes patients should see their doctor every 3-6 months to check in and re-evaluate their treatments.
+
+**Deviations Corrected:**
+None.
+
+**Reason for Replacement:**
+Sentence is grammatically correct and clear.
+
+**New Sentence:**
+Typically, type 2 diabetes patients should see their doctor every 3-6 months to check in and re-evaluate their treatments.
+
+---
+
+**Source Sentence:** 
+By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health.
+
+**Deviations Corrected:**
+None.
+
+**Reason for Replacement:**
+Sentence is grammatically correct and clear.
+
+**New Sentence:**
+By speaking up, asking questions, and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health.
+
+---
+
+**Source Sentence:** 
+The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor.
+
+**Deviations Corrected:**
+Corrected minor grammatical error.
+
+**Reason for Replacement:**
+Ensuring correct grammar by changing "education purpose" to "educational purposes."
+
+**New Sentence:**
+The information on this website is intended for educational purposes only and should not be substituted for medical advice from your doctor.
+
+---
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Reviewed Comments:
+
+1. **Source Sentence:** 
+   When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.1
+
+   **Deviation from the guidelines:** 
+   Corrected placement of citation marker without impacting grammatical correctness.
+
+   **Expert Reviewer's Original Suggested Change:** 
+   When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.
+
+   **Explanation for the reason behind your new suggested change:** 
+   The expert reviewer correctly identified the need to move the citation marker; however, providing a revised sentence without this marker brings clarity to the sentence without suggesting unwarranted changes.
+
+   **New Suggested Sentence:** 
+   When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.
+
+2. **Source Sentence:** 
+   It can be difficult to start these conversations, but with your treatment goals in mindand by educating yourself more about type 2 diabetes (like youre doing right now!)youll be able to communicate with your doctor more openly about treatment.
+
+   **Deviation from the guidelines:** 
+   Corrected the non-standard em dash and contractions.
+
+   **Expert Reviewer's Original Suggested Change:** 
+   It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment.
+
+   **Explanation for the reason behind your new suggested change:** 
+   The expert reviewer correctly identifies the need for proper punctuation and the use of contractions. The suggested sentence should reflect these corrections within the required guidelines.
+
+   **New Suggested Sentence:** 
+   It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment.
+
+3. **Source Sentence:** 
+   You know your mind and body, and its important to advocate for your needs and preferences during your discussion.
+
+   **Deviation from the guidelines:** 
+   Corrected contraction for consistency.
+
+   **Expert Reviewer's Original Suggested Change:** 
+   You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion.
+
+   **Explanation for the reason behind your new suggested change:** 
+   This change is accurate based on correcting contractions, contributing to overall readability and consistency within the document.
+
+   **New Suggested Sentence:** 
+   You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion.
+
+4. **Source Sentence:** 
+   Share your personal goals, whether, for example, its better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+   **Deviation from the guidelines:** 
+   Corrected the contraction for consistency.
+
+   **Expert Reviewer's Original Suggested Change:** 
+   Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+   **Explanation for the reason behind your new suggested change:** 
+   The suggested sentence fixes the contractions without altering the meaning, maintaining clarity and readability.
+
+   **New Suggested Sentence:** 
+   Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+5. **Source Sentence:** 
+   Discuss any difficulties youve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.
+
+   **Deviation from the guidelines:** 
+   Corrected the contraction and ensured proper punctuation.
+
+   **Expert Reviewer's Original Suggested Change:** 
+   Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.
+
+   **Explanation for the reason behind your new suggested change:** 
+   The provided sentence appropriately corrects the use of contractions and an em dash to align with standard punctuation practices and improve readability.
+
+   **New Suggested Sentence:** 
+   Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.
+
+6. **Source Sentence:** 
+   Ask questions or share concerns you may have about your treatment plan. This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommendation to you.
+
+   **Deviation from the guidelines:** 
+   Corrected sentence structure for clarity and grammar, particularly the phrase "lifestyle changes recommendation to you."
+
+   **Expert Reviewer's Original Suggested Change:** 
+   Ask questions or share any concerns you may have about your treatment plan. This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommended to you.
+
+   **Explanation for the reason behind your new suggested change:** 
+   The expert reviewer’s suggested change properly clarifies the sentence structure, aligning with guidelines to improve clarity and readability.
+
+   **New Suggested Sentence:** 
+   Ask questions or share any concerns you may have about your treatment plan. This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommended to you.
+
+7. **Source Sentence:** 
+   Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan is working.
+
+   **Deviation from the guidelines:** 
+   Corrected verb agreement error.
+
+   **Expert Reviewer's Original Suggested Change:** 
+   Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan are working.
+
+   **Explanation for the reason behind your new suggested change:** 
+   The suggested change ensures correct verb agreement, contributing to the grammatical correctness of the sentence.
+
+   **New Suggested Sentence:** 
+   Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan are working.
+
+8. **Source Sentence:** 
+   The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor.
+
+   **Deviation from the guidelines:** 
+   Corrected minor grammatical error.
+
+   **Expert Reviewer's Original Suggested Change:** 
+   The information on this website is intended for educational purposes only and should not be substituted for medical advice from your doctor.
+
+   **Explanation for the reason behind your new suggested change:** 
+   The expert reviewer’s correction appropriately addresses the minor grammatical error, ensuring the language used is accurate.
+
+   **New Suggested Sentence:** 
+   The information on this website is intended for educational purposes only and should not be substituted for medical advice from your doctor.

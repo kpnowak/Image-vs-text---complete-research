@@ -1,0 +1,284 @@
+The document language identified is English. Below are the corrected sentences with their corresponding deviations and reasons for correction.
+
+---
+
+**Source Sentence:** 
+When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.1
+
+**Deviation Corrected:** Incorrect use of "reevaluate” and number formatting.
+
+**Reason for Correction:** Ensuring proper spelling and consistent numbering format.
+
+**New Sentence:**
+When you're living with type 2 diabetes, it's common to re-evaluate and change your treatment to adjust to your changing personal health needs.
+
+---
+
+**Source Sentence:** 
+It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. It can be difficult to start these conversations, but with your treatment goals in mindand by educating yourself more about type 2 diabetes (like youre doing right now!)youll be able to communicate with your doctor more openly about treatment.
+
+**Deviation Corrected:** Incorrect use of dashes.
+
+**Reason for Correction:** Ensuring proper punctuation to improve readability.
+
+**New Sentence:**
+It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment.
+
+---
+
+**Source Sentence:** 
+Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and its important to advocate for your needs and preferences during your discussion.
+
+**Deviation Corrected:** Incorrect apostrophe usage.
+
+**Reason for Correction:** Ensuring proper punctuation to maintain clarity.
+
+**New Sentence:**
+Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion.
+
+---
+
+**Source Sentence:** 
+Share your personal goals, whether, for example, its better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+**Deviation Corrected:** Incorrect apostrophe usage.
+
+**Reason for Correction:** Ensuring proper punctuation to maintain clarity.
+
+**New Sentence:**
+Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+---
+
+**Source Sentence:** 
+Discuss any difficulties youve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.
+
+**Deviation Corrected:** Incorrect apostrophe usage.
+
+**Reason for Correction:** Ensuring proper punctuation to maintain clarity.
+
+**New Sentence:**
+Discuss any difficulties you’ve experienced with your current treatment — such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.
+
+---
+
+**Source Sentence:** 
+Ask questions or share concerns you may have about your treatment plan. This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommendation to you.
+
+**Deviation Corrected:** Sentence restructuring for clarity.
+
+**Reason for Correction:** Improving clarity and readability.
+
+**New Sentence:**
+Ask questions or share concerns you may have about your treatment plan. This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the recommended lifestyle changes.
+
+---
+
+**Source Sentence:**
+Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan. Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan is working.
+
+**Deviation Corrected:** Subject-verb agreement.
+
+**Reason for Correction:** Ensuring the correct verb agreement for grammatical accuracy.
+
+**New Sentence:**
+Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan. Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan are working.
+
+---
+
+**Source Sentence:** 
+If you are making any changes to your treatment plan, discuss with your doctor how you should follow-up on how it is working.
+
+**Deviation Corrected:** Missing verb agreement.
+
+**Reason for Correction:** Improving the fluidity and grammatical accuracy.
+
+**New Sentence:**
+If you are making any changes to your treatment plan, discuss with your doctor how you should follow-up on its progress.
+
+---
+
+**Source Sentence:** 
+Typically, type 2 diabetes patients should see their doctor every 3-6 months to check in and re-evaluate their treatments.
+
+**Deviation Corrected:** Number formatting and consistent terminology.
+
+**Reason for Correction:** Ensuring consistency and readability.
+
+**New Sentence:**
+Typically, type 2 diabetes patients should see their doctor every three to six months to check in and re-evaluate their treatments.
+
+---
+
+**Source Sentence:** 
+By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health.
+
+**Deviation Corrected:** Missing comma for clarity.
+
+**Reason for Correction:** Ensuring proper use of commas to enhance readability.
+
+**New Sentence:**
+By speaking up, asking questions, and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health.
+
+---
+
+**Source Sentence:** 
+The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor.
+
+**Deviation Corrected:** Incorrect word form and missing plural.
+
+**Reason for Correction:** Ensuring proper word form and subject-verb agreement.
+
+**New Sentence:**
+The information on this website is intended for educational purposes only and should not be substituted for medical advice from your doctor.
+
+---
+
+By making these corrections, the overall clarity, readability, and grammatical accuracy of the document have been significantly improved.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+1. **Original Sentence:**
+   When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.1
+
+   **Deviation from the guidelines:** The correction of "reevaluate" to "re-evaluate" is unnecessary and goes against the instruction to avoid correcting hyphen usage.
+
+   **Expert reviewer's original suggested change:**
+   When you're living with type 2 diabetes, it's common to re-evaluate and change your treatment to adjust to your changing personal health needs.
+
+   **Explanation for my change:** The word "reevaluate" is an accepted spelling in English and follows modern usage trends. Correcting the hyphen-counter hyphen usage is unnecessary as per the guidelines.
+
+   **New suggested sentence:**
+   When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.
+
+2. **Original Sentence:**
+   It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. It can be difficult to start these conversations, but with your treatment goals in mindand by educating yourself more about type 2 diabetes (like youre doing right now!)youll be able to communicate with your doctor more openly about treatment.
+
+   **Deviation from the guidelines:** Using em dashes "—" instead of hyphens "" without changing from improper character encoding ''.
+
+   **Expert reviewer's original suggested change:**
+   It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment.
+
+   **Explanation for my change:** Correcting the character encoding and ensuring the use of a valid em dash character "—".
+
+   **New suggested sentence:**
+   It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment.
+
+3. **Original Sentence:**
+   Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and its important to advocate for your needs and preferences during your discussion.
+
+   **Deviation from the guidelines:** Incorrect apostrophe character "" not properly identified and replaced.
+
+   **Expert reviewer's original suggested change:**
+   Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion.
+
+   **Explanation for my change:** Correct apostrophe character should be used instead of "".
+
+   **New suggested sentence:**
+   Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it's important to advocate for your needs and preferences during your discussion.
+
+4. **Original Sentence:**
+   Share your personal goals, whether, for example, its better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+   **Deviation from the guidelines:** Incorrect apostrophe character "" not properly identified and replaced.
+
+   **Expert reviewer's original suggested change:**
+   Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+   **Explanation for my change:** Correct apostrophe character should be used instead of "".
+
+   **New suggested sentence:**
+   Share your personal goals, whether, for example, it's better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.
+
+5. **Original Sentence:**
+   Discuss any difficulties youve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.
+
+   **Deviation from the guidelines:** Incorrect apostrophe character "" not properly identified and replaced.
+
+   **Expert reviewer's original suggested change:**
+   Discuss any difficulties you’ve experienced with your current treatment — such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.
+
+   **Explanation for my change:** Correct apostrophe character should be used instead of "". Also ensuring to use a consistent spacing around the em dashes.
+
+   **New suggested sentence:**
+   Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.
+
+6. **Original Sentence:**
+   Ask questions or share concerns you may have about your treatment plan. This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommendation to you.
+
+   **Deviation from the guidelines:** The correction applied does not completely address the clarity issue; the sentence remains convoluted.
+
+   **Expert reviewer's original suggested change:**
+   Ask questions or share concerns you may have about your treatment plan. This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the recommended lifestyle changes.
+
+   **Explanation for my change:** The sentence structure needs to be further simplified for better clarity.
+
+   **New suggested sentence:**
+   Ask questions or share concerns you may have about your treatment plan. This includes understanding how your medication works, what happens if you miss a dose, possible side effects and how to manage them, or any concerns about recommended lifestyle changes.
+
+7. **Original Sentence:**
+   Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan. Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan is working.
+
+   **Deviation from the guidelines:** The correction is appropriate but the improvement suggested can further enhance readability and clarity.
+
+   **Expert reviewer's original suggested change:**
+   Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan. Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan are working.
+
+   **Explanation for my change:** The sentence requires restructuring for better clarity and to ensure grammatical accuracy.
+
+   **New suggested sentence:**
+   Set realistic expectations with your doctor regarding the timeline and outcomes of your treatment plan. Knowing what to expect can help you stay motivated and assess if any changes you’ve made to your treatment plan are effective.
+
+8. **Original Sentence:**
+   If you are making any changes to your treatment plan, discuss with your doctor how you should follow-up on how it is working.
+
+   **Deviation from the guidelines:** The correction does not fully address the poor structure and potential ambiguity of the sentence.
+
+   **Expert reviewer's original suggested change:**
+   If you are making any changes to your treatment plan, discuss with your doctor how you should follow-up on its progress.
+
+   **Explanation for my change:** The sentence should be made clearer and grammatically correct, avoiding redundancy.
+
+   **New suggested sentence:**
+   If you are making any changes to your treatment plan, discuss with your doctor how to follow up on its effectiveness.
+
+9. **Original Sentence:**
+   Typically, type 2 diabetes patients should see their doctor every 3-6 months to check in and re-evaluate their treatments.
+
+   **Deviation from the guidelines:** The change to words ("three to six") for numbers does not need correction.
+
+   **Expert reviewer's original suggested change:**
+   Typically, type 2 diabetes patients should see their doctor every three to six months to check in and re-evaluate their treatments.
+
+   **Explanation for my change:** The original numerical format is appropriate and does not require alteration according to the guidelines.
+
+   **New suggested sentence:**
+   Typically, type 2 diabetes patients should see their doctor every 3-6 months to check in and re-evaluate their treatments.
+
+10. **Original Sentence:**
+    By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health.
+
+    **Deviation from the guidelines:** The added comma for clarity is necessary but can be further refined.
+
+    **Expert reviewer's original suggested change:**
+    By speaking up, asking questions, and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health.
+
+    **Explanation for my change:** Emphasize clarity and readability by ensuring proper use of commas and alignment with guideline recommendations.
+
+    **New suggested sentence:**
+    By speaking up, asking questions, and participating in the decision-making process, you can create a personalized plan that empowers you on your journey towards better health.
+
+11. **Original Sentence:**
+    The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor.
+
+    **Deviation from the guidelines:** The expert reviewer's correction appropriately addresses pluralization and word form issues.
+
+    **Expert reviewer's original suggested change:**
+    The information on this website is intended for educational purposes only and should not be substituted for medical advice from your doctor.
+
+    **Explanation for my change:** No further change is needed as the expert reviewer's correction adheres to the guidelines and corrects the grammatical issues.
+
+    **New suggested sentence:**
+    The information on this website is intended for educational purposes only and should not be substituted for medical advice from your doctor.

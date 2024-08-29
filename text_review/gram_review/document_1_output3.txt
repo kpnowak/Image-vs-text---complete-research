@@ -1,0 +1,219 @@
+1. **Source Sentence**:
+   `When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.1`
+   
+   **Corrections**:
+   - Remove space before superscript citation (it may be related to extraction formatting)
+   
+   **Revised Sentence**:
+   `When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.¹`
+
+2. **Source Sentence**:
+   `It can be difficult to start these conversations, but with your treatment goals in mindand by educating yourself more about type 2 diabetes (like youre doing right now!)youll be able to communicate with your doctor more openly about treatment.`
+   
+   **Corrections**:
+   - Replace non-standard hyphens with standard dashes
+   - Replace irregular apostrophes with standard apostrophes
+   
+   **Revised Sentence**:
+   `It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you'll be able to communicate with your doctor more openly about treatment.`
+
+3. **Source Sentence**:
+   `Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and its important to advocate for your needs and preferences during your discussion.`
+   
+   **Corrections**:
+   - Replace irregular apostrophes with standard apostrophes
+   
+   **Revised Sentence**:
+   `Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion.`
+
+4. **Source Sentence**:
+   `Goals Share your personal goals, whether, for example, its better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.`
+   
+   **Corrections**:
+   - Replace irregular apostrophes with standard apostrophes
+   
+   **Revised Sentence**:
+   `Goals Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.`
+
+5. **Source Sentence**:
+   `Challenges Discuss any difficulties youve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.`
+   
+   **Corrections**:
+   - Replace irregular apostrophes with standard apostrophes
+   
+   **Revised Sentence**:
+   `Challenges Discuss any difficulties you’ve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.`
+
+6. **Source Sentence**:
+   `Share concerns you may have about your treatment plan. This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommendation to you.`
+   
+   **Corrections**:
+   - Improve the clarity of the phrase "lifestyle changes recommendation to you" to "lifestyle changes recommended to you"
+   
+   **Revised Sentence**:
+   `Share concerns you may have about your treatment plan. This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommended to you.`
+
+7. **Source Sentence**:
+   `Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan is working.`
+   
+   **Corrections**:
+   - Correct singular agreement from "is" to "are" to match plural subject "changes"
+   
+   **Revised Sentence**:
+   `Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan are working.`
+
+8. **Source Sentence**:
+   `Remember, this conversation is about working together with your doctor to find the best treatment option for you. By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health.`
+   
+   **Corrections**:
+   - No grammatical error; sentence correctly constructed
+   
+   **Revised Sentence**:
+   `Remember, this conversation is about working together with your doctor to find the best treatment option for you. By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health.`
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+Okay, let's carry out the review step-by-step:
+
+### Step 1: Identify the Prominent Language:
+- The prominent language of the document is English.
+
+### Step 2: If Document Language is French and English:
+- Since the document language is predominantly English, we will proceed with the English review.
+
+### Step 3 and Step 4: Study the Prompt and Guidelines, and Work Through Each Comment:
+
+#### Comment 1:
+- **Source Sentence**:
+  `When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.1`
+  
+  The expert reviewer's change:
+  - Remove the space before the superscript citation.
+  
+  This correction adheres to the specific guidelines for punctuation and does not require further adjustments.
+
+#### Comment 2:
+- **Source Sentence**:
+  `It can be difficult to start these conversations, but with your treatment goals in mindand by educating yourself more about type 2 diabetes (like youre doing right now!)youll be able to communicate with your doctor more openly about treatment.`
+  
+  **Expert Suggested Change**:
+  - Replace non-standard hyphens with standard dashes.
+  - Replace irregular apostrophes with standard apostrophes.
+
+  **Deviations**:
+  - Correct except for suggesting replacements for non-standard hyphens, which the guidelines indicate to avoid.
+  - Irregular apostrophes should be replaced with standard ones.
+
+  **Revised Sentence**:
+  `It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment.`
+  
+  **Explanation for Changes**:
+  - Correct the irregular apostrophes as suggested but avoid reviewing the hyphen usage.
+
+  **New Suggested Sentence**:
+  `It can be difficult to start these conversations, but with your treatment goals in mind (like you’re doing right now!) you’ll be able to communicate with your doctor more openly about treatment.`
+
+#### Comment 3:
+- **Source Sentence**:
+  `Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and its important to advocate for your needs and preferences during your discussion.`
+  
+  **Expert Suggestion**:
+  - Replace irregular apostrophes with standard apostrophes.
+
+  **Deviations**:
+  - Correct suggestion as per the guidelines.
+
+  **Revised Sentence**:
+  `Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion.`
+
+No change is required here beyond the expert's suggested, so this does not need to be improved further.
+
+#### Comment 4:
+- **Source Sentence**:
+  `Goals Share your personal goals, whether, for example, its better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.`
+  
+  **Expert Suggestion**:
+  - Replace irregular apostrophes with standard apostrophes.
+
+  **Deviations**:
+  - Correct suggestion as per the guidelines.
+
+  **Revised Sentence**:
+  `Goals Share your personal goals, whether, for example, it’s better blood sugar control or weight management, and discuss with your doctor if your current treatment could be more effective.`
+
+No change is required here beyond the expert's suggested, so this does not need to be improved further.
+
+#### Comment 5:
+- **Source Sentence**:
+  `Challenges Discuss any difficulties youve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.`
+  
+  **Expert Suggestion**:
+  - Replace irregular apostrophes with standard apostrophes.
+
+  **Deviations**:
+  - Correct suggestion as per the guidelines.
+
+  **Revised Sentence**:
+  
+  `Challenges Discuss any difficulties you’ve experienced with your current treatment - such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, or if the cost is too high.`
+
+No change is required here beyond the expert's suggested, so this does not need to be improved further.
+
+#### Comment 6:
+- **Source Sentence**:
+  `Share concerns you may have about your treatment plan. This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience and how to manage them, or any other concerns you may have about the lifestyle changes recommendation to you.`
+  
+  **Expert Suggestion**:
+  - Improve the clarity of the phrase "lifestyle changes recommendation to you" to "lifestyle changes recommended to you."
+
+  **Deviations**:
+  - Correct suggestion as per the guidelines.
+
+  **Revised Sentence**:
+  `Share concerns you may have about your treatment plan. This can mean talking through and understanding how your medication works, what happens if you miss a dose, any side effects you could experience, and how to manage them, or any other concerns you may have about the lifestyle changes recommended to you.`
+
+No change is required here beyond the expert's suggested, so this does not need to be improved further.
+
+#### Comment 7:
+- **Source Sentence**:
+  `Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan is working.`
+
+  **Expert Suggestion**:
+  - Correct the singular agreement from "is" to "are" to match the plural subject "changes."
+
+  **Deviations**:
+  - Correct suggestion as per the guidelines.
+  
+  **Revised Sentence**:
+  `Understanding what to expect can help you stay motivated and evaluate if any changes you have made to your treatment plan are working.`
+
+No new suggested change is required here as the expert's suggestion adheres to guidelines.
+
+#### Comment 8:
+- **Source Sentence**:
+  `Remember, this conversation is about working together with your doctor to find the best treatment option for you. By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that could empower you on your journey towards better health.`
+  
+  **Expert Suggestion**:
+  - No grammatical error.
+
+  This does not need to be changed as it adheres to the guidelines.
+
+### Summary:
+The review reveals that the majority of the expert changes are correct and adhere to the guidelines. Only one reviewed comment (Comment 2) required slight adjustment considering guidelines and avoiding reviewing hyphens:
+
+- **Original Sentence**:
+  `It can be difficult to start these conversations, but with your treatment goals in mindand by educating yourself more about type 2 diabetes (like youre doing right now!)youll be able to communicate with your doctor more openly about treatment.`
+  
+  - Deviation:
+  - Suggests replacements for non-standard hyphens, unnecessary per guidelines.
+
+  - Expert Suggested Sentence:
+  `It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment.`
+
+  - New Explanation:
+  Avoid reviewing hyphen usage while correcting irregular apostrophes.
+
+  - New Suggested Sentence:
+  `It can be difficult to start these conversations, but with your treatment goals in mind (like you’re doing right now!) you’ll be able to communicate with your doctor more openly about treatment.`
