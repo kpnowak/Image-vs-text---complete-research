@@ -13,6 +13,7 @@ client = AzureOpenAI(
     azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT")
 )
 
+
 #### 
 ####  Put a path to the transcription of the document that you are interested in.
 ####

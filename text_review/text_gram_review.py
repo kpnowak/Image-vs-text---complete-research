@@ -3,6 +3,7 @@ import base64
 import time
 import os
 
+
 os.environ['AZURE_OPENAI_API_KEY'] = 'Put Your OpenAI API Key here'
 os.environ['AZURE_OPENAI_ENDPOINT'] = 'Put your OpenAI endpoint here'
 os.environ['OPENAI_API_VERSION'] = "Put your OpenAI API version here"

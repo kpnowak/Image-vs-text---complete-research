@@ -3,6 +3,7 @@ import base64
 import time
 import os
 
+
 os.environ['AZURE_OPENAI_API_KEY'] = 'Put Your OpenAI API Key here'
 os.environ['AZURE_OPENAI_ENDPOINT'] = 'Put your OpenAI endpoint here'
 os.environ['OPENAI_API_VERSION'] = "Put your OpenAI API version here"
@@ -13,11 +14,12 @@ client = AzureOpenAI(
     azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT")
 )
 
+
 #### 
 ####  Put a path to the transcription of the document that you are interested in.
 ####
 
-doc_num = 3
+doc_num = 1
 
 with open(f'documents_text_low_resolution\\document_{doc_num}.txt', 'r', encoding='latin-1') as file:
     jpg_to_txt_content = file.read()

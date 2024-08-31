@@ -411,7 +411,8 @@ def both_review_with_image_5():
         response = client.chat.completions.create(
             model="gpt-4o",
             messages=[
-                {"role":"assistant","content":"You are a helpful assistant that combines reviews to make them better."},
+                {"role":"assistant","content":"""You are a helpful assistant that 
+                                                combines reviews to make them better."""},
                 {
                 
                 "role": "user",
